@@ -1,0 +1,1273 @@
+BIOSAMPLE	ATTRIBUTE	VALUE
+SAMN04262535	ENA_first_public	2025-10-14
+SAMN04262535	ENA-CHECKLIST	ERC000047
+SAMN04262535	GUNC_clade_separation_score	0.29
+SAMN04262535	GUNC_contamination_score	0.04
+SAMN04262535	GUNC_reference_representation_score	0.87
+SAMN04262535	GUNC_version	GUNC v1.0.6
+SAMN04262535	INSDC_center_name	EMBL Heidelberg
+SAMN04262535	INSDC_status	public
+SAMN04262535	MAG_coverage_software	bwa mem
+SAMN04262535	SPIRE_genome_cluster	https://spire.embl.de/spire/v1/cluster/specI_v4_00168
+SAMN04262535	SPIRE_genome_id	https://spire.embl.de/spire/v1/genome/spire_mag_01092203
+SAMN04262535	Submitter_Id	spire_mag_01092203
+SAMN04262535	assembly_quality	Many fragments with little to no review of assembly other than reporting of standard assembly statistics
+SAMN04262535	assembly_software	megahit 1.2.9
+SAMN04262535	binning_parameters	tetramer and coverage
+SAMN04262535	binning_software	metaBAT2 v2.12.1
+SAMN04262535	env_broad_scale	missing: third party data
+SAMN04262535	collection_date	missing: third party data
+SAMN04262535	completeness_score	93.76
+SAMN04262535	completeness_software	CheckM2 v0.1.3
+SAMN04262535	contamination_score	1.94
+SAMN04262535	contig_N50	15687
+SAMN04262535	derived_from_assembly	ERZ27289542
+SAMN04262535	env_medium	missing: third party data
+SAMN04262535	geo_loc_name	missing: third party data
+SAMN04262535	geographic_location_(latitude)	missing: third party data
+SAMN04262535	geographic_location_(longitude)	missing: third party data
+SAMN04262535	isolation_source	missing: third party data
+SAMN04262535	linked_to_SPIRE_sample	https://spire.embl.de/spire/v1/sample/75806
+SAMN04262535	linked_to_SPIRE_study	https://spire.embl.de/spire/v1/study/501
+SAMN04262535	linked_to_analysis_project	ERP175227
+SAMN04262535	local_environmental_context	missing: third party data
+SAMN04262535	metagenomic_source	metagenomes
+SAMN04262535	number_of_contigs	236
+SAMN04262535	project_name	SPIRE v1: a Searchable Planetary-scale mIcrobiome REsource
+SAMN04262535	sample_derived_from	SAMN04262535
+SAMN04262535	sample_name	spire_mag_01092203
+SAMN04262535	scientific_name	Lachnospiraceae bacterium
+SAMN04262535	taxonomic_classification	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Agathobacter;s__Agathobacter rectalis
+SAMN04262535	taxonomic_classification_software	GTDBtk v2.3.2_r214
+SAMN04262535	taxonomic_identity_marker	multi-marker approach
+SAMN04262537	ENA_first_public	2025-10-13
+SAMN04262537	ENA-CHECKLIST	ERC000047
+SAMN04262537	GUNC_clade_separation_score	0.0
+SAMN04262537	GUNC_contamination_score	0.0
+SAMN04262537	GUNC_reference_representation_score	0.94
+SAMN04262537	GUNC_version	GUNC v1.0.6
+SAMN04262537	INSDC_center_name	EMBL Heidelberg
+SAMN04262537	INSDC_status	public
+SAMN04262537	MAG_coverage_software	bwa mem
+SAMN04262537	SPIRE_genome_cluster	https://spire.embl.de/spire/v1/cluster/specI_v4_00075
+SAMN04262537	SPIRE_genome_id	https://spire.embl.de/spire/v1/genome/spire_mag_01092857
+SAMN04262537	Submitter_Id	spire_mag_01092857
+SAMN04262537	assembly_quality	Many fragments with little to no review of assembly other than reporting of standard assembly statistics
+SAMN04262537	assembly_software	megahit 1.2.9
+SAMN04262537	binning_parameters	tetramer and coverage
+SAMN04262537	binning_software	metaBAT2 v2.12.1
+SAMN04262537	env_broad_scale	missing: third party data
+SAMN04262537	collection_date	missing: third party data
+SAMN04262537	completeness_score	80.07
+SAMN04262537	completeness_software	CheckM2 v0.1.3
+SAMN04262537	contamination_score	2.22
+SAMN04262537	contig_N50	7286
+SAMN04262537	derived_from_assembly	ERZ27289543
+SAMN04262537	env_medium	missing: third party data
+SAMN04262537	geo_loc_name	missing: third party data
+SAMN04262537	geographic_location_(latitude)	missing: third party data
+SAMN04262537	geographic_location_(longitude)	missing: third party data
+SAMN04262537	isolation_source	missing: third party data
+SAMN04262537	linked_to_SPIRE_sample	https://spire.embl.de/spire/v1/sample/75770
+SAMN04262537	linked_to_SPIRE_study	https://spire.embl.de/spire/v1/study/501
+SAMN04262537	linked_to_analysis_project	ERP175227
+SAMN04262537	local_environmental_context	missing: third party data
+SAMN04262537	metagenomic_source	metagenomes
+SAMN04262537	number_of_contigs	230
+SAMN04262537	project_name	SPIRE v1: a Searchable Planetary-scale mIcrobiome REsource
+SAMN04262537	sample_derived_from	SAMN04262537
+SAMN04262537	sample_name	spire_mag_01092857
+SAMN04262537	scientific_name	Bifidobacterium adolescentis
+SAMN04262537	taxonomic_classification	d__Bacteria;p__Actinomycetota;c__Actinomycetia;o__Actinomycetales;f__Bifidobacteriaceae;g__Bifidobacterium;s__Bifidobacterium adolescentis
+SAMN04262537	taxonomic_classification_software	GTDBtk v2.3.2_r214
+SAMN04262537	taxonomic_identity_marker	multi-marker approach
+SAMN04262538	ENA_first_public	2025-10-14
+SAMN04262538	ENA-CHECKLIST	ERC000047
+SAMN04262538	GUNC_clade_separation_score	0.0
+SAMN04262538	GUNC_contamination_score	0.0
+SAMN04262538	GUNC_reference_representation_score	0.91
+SAMN04262538	GUNC_version	GUNC v1.0.6
+SAMN04262538	INSDC_center_name	EMBL Heidelberg
+SAMN04262538	INSDC_status	public
+SAMN04262538	MAG_coverage_software	bwa mem
+SAMN04262538	SPIRE_genome_cluster	https://spire.embl.de/spire/v1/cluster/specI_v4_00349
+SAMN04262538	SPIRE_genome_id	https://spire.embl.de/spire/v1/genome/spire_mag_01090444
+SAMN04262538	Submitter_Id	spire_mag_01090444
+SAMN04262538	assembly_quality	Many fragments with little to no review of assembly other than reporting of standard assembly statistics
+SAMN04262538	assembly_software	megahit 1.2.9
+SAMN04262538	binning_parameters	tetramer and coverage
+SAMN04262538	binning_software	metaBAT2 v2.12.1
+SAMN04262538	env_broad_scale	missing: third party data
+SAMN04262538	collection_date	missing: third party data
+SAMN04262538	completeness_score	59.71
+SAMN04262538	completeness_software	CheckM2 v0.1.3
+SAMN04262538	contamination_score	0.74
+SAMN04262538	contig_N50	4977
+SAMN04262538	derived_from_assembly	ERZ27289545
+SAMN04262538	env_medium	missing: third party data
+SAMN04262538	geo_loc_name	missing: third party data
+SAMN04262538	geographic_location_(latitude)	missing: third party data
+SAMN04262538	geographic_location_(longitude)	missing: third party data
+SAMN04262538	isolation_source	missing: third party data
+SAMN04262538	linked_to_SPIRE_sample	https://spire.embl.de/spire/v1/sample/75917
+SAMN04262538	linked_to_SPIRE_study	https://spire.embl.de/spire/v1/study/501
+SAMN04262538	linked_to_analysis_project	ERP175227
+SAMN04262538	local_environmental_context	missing: third party data
+SAMN04262538	metagenomic_source	metagenomes
+SAMN04262538	number_of_contigs	244
+SAMN04262538	project_name	SPIRE v1: a Searchable Planetary-scale mIcrobiome REsource
+SAMN04262538	sample_derived_from	SAMN04262538
+SAMN04262538	sample_name	spire_mag_01090444
+SAMN04262538	scientific_name	Ligilactobacillus ruminis
+SAMN04262538	taxonomic_classification	d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Ligilactobacillus;s__Ligilactobacillus ruminis
+SAMN04262538	taxonomic_classification_software	GTDBtk v2.3.2_r214
+SAMN04262538	taxonomic_identity_marker	multi-marker approach
+SAMN04262539	ENA_first_public	2025-10-14
+SAMN04262539	ENA-CHECKLIST	ERC000047
+SAMN04262539	GUNC_clade_separation_score	0.43
+SAMN04262539	GUNC_contamination_score	0.03
+SAMN04262539	GUNC_reference_representation_score	0.86
+SAMN04262539	GUNC_version	GUNC v1.0.6
+SAMN04262539	INSDC_center_name	EMBL Heidelberg
+SAMN04262539	INSDC_status	public
+SAMN04262539	MAG_coverage_software	bwa mem
+SAMN04262539	SPIRE_genome_cluster	https://spire.embl.de/spire/v1/cluster/specI_v4_00168
+SAMN04262539	SPIRE_genome_id	https://spire.embl.de/spire/v1/genome/spire_mag_01091901
+SAMN04262539	Submitter_Id	spire_mag_01091901
+SAMN04262539	assembly_quality	Many fragments with little to no review of assembly other than reporting of standard assembly statistics
+SAMN04262539	assembly_software	megahit 1.2.9
+SAMN04262539	binning_parameters	tetramer and coverage
+SAMN04262539	binning_software	metaBAT2 v2.12.1
+SAMN04262539	env_broad_scale	missing: third party data
+SAMN04262539	collection_date	missing: third party data
+SAMN04262539	completeness_score	63.28
+SAMN04262539	completeness_software	CheckM2 v0.1.3
+SAMN04262539	contamination_score	2.04
+SAMN04262539	contig_N50	4695
+SAMN04262539	derived_from_assembly	ERZ27289547
+SAMN04262539	env_medium	missing: third party data
+SAMN04262539	geo_loc_name	missing: third party data
+SAMN04262539	geographic_location_(latitude)	missing: third party data
+SAMN04262539	geographic_location_(longitude)	missing: third party data
+SAMN04262539	isolation_source	missing: third party data
+SAMN04262539	linked_to_SPIRE_sample	https://spire.embl.de/spire/v1/sample/75844
+SAMN04262539	linked_to_SPIRE_study	https://spire.embl.de/spire/v1/study/501
+SAMN04262539	linked_to_analysis_project	ERP175227
+SAMN04262539	local_environmental_context	missing: third party data
+SAMN04262539	metagenomic_source	metagenomes
+SAMN04262539	number_of_contigs	368
+SAMN04262539	project_name	SPIRE v1: a Searchable Planetary-scale mIcrobiome REsource
+SAMN04262539	sample_derived_from	SAMN04262539
+SAMN04262539	sample_name	spire_mag_01091901
+SAMN04262539	scientific_name	Lachnospiraceae bacterium
+SAMN04262539	taxonomic_classification	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Agathobacter;s__Agathobacter rectalis
+SAMN04262539	taxonomic_classification_software	GTDBtk v2.3.2_r214
+SAMN04262539	taxonomic_identity_marker	multi-marker approach
+SAMN04262540	ENA_first_public	2025-09-16
+SAMN04262540	ENA-CHECKLIST	ERC000011
+SAMN04262540	INSDC_center_name	EMBL Heidelberg
+SAMN04262540	INSDC_status	public
+SAMN04262540	Submitter_Id	spire_sample_75816
+SAMN04262540	collection_date	missing: third party data
+SAMN04262540	geo_loc_name	missing: third party data
+SAMN04262540	sample_name	spire_sample_75816
+SAMN04262540	scientific_name	metagenome
+SAMN04262541	ENA_first_public	2025-10-13
+SAMN04262541	ENA-CHECKLIST	ERC000047
+SAMN04262541	GUNC_clade_separation_score	0.0
+SAMN04262541	GUNC_contamination_score	0.0
+SAMN04262541	GUNC_reference_representation_score	0.95
+SAMN04262541	GUNC_version	GUNC v1.0.6
+SAMN04262541	INSDC_center_name	EMBL Heidelberg
+SAMN04262541	INSDC_status	public
+SAMN04262541	MAG_coverage_software	bwa mem
+SAMN04262541	SPIRE_genome_cluster	https://spire.embl.de/spire/v1/cluster/specI_v4_00075
+SAMN04262541	SPIRE_genome_id	https://spire.embl.de/spire/v1/genome/spire_mag_01090910
+SAMN04262541	Submitter_Id	spire_mag_01090910
+SAMN04262541	assembly_quality	Many fragments with little to no review of assembly other than reporting of standard assembly statistics
+SAMN04262541	assembly_software	megahit 1.2.9
+SAMN04262541	binning_parameters	tetramer and coverage
+SAMN04262541	binning_software	metaBAT2 v2.12.1
+SAMN04262541	env_broad_scale	missing: third party data
+SAMN04262541	collection_date	missing: third party data
+SAMN04262541	completeness_score	81.23
+SAMN04262541	completeness_software	CheckM2 v0.1.3
+SAMN04262541	contamination_score	6.14
+SAMN04262541	contig_N50	8360
+SAMN04262541	derived_from_assembly	ERZ27289546
+SAMN04262541	env_medium	missing: third party data
+SAMN04262541	geo_loc_name	missing: third party data
+SAMN04262541	geographic_location_(latitude)	missing: third party data
+SAMN04262541	geographic_location_(longitude)	missing: third party data
+SAMN04262541	isolation_source	missing: third party data
+SAMN04262541	linked_to_SPIRE_sample	https://spire.embl.de/spire/v1/sample/75960
+SAMN04262541	linked_to_SPIRE_study	https://spire.embl.de/spire/v1/study/501
+SAMN04262541	linked_to_analysis_project	ERP175227
+SAMN04262541	local_environmental_context	missing: third party data
+SAMN04262541	metagenomic_source	metagenomes
+SAMN04262541	number_of_contigs	227
+SAMN04262541	project_name	SPIRE v1: a Searchable Planetary-scale mIcrobiome REsource
+SAMN04262541	sample_derived_from	SAMN04262541
+SAMN04262541	sample_name	spire_mag_01090910
+SAMN04262541	scientific_name	Bifidobacterium adolescentis
+SAMN04262541	taxonomic_classification	d__Bacteria;p__Actinomycetota;c__Actinomycetia;o__Actinomycetales;f__Bifidobacteriaceae;g__Bifidobacterium;s__Bifidobacterium adolescentis
+SAMN04262541	taxonomic_classification_software	GTDBtk v2.3.2_r214
+SAMN04262541	taxonomic_identity_marker	multi-marker approach
+SAMN04262542	ENA_first_public	2025-10-14
+SAMN04262542	ENA-CHECKLIST	ERC000047
+SAMN04262542	GUNC_clade_separation_score	0.28
+SAMN04262542	GUNC_contamination_score	0.42
+SAMN04262542	GUNC_reference_representation_score	0.48
+SAMN04262542	GUNC_version	GUNC v1.0.6
+SAMN04262542	INSDC_center_name	EMBL Heidelberg
+SAMN04262542	INSDC_status	public
+SAMN04262542	MAG_coverage_software	bwa mem
+SAMN04262542	SPIRE_genome_cluster	https://spire.embl.de/spire/v1/cluster/spire_v1_095_000231896
+SAMN04262542	SPIRE_genome_id	https://spire.embl.de/spire/v1/genome/spire_mag_01092329
+SAMN04262542	Submitter_Id	spire_mag_01092329
+SAMN04262542	assembly_quality	Many fragments with little to no review of assembly other than reporting of standard assembly statistics
+SAMN04262542	assembly_software	megahit 1.2.9
+SAMN04262542	binning_parameters	tetramer and coverage
+SAMN04262542	binning_software	metaBAT2 v2.12.1
+SAMN04262542	env_broad_scale	missing: third party data
+SAMN04262542	collection_date	missing: third party data
+SAMN04262542	completeness_score	96.25
+SAMN04262542	completeness_software	CheckM2 v0.1.3
+SAMN04262542	contamination_score	1.11
+SAMN04262542	contig_N50	15472
+SAMN04262542	derived_from_assembly	ERZ27289548
+SAMN04262542	env_medium	missing: third party data
+SAMN04262542	geo_loc_name	missing: third party data
+SAMN04262542	geographic_location_(latitude)	missing: third party data
+SAMN04262542	geographic_location_(longitude)	missing: third party data
+SAMN04262542	isolation_source	missing: third party data
+SAMN04262542	linked_to_SPIRE_sample	https://spire.embl.de/spire/v1/sample/75724
+SAMN04262542	linked_to_SPIRE_study	https://spire.embl.de/spire/v1/study/501
+SAMN04262542	linked_to_analysis_project	ERP175227
+SAMN04262542	local_environmental_context	missing: third party data
+SAMN04262542	metagenomic_source	metagenomes
+SAMN04262542	number_of_contigs	229
+SAMN04262542	project_name	SPIRE v1: a Searchable Planetary-scale mIcrobiome REsource
+SAMN04262542	sample_derived_from	SAMN04262542
+SAMN04262542	sample_name	spire_mag_01092329
+SAMN04262542	scientific_name	Eubacteriaceae bacterium
+SAMN04262542	taxonomic_classification	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Eubacteriales;f__Eubacteriaceae;g__UBA7485;s__
+SAMN04262542	taxonomic_classification_software	GTDBtk v2.3.2_r214
+SAMN04262542	taxonomic_identity_marker	multi-marker approach
+SAMN04262543	ENA_first_public	2025-10-14
+SAMN04262543	ENA-CHECKLIST	ERC000047
+SAMN04262543	GUNC_clade_separation_score	0.28
+SAMN04262543	GUNC_contamination_score	0.37
+SAMN04262543	GUNC_reference_representation_score	0.66
+SAMN04262543	GUNC_version	GUNC v1.0.6
+SAMN04262543	INSDC_center_name	EMBL Heidelberg
+SAMN04262543	INSDC_status	public
+SAMN04262543	MAG_coverage_software	bwa mem
+SAMN04262543	SPIRE_genome_cluster	https://spire.embl.de/spire/v1/cluster/specI_v4_00170
+SAMN04262543	SPIRE_genome_id	https://spire.embl.de/spire/v1/genome/spire_mag_01090534
+SAMN04262543	Submitter_Id	spire_mag_01090534
+SAMN04262543	assembly_quality	Many fragments with little to no review of assembly other than reporting of standard assembly statistics
+SAMN04262543	assembly_software	megahit 1.2.9
+SAMN04262543	binning_parameters	tetramer and coverage
+SAMN04262543	binning_software	metaBAT2 v2.12.1
+SAMN04262543	env_broad_scale	missing: third party data
+SAMN04262543	collection_date	missing: third party data
+SAMN04262543	completeness_score	84.63
+SAMN04262543	completeness_software	CheckM2 v0.1.3
+SAMN04262543	contamination_score	8.61
+SAMN04262543	contig_N50	10034
+SAMN04262543	derived_from_assembly	ERZ27289550
+SAMN04262543	env_medium	missing: third party data
+SAMN04262543	geo_loc_name	missing: third party data
+SAMN04262543	geographic_location_(latitude)	missing: third party data
+SAMN04262543	geographic_location_(longitude)	missing: third party data
+SAMN04262543	isolation_source	missing: third party data
+SAMN04262543	linked_to_SPIRE_sample	https://spire.embl.de/spire/v1/sample/75860
+SAMN04262543	linked_to_SPIRE_study	https://spire.embl.de/spire/v1/study/501
+SAMN04262543	linked_to_analysis_project	ERP175227
+SAMN04262543	local_environmental_context	missing: third party data
+SAMN04262543	metagenomic_source	metagenomes
+SAMN04262543	number_of_contigs	381
+SAMN04262543	project_name	SPIRE v1: a Searchable Planetary-scale mIcrobiome REsource
+SAMN04262543	sample_derived_from	SAMN04262543
+SAMN04262543	sample_name	spire_mag_01090534
+SAMN04262543	scientific_name	Blautia wexlerae
+SAMN04262543	taxonomic_classification	d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Blautia_A;s__Blautia_A wexlerae
+SAMN04262543	taxonomic_classification_software	GTDBtk v2.3.2_r214
+SAMN04262543	taxonomic_identity_marker	multi-marker approach
+SAMN04262544	ENA_first_public	2025-09-16
+SAMN04262544	ENA-CHECKLIST	ERC000011
+SAMN04262544	INSDC_center_name	EMBL Heidelberg
+SAMN04262544	INSDC_status	public
+SAMN04262544	Submitter_Id	spire_sample_75790
+SAMN04262544	collection_date	missing: third party data
+SAMN04262544	geo_loc_name	missing: third party data
+SAMN04262544	sample_name	spire_sample_75790
+SAMN04262544	scientific_name	metagenome
+SAMN04262546	ENA_first_public	2025-10-13
+SAMN04262546	ENA-CHECKLIST	ERC000047
+SAMN04262546	GUNC_clade_separation_score	0.21
+SAMN04262546	GUNC_contamination_score	0.05
+SAMN04262546	GUNC_reference_representation_score	0.74
+SAMN04262546	GUNC_version	GUNC v1.0.6
+SAMN04262546	INSDC_center_name	EMBL Heidelberg
+SAMN04262546	INSDC_status	public
+SAMN04262546	MAG_coverage_software	bwa mem
+SAMN04262546	SPIRE_genome_cluster	https://spire.embl.de/spire/v1/cluster/specI_v4_35034
+SAMN04262546	SPIRE_genome_id	https://spire.embl.de/spire/v1/genome/spire_mag_01092746
+SAMN04262546	Submitter_Id	spire_mag_01092746
+SAMN04262546	assembly_quality	Many fragments with little to no review of assembly other than reporting of standard assembly statistics
+SAMN04262546	assembly_software	megahit 1.2.9
+SAMN04262546	binning_parameters	tetramer and coverage
+SAMN04262546	binning_software	metaBAT2 v2.12.1
+SAMN04262546	env_broad_scale	missing: third party data
+SAMN04262546	collection_date	missing: third party data
+SAMN04262546	completeness_score	78.99
+SAMN04262546	completeness_software	CheckM2 v0.1.3
+SAMN04262546	contamination_score	0.91
+SAMN04262546	contig_N50	5295
+SAMN04262546	derived_from_assembly	ERZ27289551
+SAMN04262546	env_medium	missing: third party data
+SAMN04262546	geo_loc_name	missing: third party data
+SAMN04262546	geographic_location_(latitude)	missing: third party data
+SAMN04262546	geographic_location_(longitude)	missing: third party data
+SAMN04262546	isolation_source	missing: third party data
+SAMN04262546	linked_to_SPIRE_sample	https://spire.embl.de/spire/v1/sample/75760
+SAMN04262546	linked_to_SPIRE_study	https://spire.embl.de/spire/v1/study/501
+SAMN04262546	linked_to_analysis_project	ERP175227
+SAMN04262546	local_environmental_context	missing: third party data
+SAMN04262546	metagenomic_source	metagenomes
+SAMN04262546	number_of_contigs	386
+SAMN04262546	project_name	SPIRE v1: a Searchable Planetary-scale mIcrobiome REsource
+SAMN04262546	sample_derived_from	SAMN04262546
+SAMN04262546	sample_name	spire_mag_01092746
+SAMN04262546	scientific_name	Uruburuella suis
+SAMN04262546	taxonomic_classification	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Neisseriaceae;g__Neisseria;s__Neisseria suis
+SAMN04262546	taxonomic_classification_software	GTDBtk v2.3.2_r214
+SAMN04262546	taxonomic_identity_marker	multi-marker approach
+SAMN04262547	ENA_first_public	2025-10-14
+SAMN04262547	ENA-CHECKLIST	ERC000047
+SAMN04262547	GUNC_clade_separation_score	0.3
+SAMN04262547	GUNC_contamination_score	0.02
+SAMN04262547	GUNC_reference_representation_score	0.71
+SAMN04262547	GUNC_version	GUNC v1.0.6
+SAMN04262547	INSDC_center_name	EMBL Heidelberg
+SAMN04262547	INSDC_status	public
+SAMN04262547	MAG_coverage_software	bwa mem
+SAMN04262547	SPIRE_genome_cluster	https://spire.embl.de/spire/v1/cluster/specI_v4_35034
+SAMN04262547	SPIRE_genome_id	https://spire.embl.de/spire/v1/genome/spire_mag_01090341
+SAMN04262547	Submitter_Id	spire_mag_01090341
+SAMN04262547	assembly_quality	Many fragments with little to no review of assembly other than reporting of standard assembly statistics
+SAMN04262547	assembly_software	megahit 1.2.9
+SAMN04262547	binning_parameters	tetramer and coverage
+SAMN04262547	binning_software	metaBAT2 v2.12.1
+SAMN04262547	env_broad_scale	missing: third party data
+SAMN04262547	collection_date	missing: third party data
+SAMN04262547	completeness_score	50.71
+SAMN04262547	completeness_software	CheckM2 v0.1.3
+SAMN04262547	contamination_score	0.58
+SAMN04262547	contig_N50	4238
+SAMN04262547	derived_from_assembly	ERZ27289552
+SAMN04262547	env_medium	missing: third party data
+SAMN04262547	geo_loc_name	missing: third party data
+SAMN04262547	geographic_location_(latitude)	missing: third party data
+SAMN04262547	geographic_location_(longitude)	missing: third party data
+SAMN04262547	isolation_source	missing: third party data
+SAMN04262547	linked_to_SPIRE_sample	https://spire.embl.de/spire/v1/sample/75903
+SAMN04262547	linked_to_SPIRE_study	https://spire.embl.de/spire/v1/study/501
+SAMN04262547	linked_to_analysis_project	ERP175227
+SAMN04262547	local_environmental_context	missing: third party data
+SAMN04262547	metagenomic_source	metagenomes
+SAMN04262547	number_of_contigs	307
+SAMN04262547	project_name	SPIRE v1: a Searchable Planetary-scale mIcrobiome REsource
+SAMN04262547	sample_derived_from	SAMN04262547
+SAMN04262547	sample_name	spire_mag_01090341
+SAMN04262547	scientific_name	Uruburuella suis
+SAMN04262547	taxonomic_classification	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Neisseriaceae;g__Neisseria;s__Neisseria suis
+SAMN04262547	taxonomic_classification_software	GTDBtk v2.3.2_r214
+SAMN04262547	taxonomic_identity_marker	multi-marker approach
+SAMN04262548	ENA_first_public	2025-10-13
+SAMN04262548	ENA-CHECKLIST	ERC000047
+SAMN04262548	GUNC_clade_separation_score	0.0
+SAMN04262548	GUNC_contamination_score	0.0
+SAMN04262548	GUNC_reference_representation_score	0.95
+SAMN04262548	GUNC_version	GUNC v1.0.6
+SAMN04262548	INSDC_center_name	EMBL Heidelberg
+SAMN04262548	INSDC_status	public
+SAMN04262548	MAG_coverage_software	bwa mem
+SAMN04262548	SPIRE_genome_cluster	https://spire.embl.de/spire/v1/cluster/specI_v4_00075
+SAMN04262548	SPIRE_genome_id	https://spire.embl.de/spire/v1/genome/spire_mag_01091812
+SAMN04262548	Submitter_Id	spire_mag_01091812
+SAMN04262548	assembly_quality	Many fragments with little to no review of assembly other than reporting of standard assembly statistics
+SAMN04262548	assembly_software	megahit 1.2.9
+SAMN04262548	binning_parameters	tetramer and coverage
+SAMN04262548	binning_software	metaBAT2 v2.12.1
+SAMN04262548	env_broad_scale	missing: third party data
+SAMN04262548	collection_date	missing: third party data
+SAMN04262548	completeness_score	84.51
+SAMN04262548	completeness_software	CheckM2 v0.1.3
+SAMN04262548	contamination_score	1.57
+SAMN04262548	contig_N50	7713
+SAMN04262548	derived_from_assembly	ERZ27289553
+SAMN04262548	env_medium	missing: third party data
+SAMN04262548	geo_loc_name	missing: third party data
+SAMN04262548	geographic_location_(latitude)	missing: third party data
+SAMN04262548	geographic_location_(longitude)	missing: third party data
+SAMN04262548	isolation_source	missing: third party data
+SAMN04262548	linked_to_SPIRE_sample	https://spire.embl.de/spire/v1/sample/75837
+SAMN04262548	linked_to_SPIRE_study	https://spire.embl.de/spire/v1/study/501
+SAMN04262548	linked_to_analysis_project	ERP175227
+SAMN04262548	local_environmental_context	missing: third party data
+SAMN04262548	metagenomic_source	metagenomes
+SAMN04262548	number_of_contigs	255
+SAMN04262548	project_name	SPIRE v1: a Searchable Planetary-scale mIcrobiome REsource
+SAMN04262548	sample_derived_from	SAMN04262548
+SAMN04262548	sample_name	spire_mag_01091812
+SAMN04262548	scientific_name	Bifidobacterium adolescentis
+SAMN04262548	taxonomic_classification	d__Bacteria;p__Actinomycetota;c__Actinomycetia;o__Actinomycetales;f__Bifidobacteriaceae;g__Bifidobacterium;s__Bifidobacterium adolescentis
+SAMN04262548	taxonomic_classification_software	GTDBtk v2.3.2_r214
+SAMN04262548	taxonomic_identity_marker	multi-marker approach
+SAMN04262549	ENA_first_public	2025-10-13
+SAMN04262549	ENA-CHECKLIST	ERC000047
+SAMN04262549	GUNC_clade_separation_score	0.32
+SAMN04262549	GUNC_contamination_score	0.17
+SAMN04262549	GUNC_reference_representation_score	0.52
+SAMN04262549	GUNC_version	GUNC v1.0.6
+SAMN04262549	INSDC_center_name	EMBL Heidelberg
+SAMN04262549	INSDC_status	public
+SAMN04262549	MAG_coverage_software	bwa mem
+SAMN04262549	SPIRE_genome_cluster	https://spire.embl.de/spire/v1/cluster/spire_v1_095_000348485
+SAMN04262549	SPIRE_genome_id	https://spire.embl.de/spire/v1/genome/spire_mag_01091184
+SAMN04262549	Submitter_Id	spire_mag_01091184
+SAMN04262549	assembly_quality	Many fragments with little to no review of assembly other than reporting of standard assembly statistics
+SAMN04262549	assembly_software	megahit 1.2.9
+SAMN04262549	binning_parameters	tetramer and coverage
+SAMN04262549	binning_software	metaBAT2 v2.12.1
+SAMN04262549	env_broad_scale	missing: third party data
+SAMN04262549	collection_date	missing: third party data
+SAMN04262549	completeness_score	72.82
+SAMN04262549	completeness_software	CheckM2 v0.1.3
+SAMN04262549	contamination_score	2.84
+SAMN04262549	contig_N50	7529
+SAMN04262549	derived_from_assembly	ERZ27289554
+SAMN04262549	env_medium	missing: third party data
+SAMN04262549	geo_loc_name	missing: third party data
+SAMN04262549	geographic_location_(latitude)	missing: third party data
+SAMN04262549	geographic_location_(longitude)	missing: third party data
+SAMN04262549	isolation_source	missing: third party data
+SAMN04262549	linked_to_SPIRE_sample	https://spire.embl.de/spire/v1/sample/75982
+SAMN04262549	linked_to_SPIRE_study	https://spire.embl.de/spire/v1/study/501
+SAMN04262549	linked_to_analysis_project	ERP175227
+SAMN04262549	local_environmental_context	missing: third party data
+SAMN04262549	metagenomic_source	metagenomes
+SAMN04262549	number_of_contigs	300
+SAMN04262549	project_name	SPIRE v1: a Searchable Planetary-scale mIcrobiome REsource
+SAMN04262549	sample_derived_from	SAMN04262549
+SAMN04262549	sample_name	spire_mag_01091184
+SAMN04262549	scientific_name	Ancrocorticia sp.
+SAMN04262549	taxonomic_classification	d__Bacteria;p__Actinomycetota;c__Actinomycetia;o__Actinomycetales;f__Actinomycetaceae;g__Ancrocorticia;s__
+SAMN04262549	taxonomic_classification_software	GTDBtk v2.3.2_r214
+SAMN04262549	taxonomic_identity_marker	multi-marker approach
+SAMN04262550	ENA_first_public	2025-10-14
+SAMN04262550	ENA-CHECKLIST	ERC000047
+SAMN04262550	GUNC_clade_separation_score	0.27
+SAMN04262550	GUNC_contamination_score	0.03
+SAMN04262550	GUNC_reference_representation_score	0.7
+SAMN04262550	GUNC_version	GUNC v1.0.6
+SAMN04262550	INSDC_center_name	EMBL Heidelberg
+SAMN04262550	INSDC_status	public
+SAMN04262550	MAG_coverage_software	bwa mem
+SAMN04262550	SPIRE_genome_cluster	https://spire.embl.de/spire/v1/cluster/specI_v4_35034
+SAMN04262550	SPIRE_genome_id	https://spire.embl.de/spire/v1/genome/spire_mag_01091084
+SAMN04262550	Submitter_Id	spire_mag_01091084
+SAMN04262550	assembly_quality	Many fragments with little to no review of assembly other than reporting of standard assembly statistics
+SAMN04262550	assembly_software	megahit 1.2.9
+SAMN04262550	binning_parameters	tetramer and coverage
+SAMN04262550	binning_software	metaBAT2 v2.12.1
+SAMN04262550	env_broad_scale	missing: third party data
+SAMN04262550	collection_date	missing: third party data
+SAMN04262550	completeness_score	83.67
+SAMN04262550	completeness_software	CheckM2 v0.1.3
+SAMN04262550	contamination_score	2.56
+SAMN04262550	contig_N50	6363
+SAMN04262550	derived_from_assembly	ERZ27289556
+SAMN04262550	env_medium	missing: third party data
+SAMN04262550	geo_loc_name	missing: third party data
+SAMN04262550	geographic_location_(latitude)	missing: third party data
+SAMN04262550	geographic_location_(longitude)	missing: third party data
+SAMN04262550	isolation_source	missing: third party data
+SAMN04262550	linked_to_SPIRE_sample	https://spire.embl.de/spire/v1/sample/75973
+SAMN04262550	linked_to_SPIRE_study	https://spire.embl.de/spire/v1/study/501
+SAMN04262550	linked_to_analysis_project	ERP175227
+SAMN04262550	local_environmental_context	missing: third party data
+SAMN04262550	metagenomic_source	metagenomes
+SAMN04262550	number_of_contigs	384
+SAMN04262550	project_name	SPIRE v1: a Searchable Planetary-scale mIcrobiome REsource
+SAMN04262550	sample_derived_from	SAMN04262550
+SAMN04262550	sample_name	spire_mag_01091084
+SAMN04262550	scientific_name	Uruburuella suis
+SAMN04262550	taxonomic_classification	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Neisseriaceae;g__Neisseria;s__Neisseria suis
+SAMN04262550	taxonomic_classification_software	GTDBtk v2.3.2_r214
+SAMN04262550	taxonomic_identity_marker	multi-marker approach
+SAMN04262552	ENA_first_public	2025-10-14
+SAMN04262552	ENA-CHECKLIST	ERC000047
+SAMN04262552	GUNC_clade_separation_score	0.06
+SAMN04262552	GUNC_contamination_score	0.03
+SAMN04262552	GUNC_reference_representation_score	0.61
+SAMN04262552	GUNC_version	GUNC v1.0.6
+SAMN04262552	INSDC_center_name	EMBL Heidelberg
+SAMN04262552	INSDC_status	public
+SAMN04262552	MAG_coverage_software	bwa mem
+SAMN04262552	SPIRE_genome_cluster	https://spire.embl.de/spire/v1/cluster/spire_v1_095_000377796
+SAMN04262552	SPIRE_genome_id	https://spire.embl.de/spire/v1/genome/spire_mag_01090734
+SAMN04262552	Submitter_Id	spire_mag_01090734
+SAMN04262552	assembly_quality	Many fragments with little to no review of assembly other than reporting of standard assembly statistics
+SAMN04262552	assembly_software	megahit 1.2.9
+SAMN04262552	binning_parameters	tetramer and coverage
+SAMN04262552	binning_software	metaBAT2 v2.12.1
+SAMN04262552	env_broad_scale	missing: third party data
+SAMN04262552	collection_date	missing: third party data
+SAMN04262552	completeness_score	85.09
+SAMN04262552	completeness_software	CheckM2 v0.1.3
+SAMN04262552	contamination_score	1.31
+SAMN04262552	contig_N50	8619
+SAMN04262552	derived_from_assembly	ERZ27289557
+SAMN04262552	env_medium	missing: third party data
+SAMN04262552	geo_loc_name	missing: third party data
+SAMN04262552	geographic_location_(latitude)	missing: third party data
+SAMN04262552	geographic_location_(longitude)	missing: third party data
+SAMN04262552	isolation_source	missing: third party data
+SAMN04262552	linked_to_SPIRE_sample	https://spire.embl.de/spire/v1/sample/75877
+SAMN04262552	linked_to_SPIRE_study	https://spire.embl.de/spire/v1/study/501
+SAMN04262552	linked_to_analysis_project	ERP175227
+SAMN04262552	local_environmental_context	missing: third party data
+SAMN04262552	metagenomic_source	metagenomes
+SAMN04262552	number_of_contigs	302
+SAMN04262552	project_name	SPIRE v1: a Searchable Planetary-scale mIcrobiome REsource
+SAMN04262552	sample_derived_from	SAMN04262552
+SAMN04262552	sample_name	spire_mag_01090734
+SAMN04262552	scientific_name	Methylocystis sp.
+SAMN04262552	taxonomic_classification	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhizobiales;f__Beijerinckiaceae;g__Methylocystis;s__
+SAMN04262552	taxonomic_classification_software	GTDBtk v2.3.2_r214
+SAMN04262552	taxonomic_identity_marker	multi-marker approach
+SAMN04262553	ENA_first_public	2025-10-13
+SAMN04262553	ENA-CHECKLIST	ERC000047
+SAMN04262553	GUNC_clade_separation_score	0.15
+SAMN04262553	GUNC_contamination_score	0.51
+SAMN04262553	GUNC_reference_representation_score	0.56
+SAMN04262553	GUNC_version	GUNC v1.0.6
+SAMN04262553	INSDC_center_name	EMBL Heidelberg
+SAMN04262553	INSDC_status	public
+SAMN04262553	MAG_coverage_software	bwa mem
+SAMN04262553	SPIRE_genome_cluster	https://spire.embl.de/spire/v1/cluster/spire_v1_095_000573198
+SAMN04262553	SPIRE_genome_id	https://spire.embl.de/spire/v1/genome/spire_mag_01092143
+SAMN04262553	Submitter_Id	spire_mag_01092143
+SAMN04262553	assembly_quality	Many fragments with little to no review of assembly other than reporting of standard assembly statistics
+SAMN04262553	assembly_software	megahit 1.2.9
+SAMN04262553	binning_parameters	tetramer and coverage
+SAMN04262553	binning_software	metaBAT2 v2.12.1
+SAMN04262553	env_broad_scale	missing: third party data
+SAMN04262553	collection_date	missing: third party data
+SAMN04262553	completeness_score	74.82
+SAMN04262553	completeness_software	CheckM2 v0.1.3
+SAMN04262553	contamination_score	4.49
+SAMN04262553	contig_N50	7601
+SAMN04262553	derived_from_assembly	ERZ27289559
+SAMN04262553	env_medium	missing: third party data
+SAMN04262553	geo_loc_name	missing: third party data
+SAMN04262553	geographic_location_(latitude)	missing: third party data
+SAMN04262553	geographic_location_(longitude)	missing: third party data
+SAMN04262553	isolation_source	missing: third party data
+SAMN04262553	linked_to_SPIRE_sample	https://spire.embl.de/spire/v1/sample/75802
+SAMN04262553	linked_to_SPIRE_study	https://spire.embl.de/spire/v1/study/501
+SAMN04262553	linked_to_analysis_project	ERP175227
+SAMN04262553	local_environmental_context	missing: third party data
+SAMN04262553	metagenomic_source	metagenomes
+SAMN04262553	number_of_contigs	251
+SAMN04262553	project_name	SPIRE v1: a Searchable Planetary-scale mIcrobiome REsource
+SAMN04262553	sample_derived_from	SAMN04262553
+SAMN04262553	sample_name	spire_mag_01092143
+SAMN04262553	scientific_name	Rhodocyclaceae bacterium
+SAMN04262553	taxonomic_classification	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Rhodocyclaceae;g__Fluviibacter;s__
+SAMN04262553	taxonomic_classification_software	GTDBtk v2.3.2_r214
+SAMN04262553	taxonomic_identity_marker	multi-marker approach
+SAMN04262559	ENA_first_public	2025-10-13
+SAMN04262559	ENA-CHECKLIST	ERC000047
+SAMN04262559	GUNC_clade_separation_score	0.28
+SAMN04262559	GUNC_contamination_score	0.17
+SAMN04262559	GUNC_reference_representation_score	0.59
+SAMN04262559	GUNC_version	GUNC v1.0.6
+SAMN04262559	INSDC_center_name	EMBL Heidelberg
+SAMN04262559	INSDC_status	public
+SAMN04262559	MAG_coverage_software	bwa mem
+SAMN04262559	SPIRE_genome_cluster	https://spire.embl.de/spire/v1/cluster/specI_v4_30374
+SAMN04262559	SPIRE_genome_id	https://spire.embl.de/spire/v1/genome/spire_mag_01092667
+SAMN04262559	Submitter_Id	spire_mag_01092667
+SAMN04262559	assembly_quality	Many fragments with little to no review of assembly other than reporting of standard assembly statistics
+SAMN04262559	assembly_software	megahit 1.2.9
+SAMN04262559	binning_parameters	tetramer and coverage
+SAMN04262559	binning_software	metaBAT2 v2.12.1
+SAMN04262559	env_broad_scale	missing: third party data
+SAMN04262559	collection_date	missing: third party data
+SAMN04262559	completeness_score	79.23
+SAMN04262559	completeness_software	CheckM2 v0.1.3
+SAMN04262559	contamination_score	3.02
+SAMN04262559	contig_N50	5599
+SAMN04262559	derived_from_assembly	ERZ27289560
+SAMN04262559	env_medium	missing: third party data
+SAMN04262559	geo_loc_name	missing: third party data
+SAMN04262559	geographic_location_(latitude)	missing: third party data
+SAMN04262559	geographic_location_(longitude)	missing: third party data
+SAMN04262559	isolation_source	missing: third party data
+SAMN04262559	linked_to_SPIRE_sample	https://spire.embl.de/spire/v1/sample/75719
+SAMN04262559	linked_to_SPIRE_study	https://spire.embl.de/spire/v1/study/501
+SAMN04262559	linked_to_analysis_project	ERP175227
+SAMN04262559	local_environmental_context	missing: third party data
+SAMN04262559	metagenomic_source	metagenomes
+SAMN04262559	number_of_contigs	513
+SAMN04262559	project_name	SPIRE v1: a Searchable Planetary-scale mIcrobiome REsource
+SAMN04262559	sample_derived_from	SAMN04262559
+SAMN04262559	sample_name	spire_mag_01092667
+SAMN04262559	scientific_name	Gammaproteobacteria bacterium
+SAMN04262559	taxonomic_classification	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Chromatiales;f__Chromatiaceae;g__M0108;s__M0108 sp009928645
+SAMN04262559	taxonomic_classification_software	GTDBtk v2.3.2_r214
+SAMN04262559	taxonomic_identity_marker	multi-marker approach
+SAMN04262560	ENA_first_public	2025-10-14
+SAMN04262560	ENA-CHECKLIST	ERC000047
+SAMN04262560	GUNC_clade_separation_score	0.0
+SAMN04262560	GUNC_contamination_score	0.0
+SAMN04262560	GUNC_reference_representation_score	0.74
+SAMN04262560	GUNC_version	GUNC v1.0.6
+SAMN04262560	INSDC_center_name	EMBL Heidelberg
+SAMN04262560	INSDC_status	public
+SAMN04262560	MAG_coverage_software	bwa mem
+SAMN04262560	SPIRE_genome_cluster	https://spire.embl.de/spire/v1/cluster/spire_v1_095_000393943
+SAMN04262560	SPIRE_genome_id	https://spire.embl.de/spire/v1/genome/spire_mag_01092370
+SAMN04262560	Submitter_Id	spire_mag_01092370
+SAMN04262560	assembly_quality	Many fragments with little to no review of assembly other than reporting of standard assembly statistics
+SAMN04262560	assembly_software	megahit 1.2.9
+SAMN04262560	binning_parameters	tetramer and coverage
+SAMN04262560	binning_software	metaBAT2 v2.12.1
+SAMN04262560	env_broad_scale	missing: third party data
+SAMN04262560	collection_date	missing: third party data
+SAMN04262560	completeness_score	56.58
+SAMN04262560	completeness_software	CheckM2 v0.1.3
+SAMN04262560	contamination_score	1.40
+SAMN04262560	contig_N50	4320
+SAMN04262560	derived_from_assembly	ERZ27289566
+SAMN04262560	env_medium	missing: third party data
+SAMN04262560	geo_loc_name	missing: third party data
+SAMN04262560	geographic_location_(latitude)	missing: third party data
+SAMN04262560	geographic_location_(longitude)	missing: third party data
+SAMN04262560	isolation_source	missing: third party data
+SAMN04262560	linked_to_SPIRE_sample	https://spire.embl.de/spire/v1/sample/75729
+SAMN04262560	linked_to_SPIRE_study	https://spire.embl.de/spire/v1/study/501
+SAMN04262560	linked_to_analysis_project	ERP175227
+SAMN04262560	local_environmental_context	missing: third party data
+SAMN04262560	metagenomic_source	metagenomes
+SAMN04262560	number_of_contigs	365
+SAMN04262560	project_name	SPIRE v1: a Searchable Planetary-scale mIcrobiome REsource
+SAMN04262560	sample_derived_from	SAMN04262560
+SAMN04262560	sample_name	spire_mag_01092370
+SAMN04262560	scientific_name	Thiothrix unzii
+SAMN04262560	taxonomic_classification	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Thiotrichales;f__Thiotrichaceae;g__Thiothrix;s__Thiothrix unzii
+SAMN04262560	taxonomic_classification_software	GTDBtk v2.3.2_r214
+SAMN04262560	taxonomic_identity_marker	multi-marker approach
+SAMN04262562	ENA_first_public	2025-10-13
+SAMN04262562	ENA-CHECKLIST	ERC000047
+SAMN04262562	GUNC_clade_separation_score	0.15
+SAMN04262562	GUNC_contamination_score	0.03
+SAMN04262562	GUNC_reference_representation_score	0.52
+SAMN04262562	GUNC_version	GUNC v1.0.6
+SAMN04262562	INSDC_center_name	EMBL Heidelberg
+SAMN04262562	INSDC_status	public
+SAMN04262562	MAG_coverage_software	bwa mem
+SAMN04262562	SPIRE_genome_cluster	https://spire.embl.de/spire/v1/cluster/spire_v1_095_000329285
+SAMN04262562	SPIRE_genome_id	https://spire.embl.de/spire/v1/genome/spire_mag_01091986
+SAMN04262562	Submitter_Id	spire_mag_01091986
+SAMN04262562	assembly_quality	Many fragments with little to no review of assembly other than reporting of standard assembly statistics
+SAMN04262562	assembly_software	megahit 1.2.9
+SAMN04262562	binning_parameters	tetramer and coverage
+SAMN04262562	binning_software	metaBAT2 v2.12.1
+SAMN04262562	env_broad_scale	missing: third party data
+SAMN04262562	collection_date	missing: third party data
+SAMN04262562	completeness_score	77.73
+SAMN04262562	completeness_software	CheckM2 v0.1.3
+SAMN04262562	contamination_score	1.70
+SAMN04262562	contig_N50	9384
+SAMN04262562	derived_from_assembly	ERZ27289567
+SAMN04262562	env_medium	missing: third party data
+SAMN04262562	geo_loc_name	missing: third party data
+SAMN04262562	geographic_location_(latitude)	missing: third party data
+SAMN04262562	geographic_location_(longitude)	missing: third party data
+SAMN04262562	isolation_source	missing: third party data
+SAMN04262562	linked_to_SPIRE_sample	https://spire.embl.de/spire/v1/sample/75796
+SAMN04262562	linked_to_SPIRE_study	https://spire.embl.de/spire/v1/study/501
+SAMN04262562	linked_to_analysis_project	ERP175227
+SAMN04262562	local_environmental_context	missing: third party data
+SAMN04262562	metagenomic_source	metagenomes
+SAMN04262562	number_of_contigs	233
+SAMN04262562	project_name	SPIRE v1: a Searchable Planetary-scale mIcrobiome REsource
+SAMN04262562	sample_derived_from	SAMN04262562
+SAMN04262562	sample_name	spire_mag_01091986
+SAMN04262562	scientific_name	uncultured bacterium
+SAMN04262562	taxonomic_classification	d__Bacteria;p__Actinomycetota;c__Actinomycetia;o__Nanopelagicales;f__S36-B12;g__VGCC01;s__
+SAMN04262562	taxonomic_classification_software	GTDBtk v2.3.2_r214
+SAMN04262562	taxonomic_identity_marker	multi-marker approach
+SAMN04262563	ENA_first_public	2025-10-14
+SAMN04262563	ENA-CHECKLIST	ERC000047
+SAMN04262563	GUNC_clade_separation_score	0.16
+SAMN04262563	GUNC_contamination_score	0.03
+SAMN04262563	GUNC_reference_representation_score	0.48
+SAMN04262563	GUNC_version	GUNC v1.0.6
+SAMN04262563	INSDC_center_name	EMBL Heidelberg
+SAMN04262563	INSDC_status	public
+SAMN04262563	MAG_coverage_software	bwa mem
+SAMN04262563	SPIRE_genome_cluster	https://spire.embl.de/spire/v1/cluster/spire_v1_095_000382708
+SAMN04262563	SPIRE_genome_id	https://spire.embl.de/spire/v1/genome/spire_mag_01091343
+SAMN04262563	Submitter_Id	spire_mag_01091343
+SAMN04262563	assembly_quality	Many fragments with little to no review of assembly other than reporting of standard assembly statistics
+SAMN04262563	assembly_software	megahit 1.2.9
+SAMN04262563	binning_parameters	tetramer and coverage
+SAMN04262563	binning_software	metaBAT2 v2.12.1
+SAMN04262563	env_broad_scale	missing: third party data
+SAMN04262563	collection_date	missing: third party data
+SAMN04262563	completeness_score	50.82
+SAMN04262563	completeness_software	CheckM2 v0.1.3
+SAMN04262563	contamination_score	1.39
+SAMN04262563	contig_N50	4429
+SAMN04262563	derived_from_assembly	ERZ27289562
+SAMN04262563	env_medium	missing: third party data
+SAMN04262563	geo_loc_name	missing: third party data
+SAMN04262563	geographic_location_(latitude)	missing: third party data
+SAMN04262563	geographic_location_(longitude)	missing: third party data
+SAMN04262563	isolation_source	missing: third party data
+SAMN04262563	linked_to_SPIRE_sample	https://spire.embl.de/spire/v1/sample/75946
+SAMN04262563	linked_to_SPIRE_study	https://spire.embl.de/spire/v1/study/501
+SAMN04262563	linked_to_analysis_project	ERP175227
+SAMN04262563	local_environmental_context	missing: third party data
+SAMN04262563	metagenomic_source	metagenomes
+SAMN04262563	number_of_contigs	359
+SAMN04262563	project_name	SPIRE v1: a Searchable Planetary-scale mIcrobiome REsource
+SAMN04262563	sample_derived_from	SAMN04262563
+SAMN04262563	sample_name	spire_mag_01091343
+SAMN04262563	scientific_name	uncultured bacterium
+SAMN04262563	taxonomic_classification	d__Bacteria;p__Actinomycetota;c__Actinomycetia;o__Nanopelagicales;f__S36-B12;g__Mxb001;s__
+SAMN04262563	taxonomic_classification_software	GTDBtk v2.3.2_r214
+SAMN04262563	taxonomic_identity_marker	multi-marker approach
+SAMN04262564	ENA_first_public	2025-10-14
+SAMN04262564	ENA-CHECKLIST	ERC000047
+SAMN04262564	GUNC_clade_separation_score	0.09
+SAMN04262564	GUNC_contamination_score	0.06
+SAMN04262564	GUNC_reference_representation_score	0.47
+SAMN04262564	GUNC_version	GUNC v1.0.6
+SAMN04262564	INSDC_center_name	EMBL Heidelberg
+SAMN04262564	INSDC_status	public
+SAMN04262564	MAG_coverage_software	bwa mem
+SAMN04262564	SPIRE_genome_cluster	https://spire.embl.de/spire/v1/cluster/spire_v1_095_000325171
+SAMN04262564	SPIRE_genome_id	https://spire.embl.de/spire/v1/genome/spire_mag_01092763
+SAMN04262564	Submitter_Id	spire_mag_01092763
+SAMN04262564	assembly_quality	Many fragments with little to no review of assembly other than reporting of standard assembly statistics
+SAMN04262564	assembly_software	megahit 1.2.9
+SAMN04262564	binning_parameters	tetramer and coverage
+SAMN04262564	binning_software	metaBAT2 v2.12.1
+SAMN04262564	env_broad_scale	missing: third party data
+SAMN04262564	collection_date	missing: third party data
+SAMN04262564	completeness_score	60.81
+SAMN04262564	completeness_software	CheckM2 v0.1.3
+SAMN04262564	contamination_score	6.64
+SAMN04262564	contig_N50	6267
+SAMN04262564	derived_from_assembly	ERZ27289565
+SAMN04262564	env_medium	missing: third party data
+SAMN04262564	geo_loc_name	missing: third party data
+SAMN04262564	geographic_location_(latitude)	missing: third party data
+SAMN04262564	geographic_location_(longitude)	missing: third party data
+SAMN04262564	isolation_source	missing: third party data
+SAMN04262564	linked_to_SPIRE_sample	https://spire.embl.de/spire/v1/sample/75763
+SAMN04262564	linked_to_SPIRE_study	https://spire.embl.de/spire/v1/study/501
+SAMN04262564	linked_to_analysis_project	ERP175227
+SAMN04262564	local_environmental_context	missing: third party data
+SAMN04262564	metagenomic_source	metagenomes
+SAMN04262564	number_of_contigs	422
+SAMN04262564	project_name	SPIRE v1: a Searchable Planetary-scale mIcrobiome REsource
+SAMN04262564	sample_derived_from	SAMN04262564
+SAMN04262564	sample_name	spire_mag_01092763
+SAMN04262564	scientific_name	uncultured bacterium
+SAMN04262564	taxonomic_classification	d__Bacteria;p__Actinomycetota;c__Actinomycetia;o__Nanopelagicales;f__S36-B12;g__Mxb001;s__
+SAMN04262564	taxonomic_classification_software	GTDBtk v2.3.2_r214
+SAMN04262564	taxonomic_identity_marker	multi-marker approach
+SAMN04262565	ENA_first_public	2025-09-16
+SAMN04262565	ENA-CHECKLIST	ERC000011
+SAMN04262565	INSDC_center_name	EMBL Heidelberg
+SAMN04262565	INSDC_status	public
+SAMN04262565	Submitter_Id	spire_sample_75908
+SAMN04262565	collection_date	missing: third party data
+SAMN04262565	geo_loc_name	missing: third party data
+SAMN04262565	sample_name	spire_sample_75908
+SAMN04262565	scientific_name	metagenome
+SAMN04262566	ENA_first_public	2025-09-16
+SAMN04262566	ENA-CHECKLIST	ERC000011
+SAMN04262566	INSDC_center_name	EMBL Heidelberg
+SAMN04262566	INSDC_status	public
+SAMN04262566	Submitter_Id	spire_sample_75840
+SAMN04262566	collection_date	missing: third party data
+SAMN04262566	geo_loc_name	missing: third party data
+SAMN04262566	sample_name	spire_sample_75840
+SAMN04262566	scientific_name	metagenome
+SAMN04262567	ENA_first_public	2025-09-16
+SAMN04262567	ENA-CHECKLIST	ERC000011
+SAMN04262567	INSDC_center_name	EMBL Heidelberg
+SAMN04262567	INSDC_status	public
+SAMN04262567	Submitter_Id	spire_sample_75986
+SAMN04262567	collection_date	missing: third party data
+SAMN04262567	geo_loc_name	missing: third party data
+SAMN04262567	sample_name	spire_sample_75986
+SAMN04262567	scientific_name	metagenome
+SAMN04262568	ENA_first_public	2025-09-16
+SAMN04262568	ENA-CHECKLIST	ERC000011
+SAMN04262568	INSDC_center_name	EMBL Heidelberg
+SAMN04262568	INSDC_status	public
+SAMN04262568	Submitter_Id	spire_sample_75717
+SAMN04262568	collection_date	missing: third party data
+SAMN04262568	geo_loc_name	missing: third party data
+SAMN04262568	sample_name	spire_sample_75717
+SAMN04262568	scientific_name	metagenome
+SAMN04262569	ENA_first_public	2025-09-16
+SAMN04262569	ENA-CHECKLIST	ERC000011
+SAMN04262569	INSDC_center_name	EMBL Heidelberg
+SAMN04262569	INSDC_status	public
+SAMN04262569	Submitter_Id	spire_sample_75855
+SAMN04262569	collection_date	missing: third party data
+SAMN04262569	geo_loc_name	missing: third party data
+SAMN04262569	sample_name	spire_sample_75855
+SAMN04262569	scientific_name	metagenome
+SAMN04262570	ENA_first_public	2025-09-16
+SAMN04262570	ENA-CHECKLIST	ERC000011
+SAMN04262570	INSDC_center_name	EMBL Heidelberg
+SAMN04262570	INSDC_status	public
+SAMN04262570	Submitter_Id	spire_sample_75884
+SAMN04262570	collection_date	missing: third party data
+SAMN04262570	geo_loc_name	missing: third party data
+SAMN04262570	sample_name	spire_sample_75884
+SAMN04262570	scientific_name	metagenome
+SAMN04262572	ENA_first_public	2025-09-16
+SAMN04262572	ENA-CHECKLIST	ERC000011
+SAMN04262572	INSDC_center_name	EMBL Heidelberg
+SAMN04262572	INSDC_status	public
+SAMN04262572	Submitter_Id	spire_sample_75954
+SAMN04262572	collection_date	missing: third party data
+SAMN04262572	geo_loc_name	missing: third party data
+SAMN04262572	sample_name	spire_sample_75954
+SAMN04262572	scientific_name	metagenome
+SAMN04262573	ENA_first_public	2025-09-16
+SAMN04262573	ENA-CHECKLIST	ERC000011
+SAMN04262573	INSDC_center_name	EMBL Heidelberg
+SAMN04262573	INSDC_status	public
+SAMN04262573	Submitter_Id	spire_sample_75772
+SAMN04262573	collection_date	missing: third party data
+SAMN04262573	geo_loc_name	missing: third party data
+SAMN04262573	sample_name	spire_sample_75772
+SAMN04262573	scientific_name	metagenome
+SAMN04262574	ENA_first_public	2025-10-14
+SAMN04262574	ENA-CHECKLIST	ERC000047
+SAMN04262574	GUNC_clade_separation_score	0.0
+SAMN04262574	GUNC_contamination_score	0.0
+SAMN04262574	GUNC_reference_representation_score	0.95
+SAMN04262574	GUNC_version	GUNC v1.0.6
+SAMN04262574	INSDC_center_name	EMBL Heidelberg
+SAMN04262574	INSDC_status	public
+SAMN04262574	MAG_coverage_software	bwa mem
+SAMN04262574	SPIRE_genome_cluster	https://spire.embl.de/spire/v1/cluster/specI_v4_00075
+SAMN04262574	SPIRE_genome_id	https://spire.embl.de/spire/v1/genome/spire_mag_01090478
+SAMN04262574	Submitter_Id	spire_mag_01090478
+SAMN04262574	assembly_quality	Many fragments with little to no review of assembly other than reporting of standard assembly statistics
+SAMN04262574	assembly_software	megahit 1.2.9
+SAMN04262574	binning_parameters	tetramer and coverage
+SAMN04262574	binning_software	metaBAT2 v2.12.1
+SAMN04262574	env_broad_scale	missing: third party data
+SAMN04262574	collection_date	missing: third party data
+SAMN04262574	completeness_score	81.18
+SAMN04262574	completeness_software	CheckM2 v0.1.3
+SAMN04262574	contamination_score	2.97
+SAMN04262574	contig_N50	8509
+SAMN04262574	derived_from_assembly	ERZ27289576
+SAMN04262574	env_medium	missing: third party data
+SAMN04262574	geo_loc_name	missing: third party data
+SAMN04262574	geographic_location_(latitude)	missing: third party data
+SAMN04262574	geographic_location_(longitude)	missing: third party data
+SAMN04262574	isolation_source	missing: third party data
+SAMN04262574	linked_to_SPIRE_sample	https://spire.embl.de/spire/v1/sample/75918
+SAMN04262574	linked_to_SPIRE_study	https://spire.embl.de/spire/v1/study/501
+SAMN04262574	linked_to_analysis_project	ERP175227
+SAMN04262574	local_environmental_context	missing: third party data
+SAMN04262574	metagenomic_source	metagenomes
+SAMN04262574	number_of_contigs	234
+SAMN04262574	project_name	SPIRE v1: a Searchable Planetary-scale mIcrobiome REsource
+SAMN04262574	sample_derived_from	SAMN04262574
+SAMN04262574	sample_name	spire_mag_01090478
+SAMN04262574	scientific_name	Bifidobacterium adolescentis
+SAMN04262574	taxonomic_classification	d__Bacteria;p__Actinomycetota;c__Actinomycetia;o__Actinomycetales;f__Bifidobacteriaceae;g__Bifidobacterium;s__Bifidobacterium adolescentis
+SAMN04262574	taxonomic_classification_software	GTDBtk v2.3.2_r214
+SAMN04262574	taxonomic_identity_marker	multi-marker approach
+SAMN04262575	ENA_first_public	2025-10-13
+SAMN04262575	ENA-CHECKLIST	ERC000047
+SAMN04262575	GUNC_clade_separation_score	0.0
+SAMN04262575	GUNC_contamination_score	0.0
+SAMN04262575	GUNC_reference_representation_score	0.94
+SAMN04262575	GUNC_version	GUNC v1.0.6
+SAMN04262575	INSDC_center_name	EMBL Heidelberg
+SAMN04262575	INSDC_status	public
+SAMN04262575	MAG_coverage_software	bwa mem
+SAMN04262575	SPIRE_genome_cluster	https://spire.embl.de/spire/v1/cluster/specI_v4_33593
+SAMN04262575	SPIRE_genome_id	https://spire.embl.de/spire/v1/genome/spire_mag_01091896
+SAMN04262575	Submitter_Id	spire_mag_01091896
+SAMN04262575	assembly_quality	Many fragments with little to no review of assembly other than reporting of standard assembly statistics
+SAMN04262575	assembly_software	megahit 1.2.9
+SAMN04262575	binning_parameters	tetramer and coverage
+SAMN04262575	binning_software	metaBAT2 v2.12.1
+SAMN04262575	env_broad_scale	missing: third party data
+SAMN04262575	collection_date	missing: third party data
+SAMN04262575	completeness_score	64.11
+SAMN04262575	completeness_software	CheckM2 v0.1.3
+SAMN04262575	contamination_score	1.40
+SAMN04262575	contig_N50	6037
+SAMN04262575	derived_from_assembly	ERZ27289577
+SAMN04262575	env_medium	missing: third party data
+SAMN04262575	geo_loc_name	missing: third party data
+SAMN04262575	geographic_location_(latitude)	missing: third party data
+SAMN04262575	geographic_location_(longitude)	missing: third party data
+SAMN04262575	isolation_source	missing: third party data
+SAMN04262575	linked_to_SPIRE_sample	https://spire.embl.de/spire/v1/sample/75845
+SAMN04262575	linked_to_SPIRE_study	https://spire.embl.de/spire/v1/study/501
+SAMN04262575	linked_to_analysis_project	ERP175227
+SAMN04262575	local_environmental_context	missing: third party data
+SAMN04262575	metagenomic_source	metagenomes
+SAMN04262575	number_of_contigs	262
+SAMN04262575	project_name	SPIRE v1: a Searchable Planetary-scale mIcrobiome REsource
+SAMN04262575	sample_derived_from	SAMN04262575
+SAMN04262575	sample_name	spire_mag_01091896
+SAMN04262575	scientific_name	Bifidobacterium adolescentis
+SAMN04262575	taxonomic_classification	d__Bacteria;p__Actinomycetota;c__Actinomycetia;o__Actinomycetales;f__Bifidobacteriaceae;g__Bifidobacterium;s__Bifidobacterium adolescentis
+SAMN04262575	taxonomic_classification_software	GTDBtk v2.3.2_r214
+SAMN04262575	taxonomic_identity_marker	multi-marker approach
+SAMN04262576	ENA_first_public	2025-09-16
+SAMN04262576	ENA-CHECKLIST	ERC000011
+SAMN04262576	INSDC_center_name	EMBL Heidelberg
+SAMN04262576	INSDC_status	public
+SAMN04262576	Submitter_Id	spire_sample_75989
+SAMN04262576	collection_date	missing: third party data
+SAMN04262576	geo_loc_name	missing: third party data
+SAMN04262576	sample_name	spire_sample_75989
+SAMN04262576	scientific_name	metagenome
+SAMN04262577	ENA_first_public	2025-10-13
+SAMN04262577	ENA-CHECKLIST	ERC000047
+SAMN04262577	GUNC_clade_separation_score	0.0
+SAMN04262577	GUNC_contamination_score	0.0
+SAMN04262577	GUNC_reference_representation_score	0.93
+SAMN04262577	GUNC_version	GUNC v1.0.6
+SAMN04262577	INSDC_center_name	EMBL Heidelberg
+SAMN04262577	INSDC_status	public
+SAMN04262577	MAG_coverage_software	bwa mem
+SAMN04262577	SPIRE_genome_cluster	https://spire.embl.de/spire/v1/cluster/spire_v1_095_000023669
+SAMN04262577	SPIRE_genome_id	https://spire.embl.de/spire/v1/genome/spire_mag_01092679
+SAMN04262577	Submitter_Id	spire_mag_01092679
+SAMN04262577	assembly_quality	Many fragments with little to no review of assembly other than reporting of standard assembly statistics
+SAMN04262577	assembly_software	megahit 1.2.9
+SAMN04262577	binning_parameters	tetramer and coverage
+SAMN04262577	binning_software	metaBAT2 v2.12.1
+SAMN04262577	env_broad_scale	missing: third party data
+SAMN04262577	collection_date	missing: third party data
+SAMN04262577	completeness_score	59.88
+SAMN04262577	completeness_software	CheckM2 v0.1.3
+SAMN04262577	contamination_score	2.06
+SAMN04262577	contig_N50	4542
+SAMN04262577	derived_from_assembly	ERZ27289578
+SAMN04262577	env_medium	missing: third party data
+SAMN04262577	geo_loc_name	missing: third party data
+SAMN04262577	geographic_location_(latitude)	missing: third party data
+SAMN04262577	geographic_location_(longitude)	missing: third party data
+SAMN04262577	isolation_source	missing: third party data
+SAMN04262577	linked_to_SPIRE_sample	https://spire.embl.de/spire/v1/sample/75720
+SAMN04262577	linked_to_SPIRE_study	https://spire.embl.de/spire/v1/study/501
+SAMN04262577	linked_to_analysis_project	ERP175227
+SAMN04262577	local_environmental_context	missing: third party data
+SAMN04262577	metagenomic_source	metagenomes
+SAMN04262577	number_of_contigs	442
+SAMN04262577	project_name	SPIRE v1: a Searchable Planetary-scale mIcrobiome REsource
+SAMN04262577	sample_derived_from	SAMN04262577
+SAMN04262577	sample_name	spire_mag_01092679
+SAMN04262577	scientific_name	Acinetobacter johnsonii
+SAMN04262577	taxonomic_classification	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Acinetobacter;s__Acinetobacter johnsonii
+SAMN04262577	taxonomic_classification_software	GTDBtk v2.3.2_r214
+SAMN04262577	taxonomic_identity_marker	multi-marker approach
+SAMN04262578	ENA_first_public	2025-10-14
+SAMN04262578	ENA-CHECKLIST	ERC000047
+SAMN04262578	GUNC_clade_separation_score	0.0
+SAMN04262578	GUNC_contamination_score	0.0
+SAMN04262578	GUNC_reference_representation_score	0.93
+SAMN04262578	GUNC_version	GUNC v1.0.6
+SAMN04262578	INSDC_center_name	EMBL Heidelberg
+SAMN04262578	INSDC_status	public
+SAMN04262578	MAG_coverage_software	bwa mem
+SAMN04262578	SPIRE_genome_cluster	https://spire.embl.de/spire/v1/cluster/specI_v4_00392
+SAMN04262578	SPIRE_genome_id	https://spire.embl.de/spire/v1/genome/spire_mag_01090839
+SAMN04262578	Submitter_Id	spire_mag_01090839
+SAMN04262578	assembly_quality	Many fragments with little to no review of assembly other than reporting of standard assembly statistics
+SAMN04262578	assembly_software	megahit 1.2.9
+SAMN04262578	binning_parameters	tetramer and coverage
+SAMN04262578	binning_software	metaBAT2 v2.12.1
+SAMN04262578	env_broad_scale	missing: third party data
+SAMN04262578	collection_date	missing: third party data
+SAMN04262578	completeness_score	53.57
+SAMN04262578	completeness_software	CheckM2 v0.1.3
+SAMN04262578	contamination_score	6.43
+SAMN04262578	contig_N50	3801
+SAMN04262578	derived_from_assembly	ERZ27289581
+SAMN04262578	env_medium	missing: third party data
+SAMN04262578	geo_loc_name	missing: third party data
+SAMN04262578	geographic_location_(latitude)	missing: third party data
+SAMN04262578	geographic_location_(longitude)	missing: third party data
+SAMN04262578	isolation_source	missing: third party data
+SAMN04262578	linked_to_SPIRE_sample	https://spire.embl.de/spire/v1/sample/75856
+SAMN04262578	linked_to_SPIRE_study	https://spire.embl.de/spire/v1/study/501
+SAMN04262578	linked_to_analysis_project	ERP175227
+SAMN04262578	local_environmental_context	missing: third party data
+SAMN04262578	metagenomic_source	metagenomes
+SAMN04262578	number_of_contigs	437
+SAMN04262578	project_name	SPIRE v1: a Searchable Planetary-scale mIcrobiome REsource
+SAMN04262578	sample_derived_from	SAMN04262578
+SAMN04262578	sample_name	spire_mag_01090839
+SAMN04262578	scientific_name	Acinetobacter sp.
+SAMN04262578	taxonomic_classification	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Acinetobacter;s__Acinetobacter towneri
+SAMN04262578	taxonomic_classification_software	GTDBtk v2.3.2_r214
+SAMN04262578	taxonomic_identity_marker	multi-marker approach
+SAMN30917063	isolation_source	wastewater
+SAMN30917063	collection_date	2021-11-29
+SAMN30917063	geo_loc_name	Italy: Verbania
+SAMN30917063	lat_lon	45.9356 N 8.5591 E
+SAMN30917063	sample_ID	I_VB_pre_a
+SAMN30917064	isolation_source	wastewater
+SAMN30917064	collection_date	2021-11-29
+SAMN30917064	geo_loc_name	Italy: Verbania
+SAMN30917064	lat_lon	45.9356 N 8.5591 E
+SAMN30917064	sample_ID	I_VB_post_a
+SAMN30917065	isolation_source	wastewater
+SAMN30917065	collection_date	2021-12-06
+SAMN30917065	geo_loc_name	Italy: Verbania
+SAMN30917065	lat_lon	45.9356 N 8.5591 E
+SAMN30917065	sample_ID	I_VB_pre_b
+SAMN30917066	isolation_source	wastewater
+SAMN30917066	collection_date	2021-12-06
+SAMN30917066	geo_loc_name	Italy: Verbania
+SAMN30917066	lat_lon	45.9356 N 8.5591 E
+SAMN30917066	sample_ID	I_VB_post_b
+SAMN30917067	isolation_source	wastewater
+SAMN30917067	collection_date	2021-12-14
+SAMN30917067	geo_loc_name	Italy: Cannobio
+SAMN30917067	lat_lon	46.0661 N 8.6920 E
+SAMN30917067	sample_ID	I_CB_pre_c
+SAMN30917068	isolation_source	wastewater
+SAMN30917068	collection_date	2021-12-14
+SAMN30917068	geo_loc_name	Italy: Cannobio
+SAMN30917068	lat_lon	46.0661 N 8.6920 E
+SAMN30917068	sample_ID	I_CB_post_c
+SAMN30917069	isolation_source	wastewater
+SAMN30917069	collection_date	2021-12-21
+SAMN30917069	geo_loc_name	Italy: Cannobio
+SAMN30917069	lat_lon	46.0661 N 8.6920 E
+SAMN30917069	sample_ID	I_CB_pre_d
+SAMN30917070	isolation_source	wastewater
+SAMN30917070	collection_date	2021-12-21
+SAMN30917070	geo_loc_name	Italy: Cannobio
+SAMN30917070	lat_lon	46.0661 N 8.6920 E
+SAMN30917070	sample_ID	I_CB_post_d
+SAMN30917071	isolation_source	wastewater
+SAMN30917071	collection_date	2021-11-29
+SAMN30917071	geo_loc_name	Italy: Verbania
+SAMN30917071	lat_lon	45.9356 N 8.5591 E
+SAMN30917071	sample_ID	E_VB_pre_a
+SAMN30917072	isolation_source	wastewater
+SAMN30917072	collection_date	2021-11-29
+SAMN30917072	geo_loc_name	Italy: Verbania
+SAMN30917072	lat_lon	45.9356 N 8.5591 E
+SAMN30917072	sample_ID	E_VB_post_a
+SAMN30917073	isolation_source	wastewater
+SAMN30917073	collection_date	2021-12-06
+SAMN30917073	geo_loc_name	Italy: Verbania
+SAMN30917073	lat_lon	45.9356 N 8.5591 E
+SAMN30917073	sample_ID	E_VB_pre_b
+SAMN30917074	isolation_source	wastewater
+SAMN30917074	collection_date	2021-12-06
+SAMN30917074	geo_loc_name	Italy: Verbania
+SAMN30917074	lat_lon	45.9356 N 8.5591 E
+SAMN30917074	sample_ID	E_VB_post_b
+SAMN30917075	isolation_source	wastewater
+SAMN30917075	collection_date	2021-12-14
+SAMN30917075	geo_loc_name	Italy: Cannobio
+SAMN30917075	lat_lon	46.0661 N 8.6920 E
+SAMN30917075	sample_ID	E_CB_pre_c
+SAMN30917076	isolation_source	wastewater
+SAMN30917076	collection_date	2021-12-14
+SAMN30917076	geo_loc_name	Italy: Cannobio
+SAMN30917076	lat_lon	46.0661 N 8.6920 E
+SAMN30917076	sample_ID	E_CB_post_c
+SAMN30917077	isolation_source	wastewater
+SAMN30917077	collection_date	2021-12-21
+SAMN30917077	geo_loc_name	Italy: Cannobio
+SAMN30917077	lat_lon	46.0661 N 8.6920 E
+SAMN30917077	sample_ID	E_CB_pre_d
+SAMN30917078	isolation_source	wastewater
+SAMN30917078	collection_date	2021-12-21
+SAMN30917078	geo_loc_name	Italy: Cannobio
+SAMN30917078	lat_lon	46.0661 N 8.6920 E
+SAMN30917078	sample_ID	E_CB_post_d
+SAMN39496523	isolation_source	wastewater
+SAMN39496523	collection_date	2022-05-03
+SAMN39496523	geo_loc_name	Italy: Verbania (WWTP)
+SAMN39496523	lat_lon	45.93612 N 8.55951 E
+SAMN39496523	ID	I_WWVB
+SAMN39496524	isolation_source	wastewater
+SAMN39496524	collection_date	2022-05-03
+SAMN39496524	geo_loc_name	Italy: Gravellona Toce (WWTP)
+SAMN39496524	lat_lon	45.93618 N 8.43244 E
+SAMN39496524	ID	I_WWGV
+SAMN39496525	isolation_source	wastewater
+SAMN39496525	collection_date	2022-05-10
+SAMN39496525	geo_loc_name	Italy: Cannobio (WWTP)
+SAMN39496525	lat_lon	46.07493 N 8.69253 E
+SAMN39496525	ID	I_WWCB
+SAMN39496532	isolation_source	wastewater
+SAMN39496532	collection_date	2022-05-03
+SAMN39496532	geo_loc_name	Italy: Verbania (WWTP)
+SAMN39496532	lat_lon	45.93612 N 8.55951 E
+SAMN39496532	ID	E_WWVB
+SAMN39496533	isolation_source	wastewater
+SAMN39496533	collection_date	2022-05-03
+SAMN39496533	geo_loc_name	Italy: Gravellona Toce (WWTP)
+SAMN39496533	lat_lon	45.93618 N 8.43244 E
+SAMN39496533	ID	E_WWGV
+SAMN39496534	isolation_source	wastewater
+SAMN39496534	collection_date	2022-05-10
+SAMN39496534	geo_loc_name	Italy: Cannobio (WWTP)
+SAMN39496534	lat_lon	46.07493 N 8.69253 E
+SAMN39496534	ID	E_WWCB
+SAMN41509952	host	missing
+SAMN41509952	isolation_source	wastewater metagenome
+SAMN41509952	collection_date	2022-03-25
+SAMN41509952	geo_loc_name	Mexico:Queretaro
+SAMN41509952	lat_lon	20.7034 N 100.4459 W
+SAMN41509953	host	missing
+SAMN41509953	isolation_source	wastewater metagenome
+SAMN41509953	collection_date	2022-03-25
+SAMN41509953	geo_loc_name	Mexico:Queretaro
+SAMN41509953	lat_lon	20.7034 N 100.4459 W
+SAMN48974001	host	Environmental sample
+SAMN48974001	isolation_source	Influent wastewater from sewage plant
+SAMN48974001	collection_date	2023-06
+SAMN48974001	geo_loc_name	South Korea: Chungcheongnam-do, Geumsan
+SAMN48974001	lat_lon	36.10 N 127.48 E
+SAMN48974007	host	Environmental sample
+SAMN48974007	isolation_source	Effluent wastewater from sewage plant
+SAMN48974007	collection_date	2023-06
+SAMN48974007	geo_loc_name	South Korea: Chungcheongnam-do, Geumsan
+SAMN48974007	lat_lon	36.10 N 127.54 E
+SAMN52834520	isolation_source	wastewater
+SAMN52834520	collection_date	2023-12-13
+SAMN52834520	geo_loc_name	Italy: Cannobio
+SAMN52834520	lat_lon	46.0708 N 8.6930 E
+SAMN52834520	ID	e_POST-CB
+SAMN52834521	isolation_source	wastewater
+SAMN52834521	collection_date	2023-11-29
+SAMN52834521	geo_loc_name	Italy: Gravellona Toce
+SAMN52834521	lat_lon	45.9383 N 8.4326 E
+SAMN52834521	ID	e_POST-GV
+SAMN52834522	isolation_source	wastewater
+SAMN52834522	collection_date	2024-01-24
+SAMN52834522	geo_loc_name	Italy: Mergozzo
+SAMN52834522	lat_lon	45.9675 N 8.4342 E
+SAMN52834522	ID	e_POST-MZ
+SAMN52834523	isolation_source	wastewater
+SAMN52834523	collection_date	2024-01-11
+SAMN52834523	geo_loc_name	Italy: Novara
+SAMN52834523	lat_lon	45.5700 N 8.4604 E
+SAMN52834523	ID	e_POST-NO
+SAMN52834524	isolation_source	wastewater
+SAMN52834524	collection_date	2024-01-17
+SAMN52834524	geo_loc_name	Italy: Verbania
+SAMN52834524	lat_lon	45.9403 N 8.5611 E
+SAMN52834524	ID	e_POST-VB
+SAMN52834525	isolation_source	wastewater
+SAMN52834525	collection_date	2023-12-13
+SAMN52834525	geo_loc_name	Italy: Cannobio
+SAMN52834525	lat_lon	46.0708 N 8.6930 E
+SAMN52834525	ID	e_PRE-CB
+SAMN52834526	isolation_source	wastewater
+SAMN52834526	collection_date	2023-11-29
+SAMN52834526	geo_loc_name	Italy: Gravellona Toce
+SAMN52834526	lat_lon	45.9383 N 8.4326 E
+SAMN52834526	ID	e_PRE-GV
+SAMN52834527	isolation_source	wastewater
+SAMN52834527	collection_date	2024-01-24
+SAMN52834527	geo_loc_name	Italy: Mergozzo
+SAMN52834527	lat_lon	45.9675 N 8.4342 E
+SAMN52834527	ID	e_PRE-MZ
+SAMN52834528	isolation_source	wastewater
+SAMN52834528	collection_date	2024-01-11
+SAMN52834528	geo_loc_name	Italy: Novara
+SAMN52834528	lat_lon	45.5700 N 8.4604 E
+SAMN52834528	ID	e_PRE-NO
+SAMN52834529	isolation_source	wastewater
+SAMN52834529	collection_date	2024-01-17
+SAMN52834529	geo_loc_name	Italy: Verbania
+SAMN52834529	lat_lon	45.9403 N 8.5611 E
+SAMN52834529	ID	e_PRE-VB
+SAMN52834530	isolation_source	wastewater
+SAMN52834530	collection_date	2023-12-13
+SAMN52834530	geo_loc_name	Italy: Cannobio
+SAMN52834530	lat_lon	46.0708 N 8.6930 E
+SAMN52834530	ID	i_POST-CB
+SAMN52834531	isolation_source	wastewater
+SAMN52834531	collection_date	2023-11-29
+SAMN52834531	geo_loc_name	Italy: Gravellona Toce
+SAMN52834531	lat_lon	45.9383 N 8.4326 E
+SAMN52834531	ID	i_POST-GV
+SAMN52834532	isolation_source	wastewater
+SAMN52834532	collection_date	2024-01-24
+SAMN52834532	geo_loc_name	Italy: Mergozzo
+SAMN52834532	lat_lon	45.9675 N 8.4342 E
+SAMN52834532	ID	i_POST-MZ
+SAMN52834533	isolation_source	wastewater
+SAMN52834533	collection_date	2024-01-11
+SAMN52834533	geo_loc_name	Italy: Novara
+SAMN52834533	lat_lon	45.5700 N 8.4604 E
+SAMN52834533	ID	i_POST-NO
+SAMN52834534	isolation_source	wastewater
+SAMN52834534	collection_date	2024-01-17
+SAMN52834534	geo_loc_name	Italy: Verbania
+SAMN52834534	lat_lon	45.9403 N 8.5611 E
+SAMN52834534	ID	i_POST-VB
+SAMN52834535	isolation_source	wastewater
+SAMN52834535	collection_date	2023-12-13
+SAMN52834535	geo_loc_name	Italy: Cannobio
+SAMN52834535	lat_lon	46.0708 N 8.6930 E
+SAMN52834535	ID	i_PRE-CB
+SAMN52834536	isolation_source	wastewater
+SAMN52834536	collection_date	2023-11-29
+SAMN52834536	geo_loc_name	Italy: Gravellona Toce
+SAMN52834536	lat_lon	45.9383 N 8.4326 E
+SAMN52834536	ID	i_PRE-GV
+SAMN52834537	isolation_source	wastewater
+SAMN52834537	collection_date	2024-01-24
+SAMN52834537	geo_loc_name	Italy: Mergozzo
+SAMN52834537	lat_lon	45.9675 N 8.4342 E
+SAMN52834537	ID	i_PRE-MZ
+SAMN52834538	isolation_source	wastewater
+SAMN52834538	collection_date	2024-01-11
+SAMN52834538	geo_loc_name	Italy: Novara
+SAMN52834538	lat_lon	45.5700 N 8.4604 E
+SAMN52834538	ID	i_PRE-NO
+SAMN52834539	isolation_source	wastewater
+SAMN52834539	collection_date	2024-01-17
+SAMN52834539	geo_loc_name	Italy: Verbania
+SAMN52834539	lat_lon	45.9403 N 8.5611 E
+SAMN52834539	ID	i_PRE-VB

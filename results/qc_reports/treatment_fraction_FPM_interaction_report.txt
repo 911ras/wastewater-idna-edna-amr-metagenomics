@@ -1,0 +1,20 @@
+Treatment x DNA-fraction interaction analysis
+Complete PRE/POST E/I units: 9
+
+DELTA_I_MINUS_E_GAP = (I_POST - E_POST) - (I_PRE - E_PRE)
+Positive delta = I/E mapping-signal gap widened after treatment.
+Negative delta = I/E mapping-signal gap narrowed after treatment.
+
+===== TOTAL ARG FPM INTERACTION =====
+PRJNA1346432	units=5	median_delta_gap=383.4432	gap_widened=3	gap_narrowed=2	median_E_post_minus_pre=2.9968	median_I_post_minus_pre=722.7797
+PRJNA881852	units=4	median_delta_gap=-7.7244	gap_widened=0	gap_narrowed=4	median_E_post_minus_pre=2.2320	median_I_post_minus_pre=-3.3503
+
+ALL_FACTORIAL_UNITS	units=9	median_delta_gap=-6.2672	gap_widened=3	gap_narrowed=6	equal=0	sign_test_p=0.507812500
+
+===== CORE-SIX GENE INTERACTIONS =====
+msr(E)	units=9	median_delta_gap=0.3957	widened=5	narrowed=4	equal=0	sign_test_p=1.000000000
+mph(E)	units=9	median_delta_gap=-0.5226	widened=3	narrowed=6	equal=0	sign_test_p=0.507812500
+tet(39)	units=9	median_delta_gap=-0.4787	widened=4	narrowed=5	equal=0	sign_test_p=1.000000000
+aph(6)-Id	units=9	median_delta_gap=-0.0588	widened=3	narrowed=6	equal=0	sign_test_p=0.507812500
+erm(F)	units=9	median_delta_gap=0.2297	widened=5	narrowed=4	equal=0	sign_test_p=1.000000000
+aph(3'')-Ib	units=9	median_delta_gap=-0.3917	widened=3	narrowed=6	equal=0	sign_test_p=0.507812500

@@ -1,0 +1,29 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+/home/user/ww_amr_batch/contigs/SRR21621036.contigs.fa	k141_102298	1019	1791	+	blaOXA-20_2	27-800/801	========/======	1/1	96.50	85.27	resfinder	AF024602	blaOXA-20	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid
+/home/user/ww_amr_batch/contigs/SRR21621036.contigs.fa	k141_117484	398	1054	-	qnrS2_1	1-657/657	===============	0/0	100.00	100.00	resfinder	DQ485530	qnrS2	Ciprofloxacin
+/home/user/ww_amr_batch/contigs/SRR21621036.contigs.fa	k141_120779	346	1182	-	aph(6)-Id_1	1-837/837	===============	0/0	100.00	100.00	resfinder	M28829	aph(6)-Id	Streptomycin
+/home/user/ww_amr_batch/contigs/SRR21621036.contigs.fa	k141_120779	1182	1752	-	aph(3'')-Ib_2	234-804/804	....===========	0/0	71.02	100.00	resfinder	AF024602	aph(3'')-Ib	Streptomycin
+/home/user/ww_amr_batch/contigs/SRR21621036.contigs.fa	k141_155280	1	714	+	erm(B)_10	25-738/738	===============	0/0	96.75	100.00	resfinder	U86375	erm(B)	Clindamycin;Erythromycin;Lincomycin;Pristinamycin_IA;Quinupristin;Virginiamycin_S
+/home/user/ww_amr_batch/contigs/SRR21621036.contigs.fa	k141_176728	1014	1880	-	sul1_5	1-867/867	===============	0/0	100.00	99.89	resfinder	EU780013	sul1	Sulfamethoxazole
+/home/user/ww_amr_batch/contigs/SRR21621036.contigs.fa	k141_190200	1	591	+	mph(A)_1	167-757/906	..===========..	0/0	65.23	100.00	resfinder	D16251	mph(A)	Azithromycin;Erythromycin;Spiramycin;Telithromycin
+/home/user/ww_amr_batch/contigs/SRR21621036.contigs.fa	k141_206013	4	1929	-	tet(Q)_1	1-1926/1926	===============	0/0	100.00	97.04	resfinder	L33696	tet(Q)	Doxycycline;Minocycline;Tetracycline
+/home/user/ww_amr_batch/contigs/SRR21621036.contigs.fa	k141_206477	1	635	-	cfxA3_1	38-672/966	===========....	0/0	65.73	97.17	resfinder	AF472622	cfxA3	Ampicillin
+/home/user/ww_amr_batch/contigs/SRR21621036.contigs.fa	k141_222006	92	671	-	aadA5_1	210-789/789	...============	0/0	73.51	100.00	resfinder	AF137361	aadA5	Spectinomycin;Streptomycin
+/home/user/ww_amr_batch/contigs/SRR21621036.contigs.fa	k141_266263	227	1057	+	blaOXA-4_1	1-831/831	===============	0/0	100.00	100.00	resfinder	AY162283	blaOXA-4	
+/home/user/ww_amr_batch/contigs/SRR21621036.contigs.fa	k141_267	633	1433	+	blaOXA-10_1	1-801/801	===============	0/0	100.00	99.38	resfinder	J03427	blaOXA-10	Amoxicillin;Ampicillin;Aztreonam;Piperacillin;Piperacillin+Tazobactam
+/home/user/ww_amr_batch/contigs/SRR21621036.contigs.fa	k141_270281	44	565	-	blaOXA-464_1	241-762/762	....===========	0/0	68.50	83.72	resfinder	KU721146	blaOXA-464	
+/home/user/ww_amr_batch/contigs/SRR21621036.contigs.fa	k141_288960	173	691	-	blaIMP-28_1	223-741/741	....===========	0/0	70.04	98.07	resfinder	JQ407409	blaIMP-28	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefepime;Cefixime;Cefotaxime;Cefoxitin;Ceftazidime;Ertapenem;Imipenem;Meropenem;Piperacillin;Piperacillin+Tazobactam
+/home/user/ww_amr_batch/contigs/SRR21621036.contigs.fa	k141_289132	267	1007	-	blaIMP-16_1	1-741/741	===============	0/0	100.00	100.00	resfinder	AJ584652	blaIMP-16	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefepime;Cefixime;Cefotaxime;Cefoxitin;Ceftazidime;Ertapenem;Imipenem;Meropenem;Piperacillin;Piperacillin+Tazobactam
+/home/user/ww_amr_batch/contigs/SRR21621036.contigs.fa	k141_299040	482	1333	-	blaBEL-1_1	1-852/852	===============	0/0	100.00	99.18	resfinder	DQ089809	blaBEL-1	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefotaxime;Cefoxitin;Ceftazidime;Piperacillin;Piperacillin+Tazobactam;Ticarcillin;Ticarcillin+Clavulanic_acid
+/home/user/ww_amr_batch/contigs/SRR21621036.contigs.fa	k141_307140	1	618	-	aadA10_2	1-618/834	============...	0/0	74.10	100.00	resfinder	AM087405	aadA10	Spectinomycin;Streptomycin
+/home/user/ww_amr_batch/contigs/SRR21621036.contigs.fa	k141_309132	4130	4296	+	dfrB6_1	64-230/237	....===========	0/0	70.46	80.84	resfinder	DQ274503	dfrB6	Trimethoprim
+/home/user/ww_amr_batch/contigs/SRR21621036.contigs.fa	k141_312816	253	1052	+	blaOXA-20_2	2-801/801	===============	0/0	99.88	99.62	resfinder	AF024602	blaOXA-20	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid
+/home/user/ww_amr_batch/contigs/SRR21621036.contigs.fa	k141_315791	1	536	-	mph(G)_1	1-536/885	==========.....	0/0	60.56	94.22	resfinder	AB571865	mph(G)	Erythromycin
+/home/user/ww_amr_batch/contigs/SRR21621036.contigs.fa	k141_385550	17	818	+	ant(3'')-Ia_1	171-972/972	..=============	0/0	82.51	97.38	resfinder	X02340	ant(3'')-Ia	Streptomycin
+/home/user/ww_amr_batch/contigs/SRR21621036.contigs.fa	k141_408149	1	615	-	blaOXA-119_1	1-615/801	============...	0/0	76.78	99.02	resfinder	DQ767903	blaOXA-119	
+/home/user/ww_amr_batch/contigs/SRR21621036.contigs.fa	k141_410089	1055	1939	-	mph(E)_1	1-885/885	===============	0/0	100.00	100.00	resfinder	DQ839391	mph(E)	Erythromycin
+/home/user/ww_amr_batch/contigs/SRR21621036.contigs.fa	k141_410089	1995	3470	-	msr(E)_1	1-1476/1476	===============	0/0	100.00	100.00	resfinder	FR751518	msr(E)	Azithromycin;Erythromycin;Pristinamycin_IA;Quinupristin;Virginiamycin_S
+/home/user/ww_amr_batch/contigs/SRR21621036.contigs.fa	k141_413716	1	1168	-	mef(C)_1	1-1168/1224	===============	0/0	95.42	91.52	resfinder	AB571865	mef(C)	Erythromycin
+/home/user/ww_amr_batch/contigs/SRR21621036.contigs.fa	k141_44158	1	761	+	erm(F)_3	41-801/801	===============	0/0	95.01	99.74	resfinder	M17808	erm(F)	Clindamycin;Erythromycin;Lincomycin;Pristinamycin_IA;Quinupristin;Virginiamycin_S
+/home/user/ww_amr_batch/contigs/SRR21621036.contigs.fa	k141_53622	413	1228	+	sul2_2	1-816/816	===============	0/0	100.00	100.00	resfinder	AY034138	sul2	Sulfamethoxazole
+/home/user/ww_amr_batch/contigs/SRR21621036.contigs.fa	k141_81767	288	1475	-	tet(39)_2	1-1188/1188	===============	0/0	100.00	99.92	resfinder	CP044518	tet(39)	Doxycycline;Tetracycline;Tigecycline

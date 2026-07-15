@@ -1,0 +1,22 @@
+KMA batch OK samples: 42
+Structured samples analysed: 42
+
+DPM definition: summed KMA template Depth x 1,000,000 / post-trimming query fragments
+DPM is treated as normalized read-mapping depth, not absolute ARG abundance.
+
+===== THRESHOLD SUMMARY =====
+PRIMARY_90ID_60COV	template_hits=1313	normalized_ARG_labels=229	detected_samples=42/42
+STRICT_90ID_80COV	template_hits=1313	normalized_ARG_labels=229	detected_samples=42/42
+
+===== TEST-SAMPLE CROSS-CHECK =====
+SRR27639475	primary_labels=229	primary_total_DPM=0.586188
+
+===== PRIMARY 90/60 INDEPENDENT-UNIT E/I SUMMARY =====
+PRJNA1066593	units=3	median_log2_I_over_E=3.266	mean_log2_I_over_E=3.449	I_greater=3	E_greater=0	exact_signflip_p=0.250000
+PRJNA1346432	units=5	median_log2_I_over_E=5.941	mean_log2_I_over_E=4.883	I_greater=5	E_greater=0	exact_signflip_p=0.062500
+PRJNA881852	units=4	median_log2_I_over_E=3.753	mean_log2_I_over_E=3.447	I_greater=4	E_greater=0	exact_signflip_p=0.125000
+
+ALL_3_STUDIES	units=12	median_log2_I_over_E=4.090	mean_log2_I_over_E=4.046	I_greater=12	E_greater=0	exact_signflip_p=0.000488
+
+Ratio pseudocount: 0.0409636170
+Factorial-study PRE/POST observations were averaged within DNA fraction before independent-unit comparison.

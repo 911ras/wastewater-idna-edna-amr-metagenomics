@@ -1,0 +1,6 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+/home/user/ww_amr_batch/contigs/SRR21621034.contigs.fa	k141_122050	1971	3446	+	msr(E)_1	1-1476/1476	===============	0/0	100.00	100.00	resfinder	FR751518	msr(E)	Azithromycin;Erythromycin;Pristinamycin_IA;Quinupristin;Virginiamycin_S
+/home/user/ww_amr_batch/contigs/SRR21621034.contigs.fa	k141_122050	3502	4199	+	mph(E)_1	1-698/885	============...	0/0	78.87	99.86	resfinder	DQ839391	mph(E)	Erythromycin
+/home/user/ww_amr_batch/contigs/SRR21621034.contigs.fa	k141_122436	87	657	+	aadA1_5	51-621/792	============...	0/0	72.10	99.65	resfinder	JX185132	aadA1	Spectinomycin;Streptomycin
+/home/user/ww_amr_batch/contigs/SRR21621034.contigs.fa	k141_201608	1	573	-	mph(N)_1	1-573/909	==========.....	0/0	63.04	95.11	resfinder	KF648874	mph(N)	Erythromycin
+/home/user/ww_amr_batch/contigs/SRR21621034.contigs.fa	k141_394843	838	1704	-	sul1_5	1-867/867	===============	0/0	100.00	99.89	resfinder	EU780013	sul1	Sulfamethoxazole

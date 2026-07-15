@@ -1,0 +1,37 @@
+KMA FPM validation
+Mapstat samples: 42/42 OK
+Input fragment totals: 42/42 MATCH
+Bytewise RES matches: 41/42
+SRR35815519 semantic validation: PASSED
+
+FPM = summed fragmentCount of threshold-retained KMA templates x 1,000,000 / input fragments.
+FPM is reported as normalized KMA fragment-mapping signal, not absolute ARG abundance.
+
+===== THRESHOLD SUMMARY =====
+PRIMARY_90ID_60COV	ARG_labels_dataset=229	detected_samples=35/42	median_positive_labels=10.5	min_labels=0	max_labels=180
+STRICT_90ID_80COV	ARG_labels_dataset=229	detected_samples=35/42	median_positive_labels=10.5	min_labels=0	max_labels=180
+
+===== TEST SAMPLE VALIDATION =====
+PRIMARY_90ID_60COV	labels=2	mapped_fragment_sum=65	total_FPM=3.196497
+STRICT_90ID_80COV	labels=2	mapped_fragment_sum=65	total_FPM=3.196497
+
+===== ENDPOINT DIAGNOSTICS =====
+TOTAL_FPM vs INPUT_FRAGMENTS	Spearman_rho=0.0449
+TOTAL_FPM vs TOTAL_DPM	Spearman_rho=0.9971
+UNIT_LOG2_FPM_RATIO vs UNIT_LOG2_DPM_RATIO	Spearman_rho=1.0000
+
+===== PRIMARY_90ID_60COV INDEPENDENT-UNIT E/I SUMMARY =====
+PRJNA1066593	units=3	median_log2_I_over_E=3.385	mean_log2_I_over_E=3.479	I_greater=3	E_greater=0	p=0.250000
+PRJNA1346432	units=5	median_log2_I_over_E=5.797	mean_log2_I_over_E=4.965	I_greater=5	E_greater=0	p=0.062500
+PRJNA881852	units=4	median_log2_I_over_E=3.857	mean_log2_I_over_E=3.528	I_greater=4	E_greater=0	p=0.125000
+
+ALL_3_STUDIES	units=12	median_log2_I_over_E=4.268	mean_log2_I_over_E=4.115	I_greater=12	E_greater=0	p=0.000488
+Pseudocount=0.1503252000
+
+===== STRICT_90ID_80COV INDEPENDENT-UNIT E/I SUMMARY =====
+PRJNA1066593	units=3	median_log2_I_over_E=3.385	mean_log2_I_over_E=3.479	I_greater=3	E_greater=0	p=0.250000
+PRJNA1346432	units=5	median_log2_I_over_E=5.797	mean_log2_I_over_E=4.965	I_greater=5	E_greater=0	p=0.062500
+PRJNA881852	units=4	median_log2_I_over_E=3.857	mean_log2_I_over_E=3.528	I_greater=4	E_greater=0	p=0.125000
+
+ALL_3_STUDIES	units=12	median_log2_I_over_E=4.268	mean_log2_I_over_E=4.115	I_greater=12	E_greater=0	p=0.000488
+Pseudocount=0.1503252000

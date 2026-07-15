@@ -1,0 +1,6 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+/home/user/ww_amr_batch/contigs/SRR35815513.contigs.fa	k141_232976	176	976	-	erm(F)_3	1-801/801	===============	0/0	100.00	99.62	resfinder	M17808	erm(F)	Clindamycin;Erythromycin;Lincomycin;Pristinamycin_IA;Quinupristin;Virginiamycin_S
+/home/user/ww_amr_batch/contigs/SRR35815513.contigs.fa	k141_299489	284	1168	+	mph(G)_1	1-885/885	===============	0/0	100.00	99.32	resfinder	AB571865	mph(G)	Erythromycin
+/home/user/ww_amr_batch/contigs/SRR35815513.contigs.fa	k141_572553	1181	2347	+	tet(X)_2	1-1167/1167	===============	0/0	100.00	99.91	resfinder	M37699	tet(X)	Doxycycline;Minocycline;Tetracycline;Tigecycline
+/home/user/ww_amr_batch/contigs/SRR35815513.contigs.fa	k141_627699	1	1078	+	mef(C)_1	147-1224/1224	.==============	0/0	88.07	97.87	resfinder	AB571865	mef(C)	Erythromycin
+/home/user/ww_amr_batch/contigs/SRR35815513.contigs.fa	k141_645879	4590	5474	-	mph(G)_1	1-885/885	===============	0/0	100.00	89.38	resfinder	AB571865	mph(G)	Erythromycin

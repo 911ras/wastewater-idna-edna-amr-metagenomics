@@ -1,0 +1,4 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+/home/user/ww_amr_batch/contigs/SRR35815529.contigs.fa	k141_160274	219	1019	-	erm(F)_3	1-801/801	===============	0/0	100.00	98.88	resfinder	M17808	erm(F)	Clindamycin;Erythromycin;Lincomycin;Pristinamycin_IA;Quinupristin;Virginiamycin_S
+/home/user/ww_amr_batch/contigs/SRR35815529.contigs.fa	k141_290152	1	703	+	tet(X)_1	23-725/1167	==========.....	0/0	60.24	99.43	resfinder	GU014535	tet(X)	Doxycycline;Minocycline;Tetracycline;Tigecycline
+/home/user/ww_amr_batch/contigs/SRR35815529.contigs.fa	k141_309511	1109	1837	-	blaOXA-209_1	1-729/825	========/=====.	4/8	87.88	83.63	resfinder	JF268688	blaOXA-209	

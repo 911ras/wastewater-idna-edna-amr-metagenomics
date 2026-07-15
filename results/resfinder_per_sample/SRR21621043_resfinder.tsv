@@ -1,0 +1,6 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+/home/user/ww_amr_batch/contigs/SRR21621043.contigs.fa	k141_145352	1118	1984	-	sul1_5	1-867/867	===============	0/0	100.00	99.89	resfinder	EU780013	sul1	Sulfamethoxazole
+/home/user/ww_amr_batch/contigs/SRR21621043.contigs.fa	k141_24939	1	516	-	sul2_11	1-516/816	==========.....	0/0	63.24	100.00	resfinder	AY232670	sul2	Sulfamethoxazole
+/home/user/ww_amr_batch/contigs/SRR21621043.contigs.fa	k141_261632	1	585	-	mph(E)_1	1-585/885	==========.....	0/0	66.10	100.00	resfinder	DQ839391	mph(E)	Erythromycin
+/home/user/ww_amr_batch/contigs/SRR21621043.contigs.fa	k141_261632	641	1540	-	msr(E)_1	577-1476/1476	.....==========	0/0	60.98	100.00	resfinder	FR751518	msr(E)	Azithromycin;Erythromycin;Pristinamycin_IA;Quinupristin;Virginiamycin_S
+/home/user/ww_amr_batch/contigs/SRR21621043.contigs.fa	k141_78898	280	1052	+	blaOXA-20_2	27-800/801	========/======	1/1	96.50	85.14	resfinder	AF024602	blaOXA-20	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid

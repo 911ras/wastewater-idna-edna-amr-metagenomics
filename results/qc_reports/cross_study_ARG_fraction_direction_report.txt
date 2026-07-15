@@ -1,0 +1,53 @@
+ARG labels evaluated: 186
+
+===== CONSENSUS CLASS COUNTS =====
+LIMITED_SUPPORT	129
+I_ENRICHED_2PLUS_NO_E	25
+BALANCED_ONLY	18
+I_ENRICHED_ALL_3	12
+MIXED_DIRECTION	2
+
+===== CROSS-STUDY I-ENRICHED ARG LABELS =====
+blaOXA-4	I_ENRICHED_ALL_3	I_projects=3	E_projects=0	both=1	E_only=0	I_only=18	score=18	p=0.000008	q=0.001419
+aph(3'')-Ib	I_ENRICHED_ALL_3	I_projects=3	E_projects=0	both=3	E_only=0	I_only=15	score=15	p=0.000061	q=0.005676
+sul1	I_ENRICHED_ALL_3	I_projects=3	E_projects=0	both=7	E_only=0	I_only=14	score=14	p=0.000122	q=0.005676
+tet(Q)	I_ENRICHED_ALL_3	I_projects=3	E_projects=0	both=1	E_only=0	I_only=14	score=14	p=0.000122	q=0.005676
+aph(6)-Id	I_ENRICHED_ALL_3	I_projects=3	E_projects=0	both=3	E_only=0	I_only=13	score=13	p=0.000244	q=0.005676
+erm(F)	I_ENRICHED_ALL_3	I_projects=3	E_projects=0	both=4	E_only=0	I_only=13	score=13	p=0.000244	q=0.005676
+mph(E)	I_ENRICHED_ALL_3	I_projects=3	E_projects=0	both=8	E_only=0	I_only=13	score=13	p=0.000244	q=0.005676
+msr(E)	I_ENRICHED_ALL_3	I_projects=3	E_projects=0	both=8	E_only=0	I_only=13	score=13	p=0.000244	q=0.005676
+blaOXA-10	I_ENRICHED_ALL_3	I_projects=3	E_projects=0	both=2	E_only=0	I_only=11	score=11	p=0.000977	q=0.015137
+ant(3'')-Ia	I_ENRICHED_ALL_3	I_projects=3	E_projects=0	both=2	E_only=1	I_only=12	score=11	p=0.003418	q=0.042383
+tet(39)	I_ENRICHED_ALL_3	I_projects=3	E_projects=0	both=2	E_only=0	I_only=10	score=10	p=0.001953	q=0.025949
+blaIMP-16	I_ENRICHED_ALL_3	I_projects=3	E_projects=0	both=0	E_only=0	I_only=8	score=8	p=0.007812	q=0.072656
+blaOXA-205	I_ENRICHED_2PLUS_NO_E	I_projects=2	E_projects=0	both=0	E_only=0	I_only=12	score=12	p=0.000488	q=0.009082
+erm(B)	I_ENRICHED_2PLUS_NO_E	I_projects=2	E_projects=0	both=2	E_only=0	I_only=12	score=12	p=0.000488	q=0.009082
+blaOXA-20	I_ENRICHED_2PLUS_NO_E	I_projects=2	E_projects=0	both=0	E_only=0	I_only=11	score=11	p=0.000977	q=0.015137
+aadA5	I_ENRICHED_2PLUS_NO_E	I_projects=2	E_projects=0	both=0	E_only=0	I_only=10	score=10	p=0.001953	q=0.025949
+sul2	I_ENRICHED_2PLUS_NO_E	I_projects=2	E_projects=0	both=3	E_only=0	I_only=9	score=9	p=0.003906	q=0.045410
+blaBEL-1	I_ENRICHED_2PLUS_NO_E	I_projects=2	E_projects=0	both=1	E_only=0	I_only=8	score=8	p=0.007812	q=0.072656
+cfxA3	I_ENRICHED_2PLUS_NO_E	I_projects=2	E_projects=0	both=1	E_only=0	I_only=8	score=8	p=0.007812	q=0.072656
+mph(A)	I_ENRICHED_2PLUS_NO_E	I_projects=2	E_projects=0	both=2	E_only=0	I_only=8	score=8	p=0.007812	q=0.072656
+aadA6	I_ENRICHED_2PLUS_NO_E	I_projects=2	E_projects=0	both=0	E_only=0	I_only=7	score=7	p=0.015625	q=0.100216
+blaIMP-33	I_ENRICHED_2PLUS_NO_E	I_projects=2	E_projects=0	both=0	E_only=0	I_only=7	score=7	p=0.015625	q=0.100216
+blaOXA-2	I_ENRICHED_2PLUS_NO_E	I_projects=2	E_projects=0	both=1	E_only=0	I_only=7	score=7	p=0.015625	q=0.100216
+cfxA6	I_ENRICHED_2PLUS_NO_E	I_projects=2	E_projects=0	both=1	E_only=0	I_only=7	score=7	p=0.015625	q=0.100216
+mph(G)	I_ENRICHED_2PLUS_NO_E	I_projects=2	E_projects=0	both=3	E_only=0	I_only=7	score=7	p=0.015625	q=0.100216
+qnrS2	I_ENRICHED_2PLUS_NO_E	I_projects=2	E_projects=0	both=3	E_only=0	I_only=7	score=7	p=0.015625	q=0.100216
+tet(O)	I_ENRICHED_2PLUS_NO_E	I_projects=2	E_projects=0	both=1	E_only=0	I_only=7	score=7	p=0.015625	q=0.100216
+tet(X)	I_ENRICHED_2PLUS_NO_E	I_projects=2	E_projects=0	both=4	E_only=0	I_only=7	score=7	p=0.015625	q=0.100216
+aadA11	I_ENRICHED_2PLUS_NO_E	I_projects=2	E_projects=0	both=2	E_only=0	I_only=6	score=6	p=0.031250	q=0.145313
+aadA13	I_ENRICHED_2PLUS_NO_E	I_projects=2	E_projects=0	both=0	E_only=0	I_only=6	score=6	p=0.031250	q=0.145313
+blaOXA-119	I_ENRICHED_2PLUS_NO_E	I_projects=2	E_projects=0	both=0	E_only=0	I_only=6	score=6	p=0.031250	q=0.145313
+mef(C)	I_ENRICHED_2PLUS_NO_E	I_projects=2	E_projects=0	both=3	E_only=0	I_only=6	score=6	p=0.031250	q=0.145313
+blaOXA-101	I_ENRICHED_2PLUS_NO_E	I_projects=2	E_projects=0	both=0	E_only=0	I_only=5	score=5	p=0.062500	q=0.219340
+aadA10	I_ENRICHED_2PLUS_NO_E	I_projects=2	E_projects=0	both=1	E_only=0	I_only=4	score=4	p=0.125000	q=0.310000
+mef(B)	I_ENRICHED_2PLUS_NO_E	I_projects=2	E_projects=0	both=0	E_only=0	I_only=4	score=4	p=0.125000	q=0.310000
+blaOXA-58	I_ENRICHED_2PLUS_NO_E	I_projects=2	E_projects=0	both=0	E_only=1	I_only=4	score=3	p=0.375000	q=0.801724
+blaOXA-46	I_ENRICHED_2PLUS_NO_E	I_projects=2	E_projects=0	both=0	E_only=0	I_only=2	score=2	p=0.500000	q=0.894231
+
+===== CROSS-STUDY E-ENRICHED ARG LABELS =====
+
+===== MIXED-DIRECTION ARG LABELS =====
+aadA2	I_projects=1	E_projects=1	E_only=1	I_only=6
+mph(N)	I_projects=1	E_projects=1	E_only=1	I_only=1

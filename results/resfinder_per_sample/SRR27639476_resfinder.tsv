@@ -1,0 +1,4 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+/home/user/ww_amr_batch/contigs/SRR27639476.contigs.fa	k141_118968	1	1082	+	msr(E)_1	395-1476/1476	....===========	0/0	73.31	100.00	resfinder	FR751518	msr(E)	Azithromycin;Erythromycin;Pristinamycin_IA;Quinupristin;Virginiamycin_S
+/home/user/ww_amr_batch/contigs/SRR27639476.contigs.fa	k141_58792	1	593	+	mph(E)_1	293-885/885	....===========	0/0	67.01	99.83	resfinder	DQ839391	mph(E)	Erythromycin
+/home/user/ww_amr_batch/contigs/SRR27639476.contigs.fa	k141_7382	89	727	-	blaOXA-459_1	192-827/828	...=====/======	3/5	76.69	85.62	resfinder	KP903889	blaOXA-459	

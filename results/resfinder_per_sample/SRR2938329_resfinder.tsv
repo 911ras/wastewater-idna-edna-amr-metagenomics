@@ -1,0 +1,29 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+/home/user/ww_amr_batch/contigs/SRR2938329.contigs.fa	k141_10773	156	559	+	qnrB19_1	1-404/645	==========.....	0/0	62.64	100.00	resfinder	EU432277	qnrB19	Ciprofloxacin
+/home/user/ww_amr_batch/contigs/SRR2938329.contigs.fa	k141_11057	312	843	-	cat_2	93-624/624	..=============	0/0	85.26	96.43	resfinder	M35190	cat	Chloramphenicol
+/home/user/ww_amr_batch/contigs/SRR2938329.contigs.fa	k141_11430	22	906	-	mph(E)_1	1-885/885	===============	0/0	100.00	100.00	resfinder	DQ839391	mph(E)	Erythromycin
+/home/user/ww_amr_batch/contigs/SRR2938329.contigs.fa	k141_11430	962	2437	-	msr(E)_1	1-1476/1476	===============	0/0	100.00	100.00	resfinder	FR751518	msr(E)	Azithromycin;Erythromycin;Pristinamycin_IA;Quinupristin;Virginiamycin_S
+/home/user/ww_amr_batch/contigs/SRR2938329.contigs.fa	k141_1351	262	669	-	catS_1	130-537/537	...============	0/0	75.98	98.53	resfinder	X74948	catS	Chloramphenicol
+/home/user/ww_amr_batch/contigs/SRR2938329.contigs.fa	k141_16713	5030	6949	-	tet(O)_1	1-1920/1920	===============	0/0	100.00	99.74	resfinder	M18896	tet(O)	Doxycycline;Minocycline;Tetracycline
+/home/user/ww_amr_batch/contigs/SRR2938329.contigs.fa	k141_16922	1	543	-	catB3_2	50-592/633	.==============	0/0	85.78	100.00	resfinder	U13880	catB3	Chloramphenicol
+/home/user/ww_amr_batch/contigs/SRR2938329.contigs.fa	k141_17179	815	2734	-	tet(W)_4	1-1920/1920	===============	0/0	100.00	99.01	resfinder	FN396364	tet(W)	Doxycycline;Minocycline;Tetracycline
+/home/user/ww_amr_batch/contigs/SRR2938329.contigs.fa	k141_1766	184	945	-	aadA5_1	28-789/789	===============	0/0	96.58	99.61	resfinder	AF137361	aadA5	Spectinomycin;Streptomycin
+/home/user/ww_amr_batch/contigs/SRR2938329.contigs.fa	k141_17724	240	642	+	ant(2'')-Ia_1	1-403/534	============...	0/0	75.47	100.00	resfinder	X04555	ant(2'')-Ia	Gentamicin;Tobramycin
+/home/user/ww_amr_batch/contigs/SRR2938329.contigs.fa	k141_20008	4836	5638	+	aph(3'')-Ib_2	2-804/804	===============	0/0	99.88	99.88	resfinder	AF024602	aph(3'')-Ib	Streptomycin
+/home/user/ww_amr_batch/contigs/SRR2938329.contigs.fa	k141_20008	5638	6474	+	aph(6)-Id_1	1-837/837	===============	0/0	100.00	100.00	resfinder	M28829	aph(6)-Id	Streptomycin
+/home/user/ww_amr_batch/contigs/SRR2938329.contigs.fa	k141_23190	6	559	+	blaOXA-2_1	194-747/828	...===========.	0/0	66.91	95.85	resfinder	DQ112222	blaOXA-2	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Ceftazidime;Piperacillin
+/home/user/ww_amr_batch/contigs/SRR2938329.contigs.fa	k141_26167	1896	2633	+	erm(B)_12	1-738/738	===============	0/0	100.00	100.00	resfinder	U18931	erm(B)	Clindamycin;Erythromycin;Lincomycin;Pristinamycin_IA;Quinupristin;Virginiamycin_S
+/home/user/ww_amr_batch/contigs/SRR2938329.contigs.fa	k141_26674	1	569	+	mph(A)_2	354-921/921	.....===/======	1/1	61.67	98.42	resfinder	U36578	mph(A)	Azithromycin;Erythromycin;Spiramycin;Telithromycin
+/home/user/ww_amr_batch/contigs/SRR2938329.contigs.fa	k141_28396	1	539	+	sul2_12	278-816/816	.....==========	0/0	66.05	100.00	resfinder	AF497970	sul2	Sulfamethoxazole
+/home/user/ww_amr_batch/contigs/SRR2938329.contigs.fa	k141_28488	1064	2251	+	tet(39)_2	1-1188/1188	===============	0/0	100.00	99.92	resfinder	CP044518	tet(39)	Doxycycline;Tetracycline;Tigecycline
+/home/user/ww_amr_batch/contigs/SRR2938329.contigs.fa	k141_30387	337	993	-	qnrVC1_1	1-657/657	===============	0/0	100.00	99.85	resfinder	EU436855	qnrVC1	Ciprofloxacin
+/home/user/ww_amr_batch/contigs/SRR2938329.contigs.fa	k141_3059	184	1404	+	tet(40)_1	1-1221/1221	===============	0/0	100.00	99.84	resfinder	FJ158002	tet(40)	Doxycycline;Tetracycline
+/home/user/ww_amr_batch/contigs/SRR2938329.contigs.fa	k141_32021	381	1247	+	sul1_5	1-867/867	===============	0/0	100.00	99.89	resfinder	EU780013	sul1	Sulfamethoxazole
+/home/user/ww_amr_batch/contigs/SRR2938329.contigs.fa	k141_32234	1	764	+	mef(C)_1	22-785/1224	==========.....	0/0	62.42	99.87	resfinder	AB571865	mef(C)	Erythromycin
+/home/user/ww_amr_batch/contigs/SRR2938329.contigs.fa	k141_33571	287	1117	-	blaOXA-4_1	1-831/831	===============	0/0	100.00	99.88	resfinder	AY162283	blaOXA-4	
+/home/user/ww_amr_batch/contigs/SRR2938329.contigs.fa	k141_34013	1	641	-	aadA6_1	183-823/846	...============	0/0	75.77	95.63	resfinder	AF140629	aadA6	Spectinomycin;Streptomycin
+/home/user/ww_amr_batch/contigs/SRR2938329.contigs.fa	k141_5217	127	708	-	aac(6')-IIc_1	1-582/582	===============	0/0	100.00	99.83	resfinder	NC_012555	aac(6')-IIc	Gentamicin;Tobramycin
+/home/user/ww_amr_batch/contigs/SRR2938329.contigs.fa	k141_6611	1170	1664	+	lnu(C)_1	1-495/495	===============	0/0	100.00	99.19	resfinder	AY928180	lnu(C)	Lincomycin
+/home/user/ww_amr_batch/contigs/SRR2938329.contigs.fa	k141_8646	1	1402	-	tet(M)_4	449-1850/1920	...============	0/0	73.02	97.08	resfinder	X75073	tet(M)	Doxycycline;Minocycline;Tetracycline
+/home/user/ww_amr_batch/contigs/SRR2938329.contigs.fa	k141_8728	1	667	-	blaOXA-212_1	1-667/825	=============..	0/0	80.85	96.10	resfinder	JN861780	blaOXA-212	
+/home/user/ww_amr_batch/contigs/SRR2938329.contigs.fa	k141_8792	926	2116	+	tet(C)_3	1-1191/1191	===============	0/0	100.00	99.92	resfinder	AF055345	tet(C)	Doxycycline;Tetracycline

@@ -1,0 +1,7 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+/home/user/ww_amr_batch/contigs/SRR2938325.contigs.fa	k141_19032	14990	15805	-	sul2_2	1-816/816	===============	0/0	100.00	100.00	resfinder	AY034138	sul2	Sulfamethoxazole
+/home/user/ww_amr_batch/contigs/SRR2938325.contigs.fa	k141_19217	1	529	-	lnu(F)_1	215-743/822	...===========.	0/0	64.36	99.06	resfinder	EU118119	lnu(F)	Lincomycin
+/home/user/ww_amr_batch/contigs/SRR2938325.contigs.fa	k141_25412	204	969	-	ere(A)_6	456-1221/1221	.....==========	0/0	62.74	99.35	resfinder	DQ157752	ere(A)	Erythromycin
+/home/user/ww_amr_batch/contigs/SRR2938325.contigs.fa	k141_64327	210	1094	-	mph(G)_1	1-885/885	===============	0/0	100.00	99.77	resfinder	AB571865	mph(G)	Erythromycin
+/home/user/ww_amr_batch/contigs/SRR2938325.contigs.fa	k141_64327	1099	2302	-	mef(C)_1	21-1224/1224	===============	0/0	98.37	99.83	resfinder	AB571865	mef(C)	Erythromycin
+/home/user/ww_amr_batch/contigs/SRR2938325.contigs.fa	k141_70261	5992	6843	+	sul1_9	1-852/852	===============	0/0	100.00	100.00	resfinder	AY963803	sul1	Sulfamethoxazole

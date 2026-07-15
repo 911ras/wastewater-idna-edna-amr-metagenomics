@@ -1,0 +1,10 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+/home/user/ww_amr_batch/contigs/SRR35815511.contigs.fa	k141_108137	581	2056	+	msr(E)_1	1-1476/1476	===============	0/0	100.00	100.00	resfinder	FR751518	msr(E)	Azithromycin;Erythromycin;Pristinamycin_IA;Quinupristin;Virginiamycin_S
+/home/user/ww_amr_batch/contigs/SRR35815511.contigs.fa	k141_108137	2112	2996	+	mph(E)_1	1-885/885	===============	0/0	100.00	100.00	resfinder	DQ839391	mph(E)	Erythromycin
+/home/user/ww_amr_batch/contigs/SRR35815511.contigs.fa	k141_175489	130	1356	+	ere(D)_1	1-1227/1227	===============	0/0	100.00	98.53	resfinder	KP265721	ere(D)	Erythromycin
+/home/user/ww_amr_batch/contigs/SRR35815511.contigs.fa	k141_175489	1569	2372	-	tet(X)_2	364-1167/1167	....===========	0/0	68.89	99.88	resfinder	M37699	tet(X)	Doxycycline;Minocycline;Tetracycline;Tigecycline
+/home/user/ww_amr_batch/contigs/SRR35815511.contigs.fa	k141_299024	614	1414	-	erm(F)_3	1-801/801	===============	0/0	100.00	99.75	resfinder	M17808	erm(F)	Clindamycin;Erythromycin;Lincomycin;Pristinamycin_IA;Quinupristin;Virginiamycin_S
+/home/user/ww_amr_batch/contigs/SRR35815511.contigs.fa	k141_416253	1594	2390	-	mph(G)_1	89-885/885	.==============	0/0	90.06	99.75	resfinder	AB571865	mph(G)	Erythromycin
+/home/user/ww_amr_batch/contigs/SRR35815511.contigs.fa	k141_519645	60	678	-	aadA1_5	174-792/792	...============	0/0	78.16	99.52	resfinder	JX185132	aadA1	Spectinomycin;Streptomycin
+/home/user/ww_amr_batch/contigs/SRR35815511.contigs.fa	k141_61797	1747	2631	-	mph(G)_1	1-885/885	===============	0/0	100.00	89.49	resfinder	AB571865	mph(G)	Erythromycin
+/home/user/ww_amr_batch/contigs/SRR35815511.contigs.fa	k141_61797	2635	3370	-	mef(C)_1	489-1224/1224	.....==========	0/0	60.13	93.75	resfinder	AB571865	mef(C)	Erythromycin

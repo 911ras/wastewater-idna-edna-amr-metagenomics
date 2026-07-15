@@ -1,0 +1,3 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+/home/user/ww_amr_batch/contigs/SRR21621045.contigs.fa	k141_305265	665	1405	-	blaIMP-5_1	1-741/741	===============	0/0	100.00	98.11	resfinder	AF290912	blaIMP-5	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefepime;Cefixime;Cefotaxime;Cefoxitin;Ceftazidime;Ertapenem;Imipenem;Meropenem;Piperacillin;Piperacillin+Tazobactam
+/home/user/ww_amr_batch/contigs/SRR21621045.contigs.fa	k141_356196	675	1204	-	sul1_14	311-840/840	.....==========	0/0	63.10	100.00	resfinder	AJ517791	sul1	Sulfamethoxazole

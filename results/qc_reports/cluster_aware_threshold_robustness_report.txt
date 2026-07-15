@@ -1,0 +1,42 @@
+Independent matched units: 12
+
+===== THRESHOLD ROBUSTNESS COUNTS =====
+NO_REPRODUCIBLE_DIRECTION	148
+I_FAVOURING_BOTH_THRESHOLDS	30
+I_FAVOURING_PRIMARY_ONLY	7
+I_FAVOURING_STRICT_ONLY	1
+
+===== ROBUST I-FAVOURING ARG LABELS =====
+blaOXA-4	primary=I_FAVOURING_ALL_3	primary_score=18	primary_I_units=10	primary_E_units=0	primary_p=0.001953	primary_q=0.060547	strict=I_FAVOURING_ALL_3	strict_score=18	strict_I_units=10	strict_E_units=0	strict_p=0.001953	strict_q=0.106120
+erm(F)	primary=I_FAVOURING_ALL_3	primary_score=13	primary_I_units=10	primary_E_units=0	primary_p=0.001953	primary_q=0.060547	strict=I_FAVOURING_ALL_3	strict_score=12	strict_I_units=9	strict_E_units=0	strict_p=0.003906	strict_q=0.106120
+msr(E)	primary=I_FAVOURING_ALL_3	primary_score=13	primary_I_units=10	primary_E_units=0	primary_p=0.001953	primary_q=0.060547	strict=I_FAVOURING_ALL_3	strict_score=16	strict_I_units=11	strict_E_units=0	strict_p=0.000977	strict_q=0.106120
+sul1	primary=I_FAVOURING_ALL_3	primary_score=14	primary_I_units=10	primary_E_units=0	primary_p=0.001953	primary_q=0.060547	strict=I_FAVOURING_ALL_3	strict_score=14	strict_I_units=9	strict_E_units=0	strict_p=0.003906	strict_q=0.106120
+tet(Q)	primary=I_FAVOURING_ALL_3	primary_score=14	primary_I_units=10	primary_E_units=0	primary_p=0.001953	primary_q=0.060547	strict=I_FAVOURING_ALL_3	strict_score=12	strict_I_units=9	strict_E_units=0	strict_p=0.003906	strict_q=0.106120
+aph(3'')-Ib	primary=I_FAVOURING_ALL_3	primary_score=15	primary_I_units=10	primary_E_units=0	primary_p=0.001953	primary_q=0.060547	strict=I_FAVOURING_ALL_3	strict_score=12	strict_I_units=8	strict_E_units=0	strict_p=0.007812	strict_q=0.141493
+mph(E)	primary=I_FAVOURING_ALL_3	primary_score=13	primary_I_units=9	primary_E_units=0	primary_p=0.003906	primary_q=0.072656	strict=I_FAVOURING_ALL_3	strict_score=15	strict_I_units=10	strict_E_units=0	strict_p=0.001953	strict_q=0.106120
+ant(3'')-Ia	primary=I_FAVOURING_ALL_3	primary_score=11	primary_I_units=9	primary_E_units=0	primary_p=0.003906	primary_q=0.072656	strict=I_FAVOURING_ALL_3	strict_score=10	strict_I_units=8	strict_E_units=0	strict_p=0.007812	strict_q=0.141493
+aph(6)-Id	primary=I_FAVOURING_ALL_3	primary_score=13	primary_I_units=9	primary_E_units=0	primary_p=0.003906	primary_q=0.072656	strict=I_FAVOURING_2PLUS_NO_E	strict_score=10	strict_I_units=7	strict_E_units=0	strict_p=0.015625	strict_q=0.212240
+tet(39)	primary=I_FAVOURING_ALL_3	primary_score=10	primary_I_units=9	primary_E_units=0	primary_p=0.003906	primary_q=0.072656	strict=I_FAVOURING_ALL_3	strict_score=8	strict_I_units=7	strict_E_units=0	strict_p=0.015625	strict_q=0.212240
+blaOXA-205	primary=I_FAVOURING_2PLUS_NO_E	primary_score=12	primary_I_units=8	primary_E_units=0	primary_p=0.007812	primary_q=0.121094	strict=I_FAVOURING_2PLUS_NO_E	strict_score=10	strict_I_units=8	strict_E_units=0	strict_p=0.007812	strict_q=0.141493
+aadA5	primary=I_FAVOURING_2PLUS_NO_E	primary_score=10	primary_I_units=8	primary_E_units=0	primary_p=0.007812	primary_q=0.121094	strict=I_FAVOURING_2PLUS_NO_E	strict_score=7	strict_I_units=6	strict_E_units=0	strict_p=0.031250	strict_q=0.254688
+blaOXA-10	primary=I_FAVOURING_ALL_3	primary_score=11	primary_I_units=7	primary_E_units=0	primary_p=0.015625	primary_q=0.145313	strict=I_FAVOURING_ALL_3	strict_score=10	strict_I_units=7	strict_E_units=0	strict_p=0.015625	strict_q=0.212240
+blaBEL-1	primary=I_FAVOURING_2PLUS_NO_E	primary_score=8	primary_I_units=7	primary_E_units=0	primary_p=0.015625	primary_q=0.145313	strict=I_FAVOURING_2PLUS_NO_E	strict_score=6	strict_I_units=5	strict_E_units=0	strict_p=0.062500	strict_q=0.254688
+blaIMP-16	primary=I_FAVOURING_ALL_3	primary_score=8	primary_I_units=7	primary_E_units=0	primary_p=0.015625	primary_q=0.145313	strict=I_FAVOURING_2PLUS_NO_E	strict_score=6	strict_I_units=5	strict_E_units=0	strict_p=0.062500	strict_q=0.254688
+blaOXA-20	primary=I_FAVOURING_2PLUS_NO_E	primary_score=11	primary_I_units=7	primary_E_units=0	primary_p=0.015625	primary_q=0.145313	strict=I_FAVOURING_2PLUS_NO_E	strict_score=7	strict_I_units=6	strict_E_units=0	strict_p=0.031250	strict_q=0.254688
+cfxA3	primary=I_FAVOURING_2PLUS_NO_E	primary_score=8	primary_I_units=7	primary_E_units=0	primary_p=0.015625	primary_q=0.145313	strict=I_FAVOURING_2PLUS_NO_E	strict_score=7	strict_I_units=6	strict_E_units=0	strict_p=0.031250	strict_q=0.254688
+erm(B)	primary=I_FAVOURING_2PLUS_NO_E	primary_score=12	primary_I_units=7	primary_E_units=0	primary_p=0.015625	primary_q=0.145313	strict=I_FAVOURING_2PLUS_NO_E	strict_score=10	strict_I_units=6	strict_E_units=0	strict_p=0.031250	strict_q=0.254688
+qnrS2	primary=I_FAVOURING_2PLUS_NO_E	primary_score=7	primary_I_units=7	primary_E_units=0	primary_p=0.015625	primary_q=0.145313	strict=I_FAVOURING_2PLUS_NO_E	strict_score=5	strict_I_units=5	strict_E_units=0	strict_p=0.062500	strict_q=0.254688
+aadA13	primary=I_FAVOURING_2PLUS_NO_E	primary_score=6	primary_I_units=6	primary_E_units=0	primary_p=0.031250	primary_q=0.215278	strict=I_FAVOURING_2PLUS_NO_E	strict_score=6	strict_I_units=6	strict_E_units=0	strict_p=0.031250	strict_q=0.254688
+cfxA6	primary=I_FAVOURING_2PLUS_NO_E	primary_score=7	primary_I_units=6	primary_E_units=0	primary_p=0.031250	primary_q=0.215278	strict=I_FAVOURING_2PLUS_NO_E	strict_score=7	strict_I_units=6	strict_E_units=0	strict_p=0.031250	strict_q=0.254688
+mph(A)	primary=I_FAVOURING_2PLUS_NO_E	primary_score=8	primary_I_units=6	primary_E_units=0	primary_p=0.031250	primary_q=0.215278	strict=I_FAVOURING_2PLUS_NO_E	strict_score=6	strict_I_units=6	strict_E_units=0	strict_p=0.031250	strict_q=0.254688
+sul2	primary=I_FAVOURING_2PLUS_NO_E	primary_score=9	primary_I_units=6	primary_E_units=0	primary_p=0.031250	primary_q=0.215278	strict=I_FAVOURING_2PLUS_NO_E	strict_score=11	strict_I_units=6	strict_E_units=0	strict_p=0.031250	strict_q=0.254688
+tet(X)	primary=I_FAVOURING_2PLUS_NO_E	primary_score=7	primary_I_units=6	primary_E_units=0	primary_p=0.031250	primary_q=0.215278	strict=I_FAVOURING_2PLUS_NO_E	strict_score=5	strict_I_units=5	strict_E_units=0	strict_p=0.062500	strict_q=0.254688
+aadA6	primary=I_FAVOURING_2PLUS_NO_E	primary_score=7	primary_I_units=5	primary_E_units=0	primary_p=0.062500	primary_q=0.264205	strict=I_FAVOURING_2PLUS_NO_E	strict_score=6	strict_I_units=5	strict_E_units=0	strict_p=0.062500	strict_q=0.254688
+blaIMP-33	primary=I_FAVOURING_2PLUS_NO_E	primary_score=7	primary_I_units=5	primary_E_units=0	primary_p=0.062500	primary_q=0.264205	strict=I_FAVOURING_2PLUS_NO_E	strict_score=6	strict_I_units=5	strict_E_units=0	strict_p=0.062500	strict_q=0.254688
+blaOXA-101	primary=I_FAVOURING_2PLUS_NO_E	primary_score=5	primary_I_units=5	primary_E_units=0	primary_p=0.062500	primary_q=0.264205	strict=I_FAVOURING_2PLUS_NO_E	strict_score=5	strict_I_units=5	strict_E_units=0	strict_p=0.062500	strict_q=0.254688
+mef(C)	primary=I_FAVOURING_2PLUS_NO_E	primary_score=6	primary_I_units=5	primary_E_units=0	primary_p=0.062500	primary_q=0.264205	strict=I_FAVOURING_2PLUS_NO_E	strict_score=7	strict_I_units=5	strict_E_units=0	strict_p=0.062500	strict_q=0.254688
+blaOXA-119	primary=I_FAVOURING_2PLUS_NO_E	primary_score=6	primary_I_units=5	primary_E_units=0	primary_p=0.062500	primary_q=0.264205	strict=I_FAVOURING_2PLUS_NO_E	strict_score=4	strict_I_units=3	strict_E_units=0	strict_p=0.250000	strict_q=0.550676
+blaOXA-58	primary=I_FAVOURING_2PLUS_NO_E	primary_score=3	primary_I_units=4	primary_E_units=1	primary_p=0.375000	primary_q=0.801724	strict=I_FAVOURING_2PLUS_NO_E	strict_score=3	strict_I_units=4	strict_E_units=1	strict_p=0.375000	strict_q=0.804276
+
+===== THRESHOLD DIRECTION REVERSALS =====
+None

@@ -1,0 +1,19 @@
+Matched E/I pairs: 21
+
+===== PROJECT-LEVEL NESTEDNESS/TURNOVER =====
+PRJNA1066593	pairs=3	mean_beta_jac=0.775	mean_turnover=0.000	mean_nestedness=0.775	median_nestedness_share=1.000	median_E_contained_in_I=1.000	median_I_contained_in_E=0.250
+PRJNA1346432	pairs=10	mean_beta_jac=0.903	mean_turnover=0.147	mean_nestedness=0.756	median_nestedness_share=1.000	median_E_contained_in_I=0.410	median_I_contained_in_E=0.011
+PRJNA881852	pairs=8	mean_beta_jac=0.886	mean_turnover=0.202	mean_nestedness=0.684	median_nestedness_share=1.000	median_E_contained_in_I=0.550	median_I_contained_in_E=0.060
+
+===== ASSEMBLY IMBALANCE ASSOCIATIONS =====
+log10(I/E assembled bp) vs I-only excess	rho=0.3787
+log10(I/E assembled bp) vs nestedness share	rho=0.1905
+log10(I/E assembled bp) vs E-set contained in I	rho=-0.7781
+
+===== ALL-PAIR SUMMARY =====
+BETA_JACCARD	mean=0.878	median=0.947	min=0.565	max=1.000
+BETA_TURNOVER_JTU	mean=0.147	median=0.000	min=0.000	max=1.000
+BETA_NESTEDNESS_JNE	mean=0.731	median=0.909	min=0.000	max=1.000
+NESTEDNESS_SHARE_OF_DISSIMILARITY	mean=0.817	median=1.000	min=0.000	max=1.000
+E_ARG_SET_CONTAINED_IN_I	mean=0.552	median=0.769	min=0.000	max=1.000
+I_ARG_SET_CONTAINED_IN_E	mean=0.129	median=0.053	min=0.000	max=0.500

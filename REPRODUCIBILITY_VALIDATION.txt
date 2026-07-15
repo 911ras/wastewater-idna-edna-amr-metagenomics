@@ -1,0 +1,52 @@
+WW AMR REPRODUCIBILITY VALIDATION
+================================================================================
+Numeric tolerance: 1e-09
+
+FINAL TSV COMPARISON
+EXACT	ARG_richness_depth_diagnostic.tsv	all cells identical
+EXACT	all229_ARG_genelevel_FPM_FDR.tsv	all cells identical
+EXACT	analysis_design.tsv	all cells identical
+EXACT	candidate_ARG_genelevel_FPM_unit_differences.tsv	all cells identical
+NUMERIC	candidate_ARG_genelevel_FPM_validation.tsv	numerically equivalent; maximum absolute difference=1e-10
+EXACT	cluster_aware_threshold_robustness.tsv	all cells identical
+EXACT	core6_treatment_fraction_interaction.tsv	all cells identical
+EXACT	cross_study_ARG_fraction_direction.tsv	all cells identical
+EXACT	depth_adjusted_ARG_richness.tsv	all cells identical
+EXACT	matched_fraction_depth_bias.tsv	all cells identical
+EXACT	paired_ARG_richness_effects.tsv	all cells identical
+EXACT	paired_EI_nestedness_turnover.tsv	all cells identical
+EXACT	primary_90id_60cov_kma_fpm_EI_unit_comparison.tsv	all cells identical
+EXACT	primary_90id_60cov_kma_fpm_sample_summary.tsv	all cells identical
+EXACT	primary_90id_60cov_kma_gene_fpm_matrix.tsv	all cells identical
+EXACT	structured_sample_ARG_richness.tsv	all cells identical
+NUMERIC	treatment_fraction_FPM_interaction.tsv	numerically equivalent; maximum absolute difference=1e-10
+NUMERIC	treatment_fraction_logratio_interaction.tsv	numerically equivalent; maximum absolute difference=1e-10
+
+MANUSCRIPT ENDPOINT CHECKS
+PASS	12 independent E/I units
+PASS	12/12 units I>E
+PASS	median log2(I/E)=4.268
+PASS	229 read-level ARG labels tested
+PASS	six expected all-229 FDR-supported ARGs
+PASS	21 stage-level matched E/I assembly comparisons
+PASS	21 nestedness/turnover comparisons
+PASS	9 complete treatment factorial units
+
+FIGURE OUTPUT CHECKS
+PASS	figures/Figure_1_Dataset_design_and_workflow.png
+PASS	figures/Figure_1_Dataset_design_and_workflow.tiff
+PASS	figures/Figure_2_Assembly_recovery_and_nestedness.png
+PASS	figures/Figure_2_Assembly_recovery_and_nestedness.tiff
+PASS	figures/Figure_3_Assembly_independent_intracellular_signal.png
+PASS	figures/Figure_3_Assembly_independent_intracellular_signal.tiff
+PASS	figures/Figure_4_Six_datasetwide_FDR_supported_ARGs.png
+PASS	figures/Figure_4_Six_datasetwide_FDR_supported_ARGs.tiff
+PASS	figures/Figure_5_Crossmethod_convergence_and_treatment_heterogeneity.png
+PASS	figures/Figure_5_Crossmethod_convergence_and_treatment_heterogeneity.tiff
+PASS	WW_AMR_figure_source_data.xlsx
+
+SUMMARY
+Exact-cell final TSV matches: 15
+Numerically equivalent final TSV matches: 3
+Failures: 0
+VALIDATION STATUS: PASSED

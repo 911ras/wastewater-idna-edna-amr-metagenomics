@@ -1,0 +1,6 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+/home/user/ww_amr_batch/contigs/SRR2938334.contigs.fa	k141_10443	613	1414	-	sul2_2	15-816/816	===============	0/0	98.28	100.00	resfinder	AY034138	sul2	Sulfamethoxazole
+/home/user/ww_amr_batch/contigs/SRR2938334.contigs.fa	k141_11868	1	619	-	blaOXA-2_1	1-619/828	============...	0/0	74.76	100.00	resfinder	DQ112222	blaOXA-2	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Ceftazidime;Piperacillin
+/home/user/ww_amr_batch/contigs/SRR2938334.contigs.fa	k141_11868	696	1660	-	ant(3'')-Ia_1	1-972/972	========/======	3/7	99.28	98.77	resfinder	X02340	ant(3'')-Ia	Streptomycin
+/home/user/ww_amr_batch/contigs/SRR2938334.contigs.fa	k141_2233	802	1992	-	tet(C)_3	1-1191/1191	===============	0/0	100.00	99.92	resfinder	AF055345	tet(C)	Doxycycline;Tetracycline
+/home/user/ww_amr_batch/contigs/SRR2938334.contigs.fa	k141_3789	654	1520	+	sul1_5	1-867/867	===============	0/0	100.00	99.77	resfinder	EU780013	sul1	Sulfamethoxazole

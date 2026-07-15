@@ -1,0 +1,5 @@
+Captured from: /home/user/micromamba/envs/amr/db/resfinder/sequences
+ABRicate database record:
+resfinder	3206	nucl	2026-Jun-29
+FASTA records: 3206
+SHA256: e0df4d10932cafa32df26f732574c5984f017fea54cc0b552bd65cc6c815de05

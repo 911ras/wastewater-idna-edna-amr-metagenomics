@@ -1,0 +1,54 @@
+Complete matched E/I pairs: 21
+ARG labels evaluated: 219
+
+===== PROJECT-LEVEL ARG TURNOVER =====
+PRJNA1066593	pairs=3	mean_shared=1.33	mean_E_only=0.00	mean_I_only=6.00	mean_Ionly_minus_Eonly=6.00	mean_Jaccard=0.225	mean_Sorensen=0.356
+PRJNA1346432	pairs=10	mean_shared=10.40	mean_E_only=1.70	mean_I_only=49.50	mean_Ionly_minus_Eonly=47.80	mean_Jaccard=0.097	mean_Sorensen=0.145
+PRJNA881852	pairs=8	mean_shared=2.38	mean_E_only=0.75	mean_I_only=16.62	mean_Ionly_minus_Eonly=15.88	mean_Jaccard=0.114	mean_Sorensen=0.180
+
+===== MOST CONSISTENT I-ENRICHED ARG LABELS =====
+PRJNA1346432	blaOXA-4	both=0	E_only=0	I_only=10	direction_score=10
+PRJNA1346432	sul1	both=2	E_only=0	I_only=8	direction_score=8
+PRJNA1346432	aadA5	both=0	E_only=0	I_only=7	direction_score=7
+PRJNA1346432	aph(3'')-Ib	both=2	E_only=0	I_only=7	direction_score=7
+PRJNA1346432	blaOXA-20	both=0	E_only=0	I_only=7	direction_score=7
+PRJNA881852	blaOXA-4	both=1	E_only=0	I_only=7	direction_score=7
+PRJNA1346432	erm(B)	both=2	E_only=0	I_only=7	direction_score=7
+PRJNA881852	erm(F)	both=0	E_only=0	I_only=7	direction_score=7
+PRJNA1346432	lnu(C)	both=0	E_only=0	I_only=7	direction_score=7
+PRJNA1346432	mph(E)	both=3	E_only=0	I_only=7	direction_score=7
+PRJNA1346432	msr(E)	both=3	E_only=0	I_only=7	direction_score=7
+PRJNA881852	tet(Q)	both=0	E_only=0	I_only=7	direction_score=7
+PRJNA1346432	aadA2	both=1	E_only=0	I_only=6	direction_score=6
+PRJNA1346432	aadA6	both=0	E_only=0	I_only=6	direction_score=6
+PRJNA881852	aph(3'')-Ib	both=1	E_only=0	I_only=6	direction_score=6
+PRJNA1346432	aph(3')-III	both=0	E_only=0	I_only=6	direction_score=6
+PRJNA1346432	aph(6)-Id	both=2	E_only=0	I_only=6	direction_score=6
+PRJNA881852	aph(6)-Id	both=1	E_only=0	I_only=6	direction_score=6
+PRJNA1346432	blaOXA-10	both=2	E_only=0	I_only=6	direction_score=6
+PRJNA1346432	blaOXA-129	both=0	E_only=0	I_only=6	direction_score=6
+PRJNA1346432	blaOXA-2	both=1	E_only=0	I_only=6	direction_score=6
+PRJNA1346432	blaOXA-205	both=0	E_only=0	I_only=6	direction_score=6
+PRJNA881852	blaOXA-205	both=0	E_only=0	I_only=6	direction_score=6
+PRJNA1346432	cfxA3	both=1	E_only=0	I_only=6	direction_score=6
+PRJNA1346432	cfxA6	both=1	E_only=0	I_only=6	direction_score=6
+PRJNA1346432	lnu(B)	both=0	E_only=0	I_only=6	direction_score=6
+PRJNA1346432	lsa(E)	both=0	E_only=0	I_only=6	direction_score=6
+PRJNA1346432	mef(A)	both=0	E_only=0	I_only=6	direction_score=6
+PRJNA1346432	sul2	both=2	E_only=0	I_only=6	direction_score=6
+PRJNA1346432	tet(C)	both=1	E_only=0	I_only=6	direction_score=6
+
+===== MOST CONSISTENT E-ENRICHED ARG LABELS =====
+PRJNA1346432	blaCEPH-A3	both=0	E_only=2	I_only=0	direction_score=-2
+PRJNA881852	aadA2	both=0	E_only=1	I_only=0	direction_score=-1
+PRJNA1346432	ampS	both=1	E_only=1	I_only=0	direction_score=-1
+PRJNA1346432	blaCTX-M-3	both=0	E_only=1	I_only=0	direction_score=-1
+PRJNA1346432	blaOXA-1	both=0	E_only=1	I_only=0	direction_score=-1
+PRJNA1346432	blaOXA-13	both=0	E_only=1	I_only=0	direction_score=-1
+PRJNA1346432	blaOXA-281	both=0	E_only=1	I_only=0	direction_score=-1
+PRJNA1346432	cphA1	both=0	E_only=1	I_only=0	direction_score=-1
+PRJNA1346432	dfrA15	both=0	E_only=1	I_only=0	direction_score=-1
+PRJNA1346432	dfrA27	both=0	E_only=1	I_only=0	direction_score=-1
+PRJNA1346432	dfrA5	both=0	E_only=1	I_only=0	direction_score=-1
+PRJNA1346432	mcr-3.19	both=0	E_only=1	I_only=0	direction_score=-1
+PRJNA881852	mph(N)	both=0	E_only=1	I_only=0	direction_score=-1

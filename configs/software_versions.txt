@@ -1,0 +1,21 @@
+Analysis workstation version record
+===================================
+Python 3.13.14
+fastp 1.0.1
+MEGAHIT 1.2.9
+ABRicate 1.4.0
+KMA 1.6.13
+SRA Toolkit prefetch 3.2.1
+SRA Toolkit fasterq-dump 3.2.1
+seqkit: used to summarize assemblies; version not captured in the original workstation report
+
+Publication figure recreation environment
+==========================================
+pandas 2.2.3
+matplotlib 3.10.8
+Pillow 12.2.0
+openpyxl 3.1.5
+
+Important manuscript QC
+=======================
+The recorded fastp version is 1.0.1. Any manuscript text stating fastp v1.3.6 should be corrected before submission.

@@ -1,0 +1,7 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+/home/user/ww_amr_batch/contigs/SRR2938127.contigs.fa	k141_16390	479	1345	+	sul1_5	1-867/867	===============	0/0	100.00	99.89	resfinder	EU780013	sul1	Sulfamethoxazole
+/home/user/ww_amr_batch/contigs/SRR2938127.contigs.fa	k141_21452	1	516	-	lnu(F)_3	81-596/822	.==========....	0/0	62.77	99.61	resfinder	AJ561197	lnu(F)	Lincomycin
+/home/user/ww_amr_batch/contigs/SRR2938127.contigs.fa	k141_23478	6338	7140	+	aph(3'')-Ib_2	2-804/804	===============	0/0	99.88	100.00	resfinder	AF024602	aph(3'')-Ib	Streptomycin
+/home/user/ww_amr_batch/contigs/SRR2938127.contigs.fa	k141_23478	7140	7976	+	aph(6)-Id_1	1-837/837	===============	0/0	100.00	100.00	resfinder	M28829	aph(6)-Id	Streptomycin
+/home/user/ww_amr_batch/contigs/SRR2938127.contigs.fa	k141_23996	1	943	-	tet(C)_2	1-943/1176	=============..	0/0	80.19	99.89	resfinder	AY046276	tet(C)	Doxycycline;Tetracycline
+/home/user/ww_amr_batch/contigs/SRR2938127.contigs.fa	k141_8994	1	678	+	sul2_2	139-816/816	..=============	0/0	83.09	100.00	resfinder	AY034138	sul2	Sulfamethoxazole

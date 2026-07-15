@@ -1,0 +1,31 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+/home/user/ww_amr_batch/contigs/SRR35815523.contigs.fa	k141_151212	1	625	-	mph(G)_1	244-868/885	....===========	0/0	70.62	92.32	resfinder	AB571865	mph(G)	Erythromycin
+/home/user/ww_amr_batch/contigs/SRR35815523.contigs.fa	k141_151928	729	2654	+	tet(Q)_1	1-1926/1926	===============	0/0	100.00	99.17	resfinder	L33696	tet(Q)	Doxycycline;Minocycline;Tetracycline
+/home/user/ww_amr_batch/contigs/SRR35815523.contigs.fa	k141_155445	200	940	-	blaIMP-33_1	1-741/741	===============	0/0	100.00	99.86	resfinder	JN848782	blaIMP-33	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefepime;Cefixime;Cefotaxime;Cefoxitin;Ceftazidime;Ertapenem;Imipenem;Meropenem;Piperacillin;Piperacillin+Tazobactam
+/home/user/ww_amr_batch/contigs/SRR35815523.contigs.fa	k141_241579	1	1349	-	tet(W)_3	1-1349/1920	===========....	0/0	70.26	99.56	resfinder	AJ427421	tet(W)	Doxycycline;Minocycline;Tetracycline
+/home/user/ww_amr_batch/contigs/SRR35815523.contigs.fa	k141_259647	1	399	+	catB3_2	235-633/633	.....==========	0/0	63.03	100.00	resfinder	U13880	catB3	Chloramphenicol
+/home/user/ww_amr_batch/contigs/SRR35815523.contigs.fa	k141_309028	1	630	-	blaOXA-20_2	27-657/801	========/====..	1/1	78.65	84.94	resfinder	AF024602	blaOXA-20	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid
+/home/user/ww_amr_batch/contigs/SRR35815523.contigs.fa	k141_332169	111	1087	+	cfxA6_1	1-977/996	===============	0/0	98.09	96.93	resfinder	GQ342996	cfxA6	
+/home/user/ww_amr_batch/contigs/SRR35815523.contigs.fa	k141_343503	96	896	-	erm(F)_3	1-801/801	===============	0/0	100.00	99.88	resfinder	M17808	erm(F)	Clindamycin;Erythromycin;Lincomycin;Pristinamycin_IA;Quinupristin;Virginiamycin_S
+/home/user/ww_amr_batch/contigs/SRR35815523.contigs.fa	k141_37001	330	1132	+	aph(3'')-Ib_2	2-804/804	===============	0/0	99.88	100.00	resfinder	AF024602	aph(3'')-Ib	Streptomycin
+/home/user/ww_amr_batch/contigs/SRR35815523.contigs.fa	k141_37001	1132	1968	+	aph(6)-Id_1	1-837/837	===============	0/0	100.00	100.00	resfinder	M28829	aph(6)-Id	Streptomycin
+/home/user/ww_amr_batch/contigs/SRR35815523.contigs.fa	k141_395270	2	453	+	cat_2	173-624/624	....===========	0/0	72.44	97.12	resfinder	M35190	cat	Chloramphenicol
+/home/user/ww_amr_batch/contigs/SRR35815523.contigs.fa	k141_546900	161	991	-	blaOXA-4_1	1-831/831	===============	0/0	100.00	100.00	resfinder	AY162283	blaOXA-4	
+/home/user/ww_amr_batch/contigs/SRR35815523.contigs.fa	k141_579920	176	977	+	ant(3'')-Ia_1	171-972/972	..=============	0/0	82.51	99.63	resfinder	X02340	ant(3'')-Ia	Streptomycin
+/home/user/ww_amr_batch/contigs/SRR35815523.contigs.fa	k141_587284	1	871	+	mef(A)_2	348-1218/1218	....===========	0/0	71.51	96.44	resfinder	U83667	mef(A)	Azithromycin;Erythromycin
+/home/user/ww_amr_batch/contigs/SRR35815523.contigs.fa	k141_605311	428	1204	+	blaOXA-372_1	1-774/774	========/======	1/3	100.00	85.33	resfinder	KJ746496	blaOXA-372	Amoxicillin;Ampicillin;Ertapenem;Imipenem;Meropenem;Temocillin
+/home/user/ww_amr_batch/contigs/SRR35815523.contigs.fa	k141_64211	441	2360	-	tet(O)_2	1-1920/1920	===============	0/0	100.00	99.27	resfinder	M20925	tet(O)	Doxycycline;Minocycline;Tetracycline
+/home/user/ww_amr_batch/contigs/SRR35815523.contigs.fa	k141_721185	697	1459	+	erm(B)_18	1-762/762	========/======	1/1	100.00	99.61	resfinder	X66468	erm(B)	Clindamycin;Erythromycin;Lincomycin;Pristinamycin_IA;Quinupristin;Virginiamycin_S
+/home/user/ww_amr_batch/contigs/SRR35815523.contigs.fa	k141_742935	1	783	-	sul2_14	1-783/819	===============	0/0	95.60	100.00	resfinder	AJ514834	sul2	Sulfamethoxazole
+/home/user/ww_amr_batch/contigs/SRR35815523.contigs.fa	k141_777918	300	1331	-	mef(C)_1	193-1224/1224	..=============	0/0	84.31	94.48	resfinder	AB571865	mef(C)	Erythromycin
+/home/user/ww_amr_batch/contigs/SRR35815523.contigs.fa	k141_80954	60	887	+	blaOXA-2_1	1-828/828	===============	0/0	100.00	97.46	resfinder	DQ112222	blaOXA-2	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Ceftazidime;Piperacillin
+/home/user/ww_amr_batch/contigs/SRR35815523.contigs.fa	k141_820794	1	777	+	blaOXA-119_1	25-801/801	===============	0/0	97.00	97.94	resfinder	DQ767903	blaOXA-119	
+/home/user/ww_amr_batch/contigs/SRR35815523.contigs.fa	k141_835640	438	1060	-	aadA11_1	224-846/846	...============	0/0	73.64	99.52	resfinder	AY144590	aadA11	Spectinomycin;Streptomycin
+/home/user/ww_amr_batch/contigs/SRR35815523.contigs.fa	k141_857903	41	841	-	blaOXA-10_1	1-801/801	===============	0/0	100.00	100.00	resfinder	J03427	blaOXA-10	Amoxicillin;Ampicillin;Aztreonam;Piperacillin;Piperacillin+Tazobactam
+/home/user/ww_amr_batch/contigs/SRR35815523.contigs.fa	k141_885869	326	705	+	lnu(C)_1	1-380/495	============...	0/0	76.77	98.68	resfinder	AY928180	lnu(C)	Lincomycin
+/home/user/ww_amr_batch/contigs/SRR35815523.contigs.fa	k141_932897	255	1097	-	tet(C)_3	349-1191/1191	....===========	0/0	70.78	99.76	resfinder	AF055345	tet(C)	Doxycycline;Tetracycline
+/home/user/ww_amr_batch/contigs/SRR35815523.contigs.fa	k141_936803	880	1620	-	blaIMP-16_1	1-741/741	===============	0/0	100.00	100.00	resfinder	AJ584652	blaIMP-16	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefepime;Cefixime;Cefotaxime;Cefoxitin;Ceftazidime;Ertapenem;Imipenem;Meropenem;Piperacillin;Piperacillin+Tazobactam
+/home/user/ww_amr_batch/contigs/SRR35815523.contigs.fa	k141_940233	1	902	-	tet(X)_2	23-924/1167	============...	0/0	77.29	99.67	resfinder	M37699	tet(X)	Doxycycline;Minocycline;Tetracycline;Tigecycline
+/home/user/ww_amr_batch/contigs/SRR35815523.contigs.fa	k141_965713	2647	3531	-	mph(E)_1	1-885/885	===============	0/0	100.00	100.00	resfinder	DQ839391	mph(E)	Erythromycin
+/home/user/ww_amr_batch/contigs/SRR35815523.contigs.fa	k141_965713	3587	5062	-	msr(E)_1	1-1476/1476	===============	0/0	100.00	100.00	resfinder	FR751518	msr(E)	Azithromycin;Erythromycin;Pristinamycin_IA;Quinupristin;Virginiamycin_S
+/home/user/ww_amr_batch/contigs/SRR35815523.contigs.fa	k141_966346	567	1433	+	sul1_5	1-867/867	===============	0/0	100.00	99.89	resfinder	EU780013	sul1	Sulfamethoxazole

@@ -1,0 +1,24 @@
+Targeted gene-level KMA FPM validation
+Assembly-derived candidates: 30
+Independent matched units: 12
+PRE/POST observations were averaged within fraction before unit-level comparison.
+
+===== VALIDATION CLASS COUNTS =====
+DIRECTIONAL_I_2PLUS_NO_E	17
+FDR_VALIDATED_I_ALL_3	7
+MIXED_OR_LIMITED	6
+
+===== FDR-VALIDATED INTRACELLULAR-FAVOURING ARGs =====
+msr(E)	I_units=12	E_units=0	equal=0	I_only=4	both=8	I_projects=3	median_I_minus_E_FPM=17.4821	p=0.000488281	q=0.004882812
+mph(E)	I_units=12	E_units=0	equal=0	I_only=5	both=7	I_projects=3	median_I_minus_E_FPM=9.9509	p=0.000488281	q=0.004882812
+tet(39)	I_units=11	E_units=0	equal=1	I_only=9	both=2	I_projects=3	median_I_minus_E_FPM=3.9818	p=0.000976562	q=0.004882812
+aph(6)-Id	I_units=11	E_units=0	equal=1	I_only=8	both=3	I_projects=3	median_I_minus_E_FPM=0.7702	p=0.000976562	q=0.004882812
+erm(F)	I_units=11	E_units=0	equal=1	I_only=6	both=5	I_projects=3	median_I_minus_E_FPM=0.6711	p=0.000976562	q=0.004882812
+aph(3'')-Ib	I_units=11	E_units=0	equal=1	I_only=8	both=3	I_projects=3	median_I_minus_E_FPM=0.6391	p=0.000976562	q=0.004882812
+sul1	I_units=10	E_units=1	equal=1	I_only=3	both=8	I_projects=3	median_I_minus_E_FPM=0.8972	p=0.011718750	q=0.021972656
+
+===== OTHER THREE-STUDY DIRECTIONAL ARGs =====
+None
+
+===== READ-LEVEL DIRECTION REVERSALS =====
+None

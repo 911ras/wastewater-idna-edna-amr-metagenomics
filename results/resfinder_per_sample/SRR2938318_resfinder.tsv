@@ -1,0 +1,9 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+/home/user/ww_amr_batch/contigs/SRR2938318.contigs.fa	k141_10877	976	1725	+	aph(3'')-Ib_2	2-751/804	===============	0/0	93.28	100.00	resfinder	AF024602	aph(3'')-Ib	Streptomycin
+/home/user/ww_amr_batch/contigs/SRR2938318.contigs.fa	k141_11213	152	756	+	mph(E)_1	1-605/885	===========....	0/0	68.36	99.83	resfinder	DQ839391	mph(E)	Erythromycin
+/home/user/ww_amr_batch/contigs/SRR2938318.contigs.fa	k141_2287	1	1307	-	tet(O)_1	1-1307/1920	===========....	0/0	68.07	99.08	resfinder	M18896	tet(O)	Doxycycline;Minocycline;Tetracycline
+/home/user/ww_amr_batch/contigs/SRR2938318.contigs.fa	k141_2671	489	1304	+	sul2_2	1-816/816	===============	0/0	100.00	100.00	resfinder	AY034138	sul2	Sulfamethoxazole
+/home/user/ww_amr_batch/contigs/SRR2938318.contigs.fa	k141_415	578	1444	-	sul1_5	1-867/867	===============	0/0	100.00	99.89	resfinder	EU780013	sul1	Sulfamethoxazole
+/home/user/ww_amr_batch/contigs/SRR2938318.contigs.fa	k141_5407	2	624	-	aadA6_1	1-623/846	============...	0/0	73.64	94.54	resfinder	AF140629	aadA6	Spectinomycin;Streptomycin
+/home/user/ww_amr_batch/contigs/SRR2938318.contigs.fa	k141_7079	824	2743	+	tet(W)_5	1-1920/1920	===============	0/0	100.00	99.69	resfinder	AJ427422	tet(W)	Doxycycline;Minocycline;Tetracycline
+/home/user/ww_amr_batch/contigs/SRR2938318.contigs.fa	k141_9172	1	685	-	aph(6)-Id_1	1-685/837	=============..	0/0	81.84	99.56	resfinder	M28829	aph(6)-Id	Streptomycin

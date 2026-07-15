@@ -1,0 +1,13 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+/home/user/ww_amr_batch/contigs/SRR2938320.contigs.fa	k141_1815	1099	1901	+	aph(3'')-Ib_2	2-804/804	===============	0/0	99.88	99.50	resfinder	AF024602	aph(3'')-Ib	Streptomycin
+/home/user/ww_amr_batch/contigs/SRR2938320.contigs.fa	k141_1815	1901	2426	+	aph(6)-Id_1	1-526/837	==========.....	0/0	62.84	100.00	resfinder	M28829	aph(6)-Id	Streptomycin
+/home/user/ww_amr_batch/contigs/SRR2938320.contigs.fa	k141_18941	817	2736	+	tet(W)_4	1-1920/1920	===============	0/0	100.00	99.64	resfinder	FN396364	tet(W)	Doxycycline;Minocycline;Tetracycline
+/home/user/ww_amr_batch/contigs/SRR2938320.contigs.fa	k141_20640	1	544	-	erm(B)_1	65-608/738	.============..	0/0	73.71	99.08	resfinder	JN899585	erm(B)	Clindamycin;Erythromycin;Lincomycin;Pristinamycin_IA;Quinupristin;Virginiamycin_S
+/home/user/ww_amr_batch/contigs/SRR2938320.contigs.fa	k141_25616	296	1471	+	cmx_1	1-1176/1176	===============	0/0	100.00	94.73	resfinder	U85507	cmx	Chloramphenicol
+/home/user/ww_amr_batch/contigs/SRR2938320.contigs.fa	k141_26300	5	1192	-	tet(39)_2	1-1188/1188	===============	0/0	100.00	99.83	resfinder	CP044518	tet(39)	Doxycycline;Tetracycline;Tigecycline
+/home/user/ww_amr_batch/contigs/SRR2938320.contigs.fa	k141_27072	7043	8962	-	tet(O)_1	1-1920/1920	===============	0/0	100.00	99.69	resfinder	M18896	tet(O)	Doxycycline;Minocycline;Tetracycline
+/home/user/ww_amr_batch/contigs/SRR2938320.contigs.fa	k141_354	491	1357	-	sul1_5	1-867/867	===============	0/0	100.00	99.89	resfinder	EU780013	sul1	Sulfamethoxazole
+/home/user/ww_amr_batch/contigs/SRR2938320.contigs.fa	k141_7632	1	813	-	mph(E)_1	1-813/885	==============.	0/0	91.86	99.88	resfinder	DQ839391	mph(E)	Erythromycin
+/home/user/ww_amr_batch/contigs/SRR2938320.contigs.fa	k141_7632	869	2344	-	msr(E)_1	1-1476/1476	===============	0/0	100.00	100.00	resfinder	FR751518	msr(E)	Azithromycin;Erythromycin;Pristinamycin_IA;Quinupristin;Virginiamycin_S
+/home/user/ww_amr_batch/contigs/SRR2938320.contigs.fa	k141_8734	107	898	+	aph(3')-III_1	1-792/795	===============	0/0	99.62	100.00	resfinder	M26832	aph(3')-III	Amikacin;Butirosin;Isepamicin;Kanamycin;Lividomycin;Neomycin;Paromomycin;Ribostamycin
+/home/user/ww_amr_batch/contigs/SRR2938320.contigs.fa	k141_8828	1	693	-	ant(3'')-Ia_1	146-838/972	..===========..	0/0	71.30	99.13	resfinder	X02340	ant(3'')-Ia	Streptomycin

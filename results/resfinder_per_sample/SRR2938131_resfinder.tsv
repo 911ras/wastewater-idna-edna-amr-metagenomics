@@ -1,0 +1,10 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+/home/user/ww_amr_batch/contigs/SRR2938131.contigs.fa	k141_10536	3	671	+	aadA7_1	130-798/798	..=============	0/0	83.83	94.17	resfinder	AF224733	aadA7	Spectinomycin;Streptomycin
+/home/user/ww_amr_batch/contigs/SRR2938131.contigs.fa	k141_39525	876	1691	+	sul2_2	1-816/816	===============	0/0	100.00	100.00	resfinder	AY034138	sul2	Sulfamethoxazole
+/home/user/ww_amr_batch/contigs/SRR2938131.contigs.fa	k141_49368	737	1603	-	sul1_5	1-867/867	===============	0/0	100.00	99.89	resfinder	EU780013	sul1	Sulfamethoxazole
+/home/user/ww_amr_batch/contigs/SRR2938131.contigs.fa	k141_50406	1	927	+	mef(B)_1	304-1230/1230	...============	0/0	75.37	95.79	resfinder	FJ196385	mef(B)	Azithromycin;Erythromycin
+/home/user/ww_amr_batch/contigs/SRR2938131.contigs.fa	k141_5714	605	1407	+	aph(3'')-Ib_2	2-804/804	===============	0/0	99.88	100.00	resfinder	AF024602	aph(3'')-Ib	Streptomycin
+/home/user/ww_amr_batch/contigs/SRR2938131.contigs.fa	k141_5714	1407	2243	+	aph(6)-Id_1	1-837/837	===============	0/0	100.00	100.00	resfinder	M28829	aph(6)-Id	Streptomycin
+/home/user/ww_amr_batch/contigs/SRR2938131.contigs.fa	k141_6053	1288	2252	+	ant(3'')-Ia_1	1-972/972	========/======	3/7	99.28	99.07	resfinder	X02340	ant(3'')-Ia	Streptomycin
+/home/user/ww_amr_batch/contigs/SRR2938131.contigs.fa	k141_882	1	585	+	lnu(F)_1	238-822/822	....===========	0/0	71.17	99.49	resfinder	EU118119	lnu(F)	Lincomycin
+/home/user/ww_amr_batch/contigs/SRR2938131.contigs.fa	k141_882	701	1921	+	ere(A)_6	1-1221/1221	===============	0/0	100.00	99.67	resfinder	DQ157752	ere(A)	Erythromycin

@@ -1,0 +1,3 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+/home/user/ww_amr_batch/contigs/SRR2938336.contigs.fa	k141_7092	2108	2959	-	sul1_9	1-852/852	===============	0/0	100.00	100.00	resfinder	AY963803	sul1	Sulfamethoxazole
+/home/user/ww_amr_batch/contigs/SRR2938336.contigs.fa	k141_9608	491	1306	+	sul2_2	1-816/816	===============	0/0	100.00	100.00	resfinder	AY034138	sul2	Sulfamethoxazole

@@ -1,0 +1,31 @@
+Dataset-wide gene-level KMA FPM analysis
+ARG labels tested: 229
+Independent units: 12
+Assembly-derived candidate set: 30
+
+BH-FDR was calculated across all 229 read-level ARG labels.
+
+===== RESULT CLASS COUNTS =====
+OTHER	222
+ALL229_FDR_I_ALL_3	6
+DIRECTIONAL_I_ALL_3_NOT_FDR	1
+
+===== ALL-229 FDR-SUPPORTED I-FAVOURING ARGs ACROSS ALL 3 STUDIES =====
+msr(E)	assembly_candidate=1	I_units=12	E_units=0	equal=0	median_I_minus_E_FPM=17.4821	p=0.000488281	q229=0.037272135	targeted_q30=0.004882812
+mph(E)	assembly_candidate=1	I_units=12	E_units=0	equal=0	median_I_minus_E_FPM=9.9509	p=0.000488281	q229=0.037272135	targeted_q30=0.004882812
+tet(39)	assembly_candidate=1	I_units=11	E_units=0	equal=1	median_I_minus_E_FPM=3.9818	p=0.000976562	q229=0.037272135	targeted_q30=0.004882812
+aph(6)-Id	assembly_candidate=1	I_units=11	E_units=0	equal=1	median_I_minus_E_FPM=0.7702	p=0.000976562	q229=0.037272135	targeted_q30=0.004882812
+erm(F)	assembly_candidate=1	I_units=11	E_units=0	equal=1	median_I_minus_E_FPM=0.6711	p=0.000976562	q229=0.037272135	targeted_q30=0.004882812
+aph(3'')-Ib	assembly_candidate=1	I_units=11	E_units=0	equal=1	median_I_minus_E_FPM=0.6391	p=0.000976562	q229=0.037272135	targeted_q30=0.004882812
+
+===== SEVEN PREVIOUS TARGETED-SET FDR ARGs UNDER ALL-229 CORRECTION =====
+aph(3'')-Ib	I_units=11	E_units=0	p=0.000976562	q30=0.004882812	q229=0.037272135	class=ALL229_FDR_I_ALL_3
+aph(6)-Id	I_units=11	E_units=0	p=0.000976562	q30=0.004882812	q229=0.037272135	class=ALL229_FDR_I_ALL_3
+erm(F)	I_units=11	E_units=0	p=0.000976562	q30=0.004882812	q229=0.037272135	class=ALL229_FDR_I_ALL_3
+mph(E)	I_units=12	E_units=0	p=0.000488281	q30=0.004882812	q229=0.037272135	class=ALL229_FDR_I_ALL_3
+msr(E)	I_units=12	E_units=0	p=0.000488281	q30=0.004882812	q229=0.037272135	class=ALL229_FDR_I_ALL_3
+tet(39)	I_units=11	E_units=0	p=0.000976562	q30=0.004882812	q229=0.037272135	class=ALL229_FDR_I_ALL_3
+sul1	I_units=10	E_units=1	p=0.011718750	q30=0.021972656	q229=0.149088542	class=DIRECTIONAL_I_ALL_3_NOT_FDR
+
+===== ALL-229 SIGNIFICANT ARGs NOT IN ASSEMBLY 30-CANDIDATE SET =====
+None

@@ -1,0 +1,225 @@
+XML files examined: 80
+BioSample records parsed: 80
+Unique submitted attribute names: 45
+
+===== MOST COMMON BIOSAMPLE ATTRIBUTES =====
+collection_date	records=80	unique_values=14
+geo_loc_name	records=80	unique_values=11
+isolation_source	records=69	unique_values=5
+lat_lon	records=46	unique_values=13
+ENA_first_public	records=34	unique_values=3
+ENA-CHECKLIST	records=34	unique_values=2
+INSDC_center_name	records=34	unique_values=1
+INSDC_status	records=34	unique_values=1
+Submitter_Id	records=34	unique_values=34
+sample_name	records=34	unique_values=34
+scientific_name	records=34	unique_values=15
+ID	records=26	unique_values=26
+GUNC_clade_separation_score	records=23	unique_values=12
+GUNC_contamination_score	records=23	unique_values=10
+GUNC_reference_representation_score	records=23	unique_values=16
+GUNC_version	records=23	unique_values=1
+MAG_coverage_software	records=23	unique_values=1
+SPIRE_genome_cluster	records=23	unique_values=17
+SPIRE_genome_id	records=23	unique_values=23
+assembly_quality	records=23	unique_values=1
+assembly_software	records=23	unique_values=1
+binning_parameters	records=23	unique_values=1
+binning_software	records=23	unique_values=1
+env_broad_scale	records=23	unique_values=1
+completeness_score	records=23	unique_values=23
+completeness_software	records=23	unique_values=1
+contamination_score	records=23	unique_values=22
+contig_N50	records=23	unique_values=23
+derived_from_assembly	records=23	unique_values=23
+env_medium	records=23	unique_values=1
+geographic_location_(latitude)	records=23	unique_values=1
+geographic_location_(longitude)	records=23	unique_values=1
+linked_to_SPIRE_sample	records=23	unique_values=23
+linked_to_SPIRE_study	records=23	unique_values=1
+linked_to_analysis_project	records=23	unique_values=1
+local_environmental_context	records=23	unique_values=1
+metagenomic_source	records=23	unique_values=1
+number_of_contigs	records=23	unique_values=23
+project_name	records=23	unique_values=1
+sample_derived_from	records=23	unique_values=23
+taxonomic_classification	records=23	unique_values=15
+taxonomic_classification_software	records=23	unique_values=1
+taxonomic_identity_marker	records=23	unique_values=1
+sample_ID	records=16	unique_values=16
+host	records=4	unique_values=2
+
+===== POTENTIALLY RELEVANT ATTRIBUTE FIELDS =====
+collection_date	records=80	unique_values=14
+env_broad_scale	records=23	unique_values=1
+env_medium	records=23	unique_values=1
+geo_loc_name	records=80	unique_values=11
+geographic_location_(latitude)	records=23	unique_values=1
+geographic_location_(longitude)	records=23	unique_values=1
+isolation_source	records=69	unique_values=5
+linked_to_SPIRE_sample	records=23	unique_values=23
+local_environmental_context	records=23	unique_values=1
+metagenomic_source	records=23	unique_values=1
+sample_ID	records=16	unique_values=16
+sample_derived_from	records=23	unique_values=23
+sample_name	records=34	unique_values=34
+
+===== VALUES OF POTENTIALLY RELEVANT FIELDS =====
+
+--- collection_date ---
+missing: third party data	34
+2021-11-29	4
+2021-12-06	4
+2021-12-14	4
+2021-12-21	4
+2022-05-03	4
+2023-12-13	4
+2023-11-29	4
+2024-01-24	4
+2024-01-11	4
+2024-01-17	4
+2022-05-10	2
+2022-03-25	2
+2023-06	2
+
+--- env_broad_scale ---
+missing: third party data	23
+
+--- env_medium ---
+missing: third party data	23
+
+--- geo_loc_name ---
+missing: third party data	34
+Italy: Verbania	12
+Italy: Cannobio	12
+Italy: Gravellona Toce	4
+Italy: Mergozzo	4
+Italy: Novara	4
+Italy: Verbania (WWTP)	2
+Italy: Gravellona Toce (WWTP)	2
+Italy: Cannobio (WWTP)	2
+Mexico:Queretaro	2
+South Korea: Chungcheongnam-do, Geumsan	2
+
+--- geographic_location_(latitude) ---
+missing: third party data	23
+
+--- geographic_location_(longitude) ---
+missing: third party data	23
+
+--- isolation_source ---
+wastewater	42
+missing: third party data	23
+wastewater metagenome	2
+Influent wastewater from sewage plant	1
+Effluent wastewater from sewage plant	1
+
+--- linked_to_SPIRE_sample ---
+https://spire.embl.de/spire/v1/sample/75806	1
+https://spire.embl.de/spire/v1/sample/75770	1
+https://spire.embl.de/spire/v1/sample/75917	1
+https://spire.embl.de/spire/v1/sample/75844	1
+https://spire.embl.de/spire/v1/sample/75960	1
+https://spire.embl.de/spire/v1/sample/75724	1
+https://spire.embl.de/spire/v1/sample/75860	1
+https://spire.embl.de/spire/v1/sample/75760	1
+https://spire.embl.de/spire/v1/sample/75903	1
+https://spire.embl.de/spire/v1/sample/75837	1
+https://spire.embl.de/spire/v1/sample/75982	1
+https://spire.embl.de/spire/v1/sample/75973	1
+https://spire.embl.de/spire/v1/sample/75877	1
+https://spire.embl.de/spire/v1/sample/75802	1
+https://spire.embl.de/spire/v1/sample/75719	1
+https://spire.embl.de/spire/v1/sample/75729	1
+https://spire.embl.de/spire/v1/sample/75796	1
+https://spire.embl.de/spire/v1/sample/75946	1
+https://spire.embl.de/spire/v1/sample/75763	1
+https://spire.embl.de/spire/v1/sample/75918	1
+https://spire.embl.de/spire/v1/sample/75845	1
+https://spire.embl.de/spire/v1/sample/75720	1
+https://spire.embl.de/spire/v1/sample/75856	1
+
+--- local_environmental_context ---
+missing: third party data	23
+
+--- metagenomic_source ---
+metagenomes	23
+
+--- sample_ID ---
+I_VB_pre_a	1
+I_VB_post_a	1
+I_VB_pre_b	1
+I_VB_post_b	1
+I_CB_pre_c	1
+I_CB_post_c	1
+I_CB_pre_d	1
+I_CB_post_d	1
+E_VB_pre_a	1
+E_VB_post_a	1
+E_VB_pre_b	1
+E_VB_post_b	1
+E_CB_pre_c	1
+E_CB_post_c	1
+E_CB_pre_d	1
+E_CB_post_d	1
+
+--- sample_derived_from ---
+SAMN04262535	1
+SAMN04262537	1
+SAMN04262538	1
+SAMN04262539	1
+SAMN04262541	1
+SAMN04262542	1
+SAMN04262543	1
+SAMN04262546	1
+SAMN04262547	1
+SAMN04262548	1
+SAMN04262549	1
+SAMN04262550	1
+SAMN04262552	1
+SAMN04262553	1
+SAMN04262559	1
+SAMN04262560	1
+SAMN04262562	1
+SAMN04262563	1
+SAMN04262564	1
+SAMN04262574	1
+SAMN04262575	1
+SAMN04262577	1
+SAMN04262578	1
+
+--- sample_name ---
+spire_mag_01092203	1
+spire_mag_01092857	1
+spire_mag_01090444	1
+spire_mag_01091901	1
+spire_sample_75816	1
+spire_mag_01090910	1
+spire_mag_01092329	1
+spire_mag_01090534	1
+spire_sample_75790	1
+spire_mag_01092746	1
+spire_mag_01090341	1
+spire_mag_01091812	1
+spire_mag_01091184	1
+spire_mag_01091084	1
+spire_mag_01090734	1
+spire_mag_01092143	1
+spire_mag_01092667	1
+spire_mag_01092370	1
+spire_mag_01091986	1
+spire_mag_01091343	1
+spire_mag_01092763	1
+spire_sample_75908	1
+spire_sample_75840	1
+spire_sample_75986	1
+spire_sample_75717	1
+spire_sample_75855	1
+spire_sample_75884	1
+spire_sample_75954	1
+spire_sample_75772	1
+spire_mag_01090478	1
+spire_mag_01091896	1
+spire_sample_75989	1
+spire_mag_01092679	1
+spire_mag_01090839	1

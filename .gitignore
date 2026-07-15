@@ -1,0 +1,25 @@
+# Raw/large sequence data and assembly intermediates
+*.sra
+*.fastq
+*.fastq.gz
+raw_fastq/
+trimmed/
+assembly/
+contigs/
+tmp/
+
+# Local environments and caches
+__pycache__/
+*.py[cod]
+.micromamba/
+.conda/
+
+# Regenerated validation outputs
+results/reproduced_tables/
+results/reproduced_qc/
+figures/panels/
+
+# Operating-system/editor files
+.DS_Store
+Thumbs.db
+*.swp

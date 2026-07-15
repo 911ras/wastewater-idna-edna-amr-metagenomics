@@ -1,0 +1,32 @@
+Treatment x DNA-fraction log-ratio interaction
+Complete factorial units: 9
+Minimum positive sample FPM: 0.3006504000
+
+DELTA_LOG2_I_OVER_E = POST log2(I/E) - PRE log2(I/E)
+Positive = intracellular/extracellular gap widened.
+Negative = intracellular/extracellular gap narrowed.
+
+===== PSEUDOCOUNT FACTOR 0.1 =====
+PRJNA1346432	units=5	median_delta_log2_gap=2.489	widened=3	narrowed=2	p=1.000000000
+PRJNA881852	units=4	median_delta_log2_gap=-5.260	widened=0	narrowed=4	p=0.125000000
+ALL_FACTORIAL_UNITS	units=9	median_delta_log2_gap=-4.409	widened=3	narrowed=6	p=0.507812500
+
+===== PSEUDOCOUNT FACTOR 0.25 =====
+PRJNA1346432	units=5	median_delta_log2_gap=1.180	widened=3	narrowed=2	p=1.000000000
+PRJNA881852	units=4	median_delta_log2_gap=-4.027	widened=0	narrowed=4	p=0.125000000
+ALL_FACTORIAL_UNITS	units=9	median_delta_log2_gap=-3.206	widened=3	narrowed=6	p=0.507812500
+
+===== PSEUDOCOUNT FACTOR 0.5 =====
+PRJNA1346432	units=5	median_delta_log2_gap=0.200	widened=3	narrowed=2	p=1.000000000
+PRJNA881852	units=4	median_delta_log2_gap=-3.162	widened=0	narrowed=4	p=0.125000000
+ALL_FACTORIAL_UNITS	units=9	median_delta_log2_gap=-2.385	widened=3	narrowed=6	p=0.507812500
+
+===== PSEUDOCOUNT FACTOR 1.0 =====
+PRJNA1346432	units=5	median_delta_log2_gap=-0.758	widened=2	narrowed=3	p=1.000000000
+PRJNA881852	units=4	median_delta_log2_gap=-2.395	widened=0	narrowed=4	p=0.125000000
+ALL_FACTORIAL_UNITS	units=9	median_delta_log2_gap=-1.686	widened=2	narrowed=7	p=0.179687500
+
+===== PSEUDOCOUNT FACTOR 2.0 =====
+PRJNA1346432	units=5	median_delta_log2_gap=-1.678	widened=1	narrowed=4	p=0.375000000
+PRJNA881852	units=4	median_delta_log2_gap=-1.873	widened=0	narrowed=4	p=0.125000000
+ALL_FACTORIAL_UNITS	units=9	median_delta_log2_gap=-1.678	widened=1	narrowed=8	p=0.039062500

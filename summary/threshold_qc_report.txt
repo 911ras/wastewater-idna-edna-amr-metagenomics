@@ -1,0 +1,3 @@
+broad_80id_60cov	minID=80.0	minCov=60.0	hits=1898	detected_samples=73/80	unique_clean_genes=244
+primary_90id_60cov	minID=90.0	minCov=60.0	hits=1750	detected_samples=73/80	unique_clean_genes=219
+strict_90id_80cov	minID=90.0	minCov=80.0	hits=1379	detected_samples=69/80	unique_clean_genes=193

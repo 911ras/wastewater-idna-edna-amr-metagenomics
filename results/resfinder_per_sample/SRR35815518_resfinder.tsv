@@ -1,0 +1,10 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+/home/user/ww_amr_batch/contigs/SRR35815518.contigs.fa	k141_1018	14864	15715	+	sul1_9	1-852/852	===============	0/0	100.00	100.00	resfinder	AY963803	sul1	Sulfamethoxazole
+/home/user/ww_amr_batch/contigs/SRR35815518.contigs.fa	k141_143729	1	657	-	blaOXA-119_1	70-726/801	.=============.	0/0	82.02	89.80	resfinder	DQ767903	blaOXA-119	
+/home/user/ww_amr_batch/contigs/SRR35815518.contigs.fa	k141_333668	268	1743	+	msr(E)_1	1-1476/1476	===============	0/0	100.00	100.00	resfinder	FR751518	msr(E)	Azithromycin;Erythromycin;Pristinamycin_IA;Quinupristin;Virginiamycin_S
+/home/user/ww_amr_batch/contigs/SRR35815518.contigs.fa	k141_333668	1799	2683	+	mph(E)_1	1-885/885	===============	0/0	100.00	100.00	resfinder	DQ839391	mph(E)	Erythromycin
+/home/user/ww_amr_batch/contigs/SRR35815518.contigs.fa	k141_390155	96	715	-	aadA11_1	227-846/846	....===========	0/0	73.29	100.00	resfinder	AY144590	aadA11	Spectinomycin;Streptomycin
+/home/user/ww_amr_batch/contigs/SRR35815518.contigs.fa	k141_393833	148	888	-	blaIMP-54_1	1-741/741	===============	0/0	100.00	93.25	resfinder	KU052795	blaIMP-54	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefepime;Cefixime;Cefotaxime;Cefoxitin;Ceftazidime;Ertapenem;Imipenem;Meropenem;Piperacillin;Piperacillin+Tazobactam
+/home/user/ww_amr_batch/contigs/SRR35815518.contigs.fa	k141_496504	3	684	-	ant(3'')-Ia_1	168-849/972	..============.	0/0	70.16	98.09	resfinder	X02340	ant(3'')-Ia	Streptomycin
+/home/user/ww_amr_batch/contigs/SRR35815518.contigs.fa	k141_68859	1	482	+	blaIMP-16_1	260-741/741	.....==========	0/0	65.05	100.00	resfinder	AJ584652	blaIMP-16	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefepime;Cefixime;Cefotaxime;Cefoxitin;Ceftazidime;Ertapenem;Imipenem;Meropenem;Piperacillin;Piperacillin+Tazobactam
+/home/user/ww_amr_batch/contigs/SRR35815518.contigs.fa	k141_71100	1	780	-	blaOXA-4_1	1-780/831	===============	0/0	93.86	100.00	resfinder	AY162283	blaOXA-4	

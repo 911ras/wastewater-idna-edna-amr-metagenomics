@@ -1,0 +1,9 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+/home/user/ww_amr_batch/contigs/SRR27639469.contigs.fa	k141_149005	1	710	+	blaOXA-58_1	134-843/843	..=============	0/0	84.22	100.00	resfinder	AY665723	blaOXA-58	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Imipenem;Meropenem
+/home/user/ww_amr_batch/contigs/SRR27639469.contigs.fa	k141_168079	1	537	+	aadA8b_1	71-607/792	.===========...	0/0	67.80	96.83	resfinder	AY139603	aadA8b	Spectinomycin;Streptomycin
+/home/user/ww_amr_batch/contigs/SRR27639469.contigs.fa	k141_194623	154	788	+	aph(3'')-Ib_2	2-636/804	============...	0/0	78.98	100.00	resfinder	AF024602	aph(3'')-Ib	Streptomycin
+/home/user/ww_amr_batch/contigs/SRR27639469.contigs.fa	k141_201970	794	1981	+	tet(39)_2	1-1188/1188	===============	0/0	100.00	99.92	resfinder	CP044518	tet(39)	Doxycycline;Tetracycline;Tigecycline
+/home/user/ww_amr_batch/contigs/SRR27639469.contigs.fa	k141_205967	134	1018	-	mph(E)_1	1-885/885	===============	0/0	100.00	100.00	resfinder	DQ839391	mph(E)	Erythromycin
+/home/user/ww_amr_batch/contigs/SRR27639469.contigs.fa	k141_205967	1074	2549	-	msr(E)_1	1-1476/1476	===============	0/0	100.00	100.00	resfinder	FR751518	msr(E)	Azithromycin;Erythromycin;Pristinamycin_IA;Quinupristin;Virginiamycin_S
+/home/user/ww_amr_batch/contigs/SRR27639469.contigs.fa	k141_33438	1	610	+	aph(6)-Id_1	228-837/837	....===========	0/0	72.88	99.84	resfinder	M28829	aph(6)-Id	Streptomycin
+/home/user/ww_amr_batch/contigs/SRR27639469.contigs.fa	k141_67394	1	515	+	sul1_14	326-840/840	.....==========	0/0	61.31	100.00	resfinder	AJ517791	sul1	Sulfamethoxazole

@@ -1,0 +1,9 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+/home/user/ww_amr_batch/contigs/SRR2938324.contigs.fa	k141_1251	1	631	+	sul1_15	210-840/840	...============	0/0	75.12	99.68	resfinder	EF667294	sul1	Sulfamethoxazole
+/home/user/ww_amr_batch/contigs/SRR2938324.contigs.fa	k141_4131	9	518	-	aph(6)-Id_1	328-837/837	.....==========	0/0	60.93	99.41	resfinder	M28829	aph(6)-Id	Streptomycin
+/home/user/ww_amr_batch/contigs/SRR2938324.contigs.fa	k141_5260	816	2291	+	msr(E)_1	1-1476/1476	===============	0/0	100.00	100.00	resfinder	FR751518	msr(E)	Azithromycin;Erythromycin;Pristinamycin_IA;Quinupristin;Virginiamycin_S
+/home/user/ww_amr_batch/contigs/SRR2938324.contigs.fa	k141_5260	2347	3231	+	mph(E)_1	1-885/885	===============	0/0	100.00	100.00	resfinder	DQ839391	mph(E)	Erythromycin
+/home/user/ww_amr_batch/contigs/SRR2938324.contigs.fa	k141_572	1	569	-	blaOXA-2_1	41-609/828	============...	0/0	68.72	100.00	resfinder	DQ112222	blaOXA-2	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Ceftazidime;Piperacillin
+/home/user/ww_amr_batch/contigs/SRR2938324.contigs.fa	k141_6205	10	517	-	blaOXA-4_1	117-624/831	..==========...	0/0	61.13	99.41	resfinder	AY162283	blaOXA-4	
+/home/user/ww_amr_batch/contigs/SRR2938324.contigs.fa	k141_723	858	1936	-	mef(A)_2	140-1218/1218	.==============	0/0	88.59	95.64	resfinder	U83667	mef(A)	Azithromycin;Erythromycin
+/home/user/ww_amr_batch/contigs/SRR2938324.contigs.fa	k141_781	84	578	+	lnu(C)_1	1-495/495	===============	0/0	100.00	97.17	resfinder	AY928180	lnu(C)	Lincomycin

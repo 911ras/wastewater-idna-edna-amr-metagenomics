@@ -1,0 +1,21 @@
+Corrected KMA read-level analysis
+Structured samples: 42
+Independent units: 12
+
+===== THRESHOLD SUMMARY =====
+PRIMARY_90ID_60COV	ARG_labels_dataset=229	detected_samples=35/42	median_labels_per_sample=10.5	min_labels=0	max_labels=180
+STRICT_90ID_80COV	ARG_labels_dataset=229	detected_samples=35/42	median_labels_per_sample=10.5	min_labels=0	max_labels=180
+
+===== TEST SAMPLE VALIDATION =====
+PRIMARY_90ID_60COV	SRR27639475_labels=2	total_DPM=0.586188
+STRICT_90ID_80COV	SRR27639475_labels=2	total_DPM=0.586188
+
+===== NORMALIZATION DIAGNOSTIC =====
+TOTAL_DPM vs QUERY_FRAGMENTS	Spearman_rho=0.0433
+
+===== INDEPENDENT-UNIT E/I SUMMARY =====
+PRJNA1066593	units=3	median_log2_I_over_E=3.266	mean_log2_I_over_E=3.449	I_greater=3	E_greater=0	p=0.250000
+PRJNA1346432	units=5	median_log2_I_over_E=5.941	mean_log2_I_over_E=4.883	I_greater=5	E_greater=0	p=0.062500
+PRJNA881852	units=4	median_log2_I_over_E=3.753	mean_log2_I_over_E=3.447	I_greater=4	E_greater=0	p=0.125000
+
+ALL_3_STUDIES	units=12	median_log2_I_over_E=4.090	mean_log2_I_over_E=4.046	I_greater=12	E_greater=0	p=0.000488

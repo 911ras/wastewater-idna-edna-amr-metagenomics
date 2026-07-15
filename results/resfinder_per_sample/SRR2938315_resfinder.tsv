@@ -1,0 +1,13 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+/home/user/ww_amr_batch/contigs/SRR2938315.contigs.fa	k141_1521	2623	4542	-	tet(W)_1	1-1920/1920	===============	0/0	100.00	99.53	resfinder	DQ060146	tet(W)	Doxycycline;Minocycline;Tetracycline
+/home/user/ww_amr_batch/contigs/SRR2938315.contigs.fa	k141_18049	190	1365	-	tet(G)_1	1-1176/1176	===============	0/0	100.00	93.71	resfinder	AF133139	tet(G)	Doxycycline;Tetracycline
+/home/user/ww_amr_batch/contigs/SRR2938315.contigs.fa	k141_1936	190	723	-	ant(2'')-Ia_1	1-534/534	===============	0/0	100.00	99.81	resfinder	X04555	ant(2'')-Ia	Gentamicin;Tobramycin
+/home/user/ww_amr_batch/contigs/SRR2938315.contigs.fa	k141_21019	1	559	+	aadA1_2	234-792/792	....===========	0/0	70.58	98.03	resfinder	FJ591054	aadA1	Spectinomycin;Streptomycin
+/home/user/ww_amr_batch/contigs/SRR2938315.contigs.fa	k141_24876	1	703	-	aadA5_1	1-703/789	==============.	0/0	89.10	99.29	resfinder	AF137361	aadA5	Spectinomycin;Streptomycin
+/home/user/ww_amr_batch/contigs/SRR2938315.contigs.fa	k141_25209	305	1480	+	cmx_1	1-1176/1176	===============	0/0	100.00	99.92	resfinder	U85507	cmx	Chloramphenicol
+/home/user/ww_amr_batch/contigs/SRR2938315.contigs.fa	k141_2630	411	1262	-	sul1_9	1-852/852	===============	0/0	100.00	100.00	resfinder	AY963803	sul1	Sulfamethoxazole
+/home/user/ww_amr_batch/contigs/SRR2938315.contigs.fa	k141_26395	332	2230	-	tet(O)_2	22-1920/1920	===============	0/0	98.91	99.47	resfinder	M20925	tet(O)	Doxycycline;Minocycline;Tetracycline
+/home/user/ww_amr_batch/contigs/SRR2938315.contigs.fa	k141_32838	1	675	-	blaCARB-8_1	1-675/897	============...	0/0	75.25	99.70	resfinder	AY178993	blaCARB-8	Amoxicillin;Ampicillin;Piperacillin
+/home/user/ww_amr_batch/contigs/SRR2938315.contigs.fa	k141_44281	191	1027	-	aph(6)-Id_1	1-837/837	===============	0/0	100.00	99.88	resfinder	M28829	aph(6)-Id	Streptomycin
+/home/user/ww_amr_batch/contigs/SRR2938315.contigs.fa	k141_44281	1027	1829	-	aph(3'')-Ib_2	2-804/804	===============	0/0	99.88	100.00	resfinder	AF024602	aph(3'')-Ib	Streptomycin
+/home/user/ww_amr_batch/contigs/SRR2938315.contigs.fa	k141_50665	170	985	-	sul2_2	1-816/816	===============	0/0	100.00	100.00	resfinder	AY034138	sul2	Sulfamethoxazole

@@ -1,0 +1,65 @@
+## method	KMA
+## version	1.6.13
+## database	resfinder_3206
+## fragmentCount	25966133
+## bpTotal	7738524742
+## date	2026-07-14
+## command	kma -ipe "/home/user/ww_amr_batch/trimmed/SRR27639469_1.trimmed.fastq.gz" "/home/user/ww_amr_batch/trimmed/SRR27639469_2.trimmed.fastq.gz" -t_db /home/user/ww_amr_batch/kma_db/resfinder_3206 -o "/home/user/ww_amr_batch/kma_mapstat42/SRR27639469" -t 8 -ef 
+# refSequence	readCount	fragmentCount	mapScoreSum	refCoveredPositions	refConsensusSum	bpTotal	depthVariance	nucHighDepthVariance	depthMax	snpSum	insertSum	deletionSum	readCountAln	fragmentCountAln
+resfinder~~~OqxA_1~~~EU370913~~~Chloramphenicol;Ciprofloxacin;Nalidixic_acid;Trimethoprim OqxA	2	1	300	250	247	300	0.275059	50	2	4	0	0	2	1
+resfinder~~~OqxB_1~~~EU370913~~~Chloramphenicol;Ciprofloxacin;Nalidixic_acid;Trimethoprim OqxB	6	4	760	597	547	900	0.401872	3	4	54	1	6	6	4
+resfinder~~~aadA11_1~~~AY144590~~~Spectinomycin;Streptomycin aadA11	5	5	205	72	59	256	1.196849	42	5	17	14	0	5	5
+resfinder~~~aadA2_1~~~NC_010870~~~Spectinomycin;Streptomycin aadA2	11	6	1422	515	515	1356	2.018194	13	6	0	0	0	11	6
+resfinder~~~aadA6_1~~~AF140629~~~Spectinomycin;Streptomycin aadA6	98	94	3528	169	163	4150	352.676637	42	96	186	87	186	98	94
+resfinder~~~ant(3'')-Ia_1~~~X02340~~~Streptomycin ant(3'')-Ia	15	12	1877	690	672	1965	3.994389	0	7	29	3	45	15	12
+resfinder~~~ant(6)-Ia_3~~~KF864551~~~Streptomycin ant(6)-Ia	2	1	312	247	247	300	0.348551	0	2	0	0	0	2	1
+resfinder~~~ant(6)-Ib_1~~~FN594949~~~Streptomycin ant(6)-Ib	11	11	207	31	24	314	3.688912	38	11	30	25	16	11	11
+resfinder~~~aph(3'')-Ib_2~~~AF024602~~~Streptomycin aph(3'')-Ib	19	16	2723	726	726	2714	4.928560	0	8	35	0	0	19	16
+resfinder~~~aph(3'')-Ib_5~~~AF321551~~~Streptomycin aph(3'')-Ib	3	3	247	88	88	241	0.764627	70	3	4	0	0	3	3
+resfinder~~~aph(6)-Id_1~~~M28829~~~Streptomycin aph(6)-Id	30	19	4139	803	803	3995	7.050024	0	10	12	0	0	30	19
+resfinder~~~blaIND-4_1~~~AF219135~~~Amoxicillin;Ampicillin;Cefoxitin;Ceftazidime;Ertapenem;Imipenem;Meropenem blaIND-4	11	11	187	23	19	253	3.697114	22	11	33	0	0	11	11
+resfinder~~~blaOXA-119_1~~~DQ767903~~~ blaOXA-119	8	4	1195	292	292	1168	3.706428	0	4	7	0	0	8	4
+resfinder~~~blaOXA-145_1~~~FJ790516~~~Amoxicillin;Ampicillin;Aztreonam;Ceftazidime blaOXA-145	2	1	312	228	228	300	0.415060	0	2	0	0	0	2	1
+resfinder~~~blaOXA-205_1~~~JF800667~~~Amoxicillin;Ampicillin;Piperacillin blaOXA-205	17	12	2456	717	717	2363	2.254685	0	6	3	0	0	17	12
+resfinder~~~blaOXA-228_1~~~JQ422053~~~ blaOXA-228	16	16	376	18	18	280	5.200549	17	16	0	0	0	16	16
+resfinder~~~blaOXA-427_1~~~KX827604~~~Amoxicillin;Ampicillin;Aztreonam;Cefepime;Ceftazidime;Ertapenem;Imipenem;Meropenem;Piperacillin;Piperacillin+Tazobactam;Temocillin blaOXA-427	6	3	927	251	250	900	3.224066	0	6	3	0	0	6	3
+resfinder~~~blaOXA-58_1~~~AY665723~~~Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Imipenem;Meropenem blaOXA-58	30	22	4236	843	843	4113	6.984174	0	10	19	0	0	30	22
+resfinder~~~blaSGM-4_1~~~CP002798~~~ blaSGM-4	4	3	263	137	117	416	1.292385	44	4	59	0	0	4	3
+resfinder~~~blaSGM-5_1~~~NG049987~~~ blaSGM-5	3	2	341	214	189	450	0.904769	0	3	40	1	1	3	2
+resfinder~~~blaVEB-1_1~~~HM370393~~~Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Aztreonam;Cefepime;Cefotaxime;Cefoxitin;Ceftazidime;Piperacillin;Piperacillin+Tazobactam;Ticarcillin;Ticarcillin+Clavulanic_acid blaVEB-1	8	5	963	360	360	918	1.879600	0	4	1	0	0	8	5
+resfinder~~~blaVIM-48_1~~~KY362199~~~Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefepime;Cefixime;Cefotaxime;Cefoxitin;Ceftazidime;Ertapenem;Imipenem;Meropenem;Piperacillin;Piperacillin+Tazobactam blaVIM-48	18	18	593	65	54	689	11.497438	32	18	13	56	4	18	18
+resfinder~~~blaVIM-7_1~~~AJ536835~~~Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefepime;Cefixime;Cefotaxime;Cefoxitin;Ceftazidime;Ertapenem;Imipenem;Meropenem;Piperacillin;Piperacillin+Tazobactam blaVIM-7	11	11	253	23	23	253	3.386953	24	11	0	0	22	11	11
+resfinder~~~catB8_1~~~AF227506~~~Chloramphenicol catB8	2	1	185	99	99	173	0.432415	0	2	0	0	0	2	1
+resfinder~~~cfxA3_1~~~AF472622~~~Ampicillin cfxA3	8	4	1008	539	524	1140	1.870247	0	4	60	0	0	8	4
+resfinder~~~cfxA6_1~~~GQ342996~~~ cfxA6	6	3	810	502	498	789	0.841344	0	3	5	0	0	6	3
+resfinder~~~cmx_1~~~U85507~~~Chloramphenicol cmx	2	1	297	167	164	300	0.416215	0	2	5	0	0	2	1
+resfinder~~~dfrA14_5~~~DQ388123~~~Trimethoprim dfrA14	1	1	127	127	125	127	0.193803	0	1	2	0	0	1	1
+resfinder~~~dfrA15_1~~~AF156486~~~Trimethoprim dfrA15	1	1	156	150	150	150	0.216311	0	1	0	0	0	1	1
+resfinder~~~dfrA1_1~~~FJ591049~~~Trimethoprim dfrA1	2	2	120	54	54	108	0.403781	0	2	0	0	0	2	2
+resfinder~~~dfrA22_1~~~KC200566~~~Trimethoprim dfrA22	2	1	270	261	260	261	0.249419	0	1	1	0	0	2	1
+resfinder~~~dfrB3_2~~~FM877478~~~Trimethoprim dfrB3	1	1	119	137	129	137	0.243907	0	1	8	0	0	1	1
+resfinder~~~erm(B)_18~~~X66468~~~Clindamycin;Erythromycin;Lincomycin;Pristinamycin_IA;Quinupristin;Virginiamycin_S erm(B)	6	3	843	376	375	811	1.548358	0	4	0	1	0	6	3
+resfinder~~~erm(F)_3~~~M17808~~~Clindamycin;Erythromycin;Lincomycin;Pristinamycin_IA;Quinupristin;Virginiamycin_S erm(F)	4	3	537	312	312	513	0.861984	0	3	0	0	0	4	3
+resfinder~~~mef(A)_2~~~U83667~~~Azithromycin;Erythromycin mef(A)	2	1	299	296	293	296	0.183962	0	1	3	0	0	2	1
+resfinder~~~mef(A)_3~~~AF227520~~~Azithromycin;Erythromycin mef(A)	2	1	294	261	255	300	0.249678	39	2	6	0	0	2	1
+resfinder~~~mef(B)_1~~~FJ196385~~~Azithromycin;Erythromycin mef(B)	4	2	390	236	219	468	0.686123	45	3	34	0	0	4	2
+resfinder~~~mph(A)_1~~~D16251~~~Azithromycin;Erythromycin;Spiramycin;Telithromycin mph(A)	2	1	312	287	287	300	0.250179	13	2	0	0	0	2	1
+resfinder~~~mph(E)_1~~~DQ839391~~~Erythromycin mph(E)	733	470	101893	885	885	99185	153.629634	0	140	529	21	22	733	470
+resfinder~~~msr(D)_3~~~AF227520~~~Azithromycin;Erythromycin;Pristinamycin_IA;Quinupristin;Telithromycin;Virginiamycin_S msr(D)	10	6	1223	452	427	1499	3.039729	0	6	112	0	0	10	6
+resfinder~~~msr(E)_1~~~FR751518~~~Azithromycin;Erythromycin;Pristinamycin_IA;Quinupristin;Virginiamycin_S msr(E)	1393	830	199584	1476	1476	194418	181.177424	0	165	952	93	49	1393	830
+resfinder~~~nimA_1~~~X71444~~~Metronidazole nimA	2	1	306	179	178	300	0.701523	0	2	2	0	0	2	1
+resfinder~~~qnrS2_1~~~DQ485530~~~Ciprofloxacin qnrS2	7	4	784	314	314	742	2.079152	0	4	0	0	0	7	4
+resfinder~~~sul1_15~~~EF667294~~~Sulfamethoxazole sul1	24	14	3453	677	677	3333	10.197776	0	12	8	0	0	24	14
+resfinder~~~sul1_5~~~EU780013~~~Sulfamethoxazole sul1	6	5	439	145	145	403	1.692822	37	6	0	0	0	6	5
+resfinder~~~tet(33)_2~~~DQ390458~~~Doxycycline;Tetracycline tet(33)	2	1	312	300	300	300	0.185025	0	1	0	0	0	2	1
+resfinder~~~tet(39)_1~~~KT346360~~~Doxycycline;Tetracycline;Tigecycline tet(39)	214	146	32421	994	993	31822	2097.227351	21	167	188	35	15	214	146
+resfinder~~~tet(39)_2~~~CP044518~~~Doxycycline;Tetracycline;Tigecycline tet(39)	1444	913	193838	1188	1187	188229	1851.490734	0	246	920	53	55	1444	913
+resfinder~~~tet(44)_1~~~NZ_ABDU01000081~~~Doxycycline;Minocycline;Tetracycline tet(44)	10	7	1349	913	875	1496	1.066139	3	5	69	0	0	10	7
+resfinder~~~tet(44)_2~~~FN594949~~~Doxycycline;Minocycline;Tetracycline tet(44)	5	4	627	713	674	714	0.234475	1	2	39	0	0	5	4
+resfinder~~~tet(C)_3~~~AF055345~~~Doxycycline;Tetracycline tet(C)	6	4	750	626	626	720	0.396923	0	2	2	0	0	6	4
+resfinder~~~tet(E)_3~~~CP000645~~~Doxycycline;Tetracycline tet(E)	4	2	598	577	576	577	0.249310	0	1	1	0	0	4	2
+resfinder~~~tet(O)_1~~~M18896~~~Doxycycline;Minocycline;Tetracycline tet(O)	3	2	465	450	449	450	0.179443	0	1	1	0	0	3	2
+resfinder~~~tet(O/32/O)_4~~~AIOQ01000025~~~Doxycycline;Minocycline;Tetracycline tet(O/32/O)	4	2	509	300	297	594	0.519912	0	2	35	0	1	4	2
+resfinder~~~tet(Q)_1~~~L33696~~~Doxycycline;Minocycline;Tetracycline tet(Q)	16	8	2194	1084	1058	2288	1.646916	0	4	62	0	0	16	8
+resfinder~~~tet(Q)_2~~~X58717~~~Doxycycline;Minocycline;Tetracycline tet(Q)	6	3	872	368	365	860	0.951190	62	4	8	0	0	6	3
+resfinder~~~tet(X)_2~~~M37699~~~Doxycycline;Minocycline;Tetracycline;Tigecycline tet(X)	5	3	779	531	531	749	0.603496	0	2	0	0	0	5	3
