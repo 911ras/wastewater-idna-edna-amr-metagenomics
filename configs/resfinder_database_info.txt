@@ -4,5 +4,7 @@ resfinder	3206	nucl	2026-Jun-29
 Database path used during analysis:
 /home/user/micromamba/envs/amr/db/resfinder
 
-Public-release note:
-Run scripts/00_capture_reference_database.sh on the original analysis workstation before v1.0.0 release to create a versioned FASTA snapshot and SHA-256 checksum under references/.
+Public-release status:
+The exact 3,206-sequence ResFinder FASTA snapshot used for the analysis is identified by the SHA-256 checksum and provenance metadata retained under references/; the third-party FASTA itself is not redistributed.
+
+Public-release note: The exact 3,206-sequence ResFinder FASTA snapshot used in the analysis is not redistributed in this repository because third-party database redistribution terms could not be independently confirmed. Its SHA-256 checksum, database date, sequence count, provenance, and authoritative retrieval source are retained so the analysis reference can be identified and reconstructed.

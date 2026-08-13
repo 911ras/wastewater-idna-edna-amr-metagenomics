@@ -3,10 +3,14 @@ message: "Please cite this software/data release and the associated manuscript."
 title: "Wastewater iDNA/eDNA AMR metagenomics reproducibility workflow"
 type: software
 version: 1.0.0
-date-released: 2026-07-15
+date-released: 2026-08-13
 authors:
   - family-names: Singh
     given-names: Rajendra
+    affiliation: "Department of Convergent Environmental Science, Dongguk University, Goyang, Gyeonggi-do, South Korea"
+  - family-names: Kim
+    given-names: Keugtae
+    affiliation: "Department of Convergent Environmental Science, Dongguk University, Goyang, Gyeonggi-do, South Korea"
 keywords:
   - antimicrobial resistance
   - wastewater metagenomics

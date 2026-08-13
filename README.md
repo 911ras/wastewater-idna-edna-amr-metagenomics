@@ -2,7 +2,7 @@
 
 Version-controlled scripts, processed public-data derivatives, quality-control reports, and publication figures for the manuscript:
 
-**Assembly-aware cross-study metagenomics reveals a conserved intracellular-favouring acquired resistome across wastewater DNA fractions**
+**Assembly-aware cross-study metagenomics reveals a consistent intracellular-favouring acquired ARG mapping signal across wastewater DNA fractions**
 
 ## Main result
 
@@ -87,14 +87,7 @@ The original WSL shell scripts are retained for preprocessing, assembly/ResFinde
 
 These shell scripts preserve the paths used on the analysis workstation. Users rerunning the complete workflow on another system should edit the input/output path variables at the top of the scripts.
 
-The ResFinder analysis used an ABRicate database record of **3,206 nucleotide sequences dated 2026-Jun-29**. Before the public v1.0.0 release, the exact FASTA snapshot should be captured from the analysis workstation by running:
-
-```bash
-micromamba activate amr
-bash scripts/00_capture_reference_database.sh
-```
-
-This creates a versioned FASTA copy and SHA-256 checksum under `references/`. The reference FASTA is small enough to archive with the Zenodo release, subject to the database's redistribution terms. If redistribution is not appropriate, retain the checksum and snapshot metadata and document the authoritative retrieval source.
+The ResFinder analysis used an ABRicate database record of **3,206 nucleotide sequences dated 2026-Jun-29**. The exact reference used in the analysis is documented by its SHA-256 checksum, sequence count, database date, provenance metadata, and authoritative retrieval information under `references/` and `configs/`. Because third-party database redistribution terms could not be independently confirmed, the ResFinder FASTA itself is not redistributed in the public GitHub/Zenodo release.
 
 ## Analysis scripts
 
@@ -129,14 +122,14 @@ Each final figure is generated from deposited TSV tables by `scripts/18_make_pub
 Before publishing the repository:
 
 1. Complete `RELEASE_CHECKLIST.md`.
-2. Add the final author list to `CITATION.cff`.
-3. Capture/document the exact ResFinder reference snapshot.
+2. Confirm the repository creators in `CITATION.cff` and the Zenodo creator metadata.
+3. Confirm the ResFinder reference checksum, sequence count, date, and provenance metadata.
 4. Confirm the manuscript reports **fastp v1.0.1**, matching the workstation version record.
 5. Commit the repository to GitHub.
 6. Create Git tag/release `v1.0.0`.
 7. Archive the release in Zenodo and obtain the DOI.
 8. Run `bash scripts/98_regenerate_manifest.sh` after final repository edits.
-9. Insert the GitHub URL and Zenodo DOI into the manuscript Data availability and Code availability statements.
+9. GitHub URL and Zenodo DOI have been inserted into the manuscript Data and Code availability statements.
 
 ## License
 
