@@ -126,7 +126,7 @@ Before publishing the repository:
 3. Confirm the ResFinder reference checksum, sequence count, date, and provenance metadata.
 4. Confirm the manuscript reports **fastp v1.0.1**, matching the workstation version record.
 5. Commit the repository to GitHub.
-6. Create Git tag/release `v1.0.0`.
+6. Create Git tag/release `v1.0.1`.
 7. Archive the release in Zenodo and obtain the DOI.
 8. Run `bash scripts/98_regenerate_manifest.sh` after final repository edits.
 9. GitHub URL and Zenodo DOI have been inserted into the manuscript Data and Code availability statements.
