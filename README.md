@@ -134,3 +134,7 @@ Before publishing the repository:
 ## License
 
 Code is provided under the MIT License (`LICENSE`). Processed data tables and original figures are designated CC BY 4.0 in `DATA_LICENSE.md`, subject to the terms of the underlying public source data and third-party reference databases.
+
+## Archived release
+
+The validated v1.0.1 reproducibility release is archived in Zenodo at https://doi.org/10.5281/zenodo.21926732.

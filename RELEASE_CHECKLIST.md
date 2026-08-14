@@ -8,8 +8,8 @@
 - [x] Add the confirmed repository creators, Rajendra Singh and Keugtae Kim, to `CITATION.cff` and the Zenodo Creator List; update creator metadata later if additional qualifying repository creators are finalized.
 - [x] Confirm the manuscript Methods and Code availability report **fastp v1.0.1**, not v1.3.6. The analysis-workstation version record is `configs/software_versions.txt`.
 - [x] Insert the final GitHub URL in the manuscript Code availability statement.
-- [ ] Create GitHub release/tag `v1.0.1`.
-- [ ] Archive `v1.0.1` in Zenodo and obtain the DOI.
+- [x] Create GitHub release/tag `v1.0.1`.
+- [x] Archive `v1.0.1` in Zenodo; published as https://doi.org/10.5281/zenodo.21926732.
 - [x] Insert the Zenodo DOI in Data availability and Code availability.
 - [x] Re-run `bash scripts/run_reproduction.sh` and confirm `VALIDATION STATUS: PASSED`.
 - [x] Run `bash scripts/98_regenerate_manifest.sh` after any final edits.
